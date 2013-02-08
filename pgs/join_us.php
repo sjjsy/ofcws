@@ -23,7 +23,7 @@
 <h4>What Does It Cost?</h4>
 
 <p>
-	The membership fee for 2013 is 20 €. Some special events might have a small
+	The membership fee for 2013 is 20 euros. Some special events might have a small
 	additional fee but in these cases the amount is always informed clearly
 	beforehand. The weekly core sessions are free.
 </p>

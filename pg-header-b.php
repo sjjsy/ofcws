@@ -22,7 +22,7 @@
 
 			<ul class="breadcrumb">
 				<div class="attention" align="center">
-					This web site is under development.
+					. . .
 				</div>
 				<!-- <?php	include("pg-menu.php"); ?> -->
 			</ul>

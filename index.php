@@ -7,7 +7,7 @@
 </p>
 
 <p>
-	This site is under development and may contain broken functionalities and/or incomplete and misleading information.
+	The site is brand new, but should serve pretty well. Feel free to explore!
 </p>
 
 <?php	include("pg-footer.php"); ?>

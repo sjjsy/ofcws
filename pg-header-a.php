@@ -7,7 +7,7 @@
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width">
 		<meta name="keywords" content="">
-		<meta name="description" content="The official Otaniemi Fight Club's website." />
+		<meta name="description" content="Otaniemi Fight Club's official website." />
 		<meta name="author" content="azcorbin (a) gmail.com" />
 
 		<title>Otaniemi Fight Club</title>

@@ -15,7 +15,7 @@ A smarter website will replace this when deemed necessary. Do not invest too muc
 The architecture is a simple PHP hack. Each page includes a header and a footer file (pg-header.php, pg-footer.php) to wrap its content.
 
 
-## Instructions For Fellow Developers
+## For Webmasters
 
 1. Update the ModLog below when you make changes.
 2. Always use git to make sure the repo on github is the newest.

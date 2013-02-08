@@ -28,9 +28,8 @@ The architecture is a simple PHP hack. Each page includes a header and a footer 
 
 # ModLog:
 
-2013-02-08 : smarisa : Cleaned the repo and updated the readme.
-
-2013-02-07 : smarisa : Created the web site.
+*	2013-02-08 : smarisa : Cleaned the repo and updated the readme.
+*	2013-02-07 : smarisa : Created the web site.
 
 
 

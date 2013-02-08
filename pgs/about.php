@@ -1,24 +1,50 @@
 <?php	include("../pg-header.php"); ?>
 
+
 <h2>About</h2>
 
-<h3 id="purpose">Purpose</h3>
-<p class="nrm">This server is for private use and should not be of interest to any third party.</p>
-<p class="nrm">As a matter of a fact, it doesn't really serve much yet anyways... Mostly (during the course of its very short life) it has been used to provide a super simple read-only file access for my sharing needs etc.</p>
+
+<h4>The Club</h4>
+<p>
+	Otaniemi Fight Club (OFC) is an association that operates under the Student
+	Union of Aalto University. OFC is run by a small, but active group of
+	students who are interested in practicing	martial arts.
+</p>
+<p>
+	OFC organizes weekly sessions for wrestling and kickboxing. These make up
+	the core of OFC's event calendar. In addition to the regular sessions the
+	club organizes excursions to other martial arts clubs or schools or the like
+	to boost learning. To spice up, events unrelated to martial arts are also
+	included from time to time such as sauna nights, co-organized chillouts with
+	other associations and introductions to other fields of sports.
+</p>
 
 
-<h3 id="system">System</h3>
-<p class="nrm">This web site is served by <a href="http://www.lighttpd.net/">lighttpd</a> 1.4.26 running on a <a href="http://www.ubuntu.com/ubuntu">Ubuntu</a> 10.04 LTS DE (X always running) which in turn is operating on an old <a href="http://www.pcworld.idg.com.au/review/notebooks/toshiba/satellite_a100_psaara-055007/219902/specs">Toshiba A100 laptop</a>.</p>
-<p class="nrm">The internet access is provided wirelessly by a <a href="http://en.wikipedia.org/wiki/Linksys_WRT54G_series">Linksys WRT54GL</a> connected to the famous <a href="http://verkko.ayy.fi/">Otaniemi Trinet</a>.</p>
-<br>
-<p class="nrm">Note that the system is offline from time to time as most laptops are... :)</p>
+<h4>The Board of 2013</h4>
+
+<ul class="unstyled">
+	<li><b>President</b>: Samuel Marisa</li>
+	<li><b>Treasurer</b>: Bosco Martinez</li>
+	<li><b>Secretary</b>: Ville Sorsa</li>
+	<li>Other Members of the Board:
+		<ul style="list-style:none;">
+			<li>Mikko Salama</li>
+			<li>Heikki Jussila</li>
+		</ul>
+	</li>
+</ul>
+
+<p>
+	The board can be contacted via OFC's AYY mailing list (ofc-hallitus). For urgent matters call 040 841 58 77 (President).
+</p>
 
 
-<h3 id="author">Author</h3>
-<p class="nrm">The author is a student at Aalto University School of Science and lives in Otaniemi.</p>
-<p class="nrm">He thinks of this sort of computer literacy (setting up servers) as part of the general knowledge of a modern man...</p>
-<p class="nrm">He is fond of the <a href="http://www.theopensourcecommunity.com/">open source community</a> and the <a href="http://en.wikipedia.org/wiki/Linux">Linux operating system</a>. (see <a href="https://www.linux.com/learn/resource-center/376-linux-is-everywhere-an-overview-of-the-linux-operating-system">this</a>)</p>
-<p class="nrm">If you have anything to say.. Feel free to contact me at: azcorbin (?) gmail com</p>
+<h4>OFC Elsewhere on the Web</h4>
+<ul>
+	<li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- OFC's public Facebook group for everyday information flow</li>
+	<li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- OFC's weekly training session schedule and participant information</li>
+	<li><a href="http://ayy.fi/en/blog/profiles/7669-2/">AYY's Association List</a> -- A brief description of OFC at the AYY's list of associations.</li>
+</ul>
 
 
 <?php	include("../pg-footer.php"); ?>

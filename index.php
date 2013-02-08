@@ -2,16 +2,12 @@
 
 <h2>Home</h2>
 
-<p class="nrm">Welcome! This is the web site of Otaniemi Fight Club.</p>	
-<br>
+<p>
+	Welcome to the web site of Otaniemi Fight Club.
+</p>
 
-<div align="center">
-	<img src="data/gfx/bosco_in_action.png" width="300" />
-</div>
-<br>
-
-<div align="right">
-	<p class="nrm">Note that the site is under construction. Please be patient.</p>
-</div>
+<p>
+	This site is under development and may contain broken functionalities and/or incomplete and misleading information.
+</p>
 
 <?php	include("pg-footer.php"); ?>

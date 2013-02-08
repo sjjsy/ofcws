@@ -25,7 +25,9 @@
 	club organizes excursions to other martial arts clubs or schools or the like
 	to boost learning. To spice up, events unrelated to martial arts are also
 	included from time to time such as sauna nights, co-organized chillouts with
-	other associations and introductions to other fields of sports.
+	other associations and introductions to other fields of sports. See the
+	<a href="/pgs/events.php">events page</a> for information about current
+	plans.
 </p>
 
 

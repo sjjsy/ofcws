@@ -48,7 +48,7 @@
 	<li>Secondly, join <a href="http://www.facebook.com/groups/107657179302080/">the Facebook group</a> (to get in touch)</li>
 	<li>Register into <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a> (to better participate in the trainings)</li>
 	<li>Subscribe to <a href="https://list.ayy.fi/mailman/listinfo/ofc">the OFC mailing list</a> (to get all official information)</li>
-	<li>Finally, make yourself heard through any of these channels and come meet us at our next weekly session!</li>
+	<li>Finally, make yourself heard through any of these channels and come meet us at our <a href="/pgs/events.php">next</a> weekly session!</li>
 </ol>
 
 

@@ -1,3 +1,6 @@
+<h3>Activities</h3>
+
+
 <h4>Core</h4>
 
 <ul class="unstyled">

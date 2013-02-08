@@ -4,7 +4,7 @@
 
 	<head>
 
-		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width">
 		<meta name="keywords" content="Otaniemi,Fight,Club,martial,wrestling,kickboxing,boxing,karate,exercise,sports,Aalto,University,student,association,Espoo,Helsinki,paini,mattopaini,nyrkkeily,potkunyrkkeily,kamppailu,thainyrkkeily">
 		<meta name="description" content="Otaniemi Fight Club's official website." />

@@ -72,6 +72,7 @@
 	  // Some configuration one might want to change.
 	  // 
 	  if (!isset($charset)) $charset = "ISO-8859-1";
+	  $charset = "ISO-8859-1";
 
 	  // 
 	  // The following determines how many days/months/years we want to show from now on.

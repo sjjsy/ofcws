@@ -17,6 +17,12 @@
 		<link rel="stylesheet" href="/data/css/mezzanine.css">
 		<link rel="stylesheet" href="/data/css/ofc.css">
 
+		<script>
+			<?php
+				include "data/php/basic.php";
+			?>
+		</script>
+
 	</head>
 
 	<body id="body">

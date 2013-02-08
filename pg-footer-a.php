@@ -4,8 +4,8 @@
 			<div class="container">
 				<br style="clear:both">
 				<p>
-					Modified 2013-02-08<br>
-					All Rights Reserved
+					Created  2013-02-07, Modified 2013-02-08<br>
+					All Rights Reserved / Samuel Marisa / OFC
 				</p>
 			</div>
 		</footer>

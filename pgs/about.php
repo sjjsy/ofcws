@@ -8,7 +8,16 @@
 <p>
 	Otaniemi Fight Club (OFC) is an association that operates under the Student
 	Union of Aalto University. OFC is run by a small, but active group of
-	students who are interested in practicing	martial arts.
+	students with a mutual interest: martial arts.
+</p>
+<p>
+	Otaniemi Fight Club was founded on the sixth of May 2010 with a clear
+	purpose: <i>to enhance the opportunities of the students of Aalto University
+	to practice martial arts</i>. This is OFC's mission and what it pursues to
+	accomplish in many levels -- not just by offering some square meters of
+	tatami to train on, but also by providing information and a forum for its
+	members, and perhaps most importantly, the critical mass needed to
+	accomplish things a lone fighter might not.
 </p>
 <p>
 	OFC organizes weekly sessions for wrestling and kickboxing. These make up
@@ -21,6 +30,10 @@
 
 
 <h4>The Board</h4>
+
+<span class="subnote">
+	<a href="/pgs/boards.php">(see past boards)</a>
+</span>
 
 <ul class="unstyled">
 	<li><b>President</b>: Samuel Marisa</li>
@@ -35,7 +48,13 @@
 </ul>
 
 <p>
-	The board can be contacted via OFC's AYY mailing list (ofc-hallitus). For urgent matters call 040 841 58 77 (President).
+	The board can be contacted via
+	<ol>
+		<li>the board's mailing list: <?php echo hide_email('ofc-hallitus@ayy.list.fi'); ?>,</li>
+		<li>phone: 040 841 58 77 (President) -- recommended if the matter is urgent,</li>
+		<li>the <a href="http://www.facebook.com/groups/107657179302080/">Facebook group for members</a>, and if needbe via</li>
+		<li>the <a href="http://www.facebook.com/groups/122032444635141/">Facebook group of the board</a>.</li>
+	</ol>
 </p>
 
 

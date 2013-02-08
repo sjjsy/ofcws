@@ -63,7 +63,7 @@
 <h4>Note</h4>
 
 <p>
-	More up to date information about the event schedules can be found from OFC's <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a> and the <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a> service. Also, a google calendar will be soon available for subscribing.
+	More up to date information about the event schedules can be found from OFC's <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a> and the <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a> service. Also, a google calendar will be soon available for real-time information.
 </p>
 
 

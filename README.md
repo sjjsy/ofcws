@@ -7,6 +7,8 @@ A very simple PHP website to serve the needs of Otaniemi Fight Club.
 
 Designed to provide a platform for providing basic static information updated casually (interval of a few months) and direct visitors to more up to date sources for more precise and actual information.
 
+A smarter website will replace this when deemed necessary. Do not invest too much time nor energy into this!
+
 
 ## Architecture
 
@@ -20,7 +22,8 @@ The architecture is a simple PHP hack. Each page includes a header and a footer 
 3. tool.py offers easy git use:
 	* push your updates:  python tool.py --gpush "changed x"
 	* pull the newest version:  python tool.py --gpull
-4. Contact your colleagues if you have any hesitations!
+4. Read the "Purpose" section. Do not invest too much time here.
+5. Contact your colleagues if you have any hesitations!
 
 
 # ModLog:

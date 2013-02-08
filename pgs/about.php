@@ -20,7 +20,7 @@
 </p>
 
 
-<h4>The Board of 2013</h4>
+<h4>The Board</h4>
 
 <ul class="unstyled">
 	<li><b>President</b>: Samuel Marisa</li>

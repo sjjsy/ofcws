@@ -15,9 +15,9 @@
 	purpose: <i>to enhance the opportunities of the students of Aalto University
 	to practice martial arts</i>. This is OFC's mission and what it pursues to
 	accomplish in many levels -- not just by offering some square meters of
-	tatami to train on, but also by providing information and a forum for its
-	members, and perhaps most importantly, the critical mass needed to
-	accomplish things a lone fighter might not.
+	tatami to train on, but also by providing some equipment, information and a
+	forum for its members, and perhaps most importantly, the critical mass
+	needed to accomplish things a lone fighter might not.
 </p>
 <p>
 	OFC organizes weekly sessions for wrestling and kickboxing. These make up

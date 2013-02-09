@@ -32,6 +32,7 @@ The architecture is a simple PHP hack. Each page includes a header and a footer 
 
 # ModLog:
 
+*	2013-02-09 smarisa: Added file permission management to tool.py.
 *	2013-02-09 smarisa: Clarified the repo and the readme for collaborators.
 *	2013-02-08 smarisa: Added google calendar integration and event listings.
 *	2013-02-08 smarisa: Cleaned the repo and updated the readme.

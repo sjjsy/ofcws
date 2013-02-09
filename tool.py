@@ -17,9 +17,9 @@ from mutils import sysrunrv, gpush, gpull, simple_arg_parser
 def set_perms( args=[] ):
 	sysrunrv( 'find . -type d -exec chmod 755 "{}" \;' )
 	sysrunrv( 'find . -type f -exec chmod 600 "{}" \;' )
-	sysrunrv( 'chmod pgs/*php o+r' )
-	sysrunrv( 'chmod data/gfx/*jpg o+r' )
-	sysrunrv( 'chmod data/gfx/gallery/*jpg o+r' )
+	sysrunrv( 'find ./pgs/              -maxdepth 0 -type f -name "*php" -exec chmod o+r "{}" \;' )
+	sysrunrv( 'find ./data/gfx/         -maxdepth 0 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
+	sysrunrv( 'find ./data/gfx/gallery/ -maxdepth 0 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
 	return
 
 

@@ -14,6 +14,15 @@ from mutils import sysrunrv, gpush, gpull, simple_arg_parser
 ## Custom functionalities
 #
 
+def set_perms( args=[] ):
+	sysrunrv( 'find . -type d -exec chmod 755 "{}" \;' )
+	sysrunrv( 'find . -type f -exec chmod 600 "{}" \;' )
+	sysrunrv( 'chmod pgs/*php o+r' )
+	sysrunrv( 'chmod data/gfx/*jpg o+r' )
+	sysrunrv( 'chmod data/gfx/gallery/*jpg o+r' )
+	return
+
+
 def custom( args=[] ):
 
 	return

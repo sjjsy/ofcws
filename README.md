@@ -17,13 +17,16 @@ The architecture is a simple PHP hack. Each page includes a header and a footer 
 
 ## For Webmasters
 
-1. Update the ModLog below when you make changes.
-2. Always use git to make sure the repo on github is the newest.
-3. tool.py offers easy git use:
-	* push your updates:  python tool.py --gpush "changed x"
-	* pull the newest version:  python tool.py --gpull
-4. Read the "Purpose" section. Do not invest too much time here.
-5. Contact your colleagues if you have any hesitations!
+1.	Register into github, ask smarisa to add you as collaborator.
+2.	Pull the repo into your system.
+3. Update the ModLog below when you make changes.
+4.	Make the changes always thus: you@yoursystem -> git@github -> ofc@otax -- this makes permission handling easier and safer
+5. Always make sure the repo on github is the most up to date. Pull it on your system before editing.
+6. In ofc@otax.ayy.fi there is a few commands at ~/bin that provide easy git use:
+	* mgpush DESC  -- push your updates (no perms atm: do editing on yoursystem)
+	* mgpull       -- pull the newest version
+7. Read the "Purpose" section. Do not invest too much time here.
+8. Contact your colleagues if you have any hesitations!
 
 
 # ModLog:

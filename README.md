@@ -19,19 +19,21 @@ The architecture is a simple PHP hack. Each page includes a header and a footer 
 
 1.	Register into github, ask smarisa to add you as collaborator.
 2.	Pull the repo into your system.
-3. Update the ModLog below when you make changes.
-4.	Make the changes always thus: you@yoursystem -> git@github -> ofc@otax -- this makes permission handling easier and safer
-5. Always make sure the repo on github is the most up to date. Pull it on your system before editing.
-6. In ofc@otax.ayy.fi there is a few commands at ~/bin that provide easy git use:
+3.	For testing locally you need to configure host specific files such as settings.py. See the respective files at otax.
+4. Update the ModLog below when you make changes.
+5.	Make the changes always thus: you@yoursystem -> git@github -> ofc@otax -- this makes permission handling easier and safer
+6. Always make sure the repo on github is the most up to date. Pull it on your system before editing.
+7. In ofc@otax.ayy.fi there is a few commands at ~/bin that provide easy git use:
 	* mgpush DESC  -- push your updates (no perms atm: do editing on yoursystem)
 	* mgpull       -- pull the newest version
-7. Read the "Purpose" section. Do not invest too much time here.
-8. Contact your colleagues if you have any hesitations!
+8. Read the "Purpose" section. Do not invest too much time here.
+9. Contact your colleagues if you have any hesitations!
 
 
 # ModLog:
 
-*	2013-02-08 smarisa: Added google calendar integration and event listings
+*	2013-02-09 smarisa: Clarified the repo and the readme for collaborators.
+*	2013-02-08 smarisa: Added google calendar integration and event listings.
 *	2013-02-08 smarisa: Cleaned the repo and updated the readme.
 *	2013-02-07 smarisa: Created the web site.
 

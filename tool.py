@@ -20,6 +20,7 @@ def set_perms( args=[] ):
 	sysrunrv( 'find ./pgs/              -maxdepth 1 -type f -name "*php" -exec chmod o+r "{}" \;' )
 	sysrunrv( 'find ./data/gfx/         -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
 	sysrunrv( 'find ./data/gfx/gallery/ -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
+	sysrunrv( 'find ./data/css/         -maxdepth 1 -type f -name "*css" -exec chmod o+r "{}" \;' )
 	return
 
 

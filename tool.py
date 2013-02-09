@@ -21,6 +21,9 @@ def set_perms( args=[] ):
 	sysrunrv( 'find ./data/gfx/         -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
 	sysrunrv( 'find ./data/gfx/gallery/ -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
 	sysrunrv( 'find ./data/css/         -maxdepth 1 -type f -name "*css" -exec chmod o+r "{}" \;' )
+	sysrunrv( 'chmod o+r ./index.php' )
+	sysrunrv( 'chmod o+r ./favicon.ico' )
+	sysrunrv( 'chmod u+x ./tool.py' )
 	return
 
 

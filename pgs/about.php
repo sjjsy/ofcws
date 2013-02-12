@@ -4,7 +4,7 @@
 <h2>About</h2>
 
 
-<h4>The Club</h4>
+<h4 id="club">The Club</h4>
 <p>
 	Otaniemi Fight Club (OFC) is an association that operates under the Student
 	Union of Aalto University. OFC is run by a small, but active group of
@@ -31,7 +31,7 @@
 </p>
 
 
-<h4>The Board</h4>
+<h4 id="board">The Board</h4>
 
 <span class="subnote">
 	<a href="/pgs/boards.php">(see past boards)</a>
@@ -60,7 +60,7 @@
 </p>
 
 
-<h4>OFC Elsewhere on the Web</h4>
+<h4 id="web">OFC Elsewhere on the Web</h4>
 <ul>
 	<li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- OFC's public Facebook group for everyday information flow</li>
 	<li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- OFC's weekly training session schedule and participant information</li>

@@ -1,6 +1,6 @@
 <?php	include("../pg-header.php"); ?>
 
-<h2>Join Us</h2>
+<h2 id="joinus">Join Us</h2>
 
 <p>
 	Only OFC's members are allowed to fully participate in the club's activities.
@@ -10,7 +10,7 @@
 </p>
 
 
-<h4>Who Can Join?</h4>
+<h4 id="whocan">Who Can Join?</h4>
 
 <p>
 	OFC is primarily for the students of Aalto University and we might limit the
@@ -20,7 +20,7 @@
 </p>
 
 
-<h4>What Does It Cost?</h4>
+<h4 id="costs">What Does It Cost?</h4>
 
 <p>
 	The membership fee for 2013 is 20 euros. Some special events might have a small
@@ -29,7 +29,7 @@
 </p>
 
 
-<h4>Become a Member!</h4>
+<h4 id="join">Become a Member!</h4>
 
 <p>
 	Joining OFC is straight forward. Follow these steps:

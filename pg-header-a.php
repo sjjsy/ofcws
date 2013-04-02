@@ -4,23 +4,24 @@
 
 	<head>
 
-		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<meta name="viewport" content="width=device-width">
-		<meta name="keywords" content="Otaniemi,Fight,Club,martial,wrestling,kickboxing,boxing,karate,exercise,sports,Aalto,University,student,association,Espoo,Helsinki,paini,mattopaini,nyrkkeily,potkunyrkkeily,kamppailu,thainyrkkeily">
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="keywords" content="Otaniemi Fight Club,Otaniemi,Fight,Club,martial arts,martial,wrestling,submission wrestling,submission,kickboxing,kick,boxing,mixed martial arts,MMA,Brazilian jiu-jitsu,karate,self-defense,sports,exercise,Aalto,University,student,association,Espoo,Helsinki,Finland,paini,mattopaini,nyrkkeily,potkunyrkkeily,kamppailu,thainyrkkeily,itsepuolustus,urheilu" />
 		<meta name="description" content="Otaniemi Fight Club's official website." />
 		<meta name="author" content="azcorbin (t) gmail.com" />
 
 		<title>Otaniemi Fight Club</title>
 
-		<link rel="stylesheet" href="/data/css/bootstrap.css">
-		<link rel="stylesheet" href="/data/css/bootstrap.responsive.css">
-		<link rel="stylesheet" href="/data/css/mezzanine.css">
-		<link rel="stylesheet" href="/data/css/ofc.css">
+		<link rel="stylesheet" href="/static/css/bootstrap.css" />
+		<link rel="stylesheet" href="/static/css/bootstrap.responsive.css" />
+		<link rel="stylesheet" href="/static/css/mezzanine.css" />
+		<link rel="stylesheet" href="/static/css/ofc.css" />
+		<link rel="alternate" href="/static/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
 
 		<script>
 			<?php
-				include "data/php/basic.php";
-				include "data/php/ofc.php";
+				include "./static/php/basic.php";
+				include "./static/php/ofc.php";
 			?>
 		</script>
 

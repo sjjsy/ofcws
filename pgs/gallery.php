@@ -48,10 +48,10 @@
 
 				}
 
-				$a = "<li><div align=\"center\"><img src=\"/data/gfx/gallery/";
+				$a = "<li><div align=\"center\"><img src=\"/static/gfx/gallery/";
 				$b = "\" width=\"500\" /></div></li><br>";
 
-				foreach (getDirectoryList( "../data/gfx/gallery/" ) as $value)
+				foreach (getDirectoryList( "../static/gfx/gallery/" ) as $value)
 				{
 					print $a . $value . $b;
 				}

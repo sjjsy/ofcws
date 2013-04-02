@@ -56,22 +56,22 @@
 					<div class="panel">
 
 						<div align="center">
-							<img src="/data/gfx/logo.jpg" width="100%" />
+							<img src="/static/gfx/logo.jpg" width="100%" />
 						</div>
 						<br>
 
 						<div align="center">
-							<img src="/data/gfx/cartoon.jpg" width="100%" />
+							<img src="/static/gfx/cartoon.jpg" width="100%" />
 						</div>
 						<br>
 
 						<div align="center">
-							<img src="/data/gfx/kickboxing.jpg" width="100%" />
+							<img src="/static/gfx/kickboxing.jpg" width="100%" />
 						</div>
 						<br>
 
 						<div align="center">
-							<img src="/data/gfx/bosco_in_action__blacknwhite__800x600.jpg" width="100%" />
+							<img src="/static/gfx/bosco_in_action__blacknwhite__800x600.jpg" width="100%" />
 						</div>
 
 					</div>

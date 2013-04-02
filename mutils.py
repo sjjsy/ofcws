@@ -2,12 +2,12 @@
 #-*- coding: UTF-8 -*-
 
 
-# Python
+# python
 import os, datetime
 import time, shutil, subprocess, shlex
 
-# Local
-from settings import PROJECT_ROOT, PROJECT_LOG_ROOT
+# local
+from settings import ROOT, LOG_ROOT
 
 
 
@@ -15,8 +15,8 @@ from settings import PROJECT_ROOT, PROJECT_LOG_ROOT
 ## Logging
 #
 
-pflogcombined = os.path.join( PROJECT_LOG_ROOT, 'combined.log' )
-pflogsysrun   = os.path.join( PROJECT_LOG_ROOT, 'sysrun.log' )
+pflogcombined = os.path.join( LOG_ROOT, 'combined.log' )
+pflogsysrun   = os.path.join( LOG_ROOT, 'sysrun.log' )
 
 
 def add_log_row( pflog, s ):
@@ -33,7 +33,7 @@ def log( pflog, items ):
 	pflog_original = pflog
 
 	if not os.path.isabs( pflog ):
-		pflog = os.path.join( PROJECT_LOG_ROOT, pflog )
+		pflog = os.path.join( LOG_ROOT, pflog )
 
 	if os.path.splitext( pflog )[1][1:] != 'log':  pflog += '.log'
 

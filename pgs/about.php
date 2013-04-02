@@ -64,7 +64,7 @@
 <ul>
 	<li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- OFC's public Facebook group for everyday information flow</li>
 	<li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- OFC's weekly training session schedule and participant information</li>
-	<li><a href="http://ayy.fi/en/blog/profiles/7669-2/">AYY's Association List</a> -- A brief description of OFC at the AYY's list of associations.</li>
+	<li><a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a> -- A brief description of OFC at the AYY's list of associations.</li>
 </ul>
 
 

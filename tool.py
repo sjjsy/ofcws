@@ -13,11 +13,11 @@
 """
 
 
-# Python
+# python
 import os, sys
 
-# Local
-from settings import PROJECT_NAME, PROJECT_ROOT, PROJECT_LOG_ROOT, PROJECT_PID_ROOT
+# local
+from settings import PROJECT_NAME, ROOT, LOG_ROOT, PID_ROOT
 from mutils import sysrunrv, gpush, gpull, simple_arg_parser
 
 
@@ -31,15 +31,20 @@ def set_perms( args=[] ):
 		allowing the required permissions in order for the site to function.
 	"""
 
-	sysrunrv( 'find . -type d -exec chmod 755 "{}" \;' )
-	sysrunrv( 'find . -type f -exec chmod 600 "{}" \;' )
-	sysrunrv( 'find ./pgs/              -maxdepth 1 -type f -name "*php" -exec chmod o+r "{}" \;' )
-	sysrunrv( 'find ./data/gfx/         -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
-	sysrunrv( 'find ./data/gfx/gallery/ -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;' )
-	sysrunrv( 'find ./data/css/         -maxdepth 1 -type f -name "*css" -exec chmod o+r "{}" \;' )
-	sysrunrv( 'chmod o+r ./index.php' )
-	sysrunrv( 'chmod o+r ./favicon.ico' )
-	sysrunrv( 'chmod u+x ./tool.py' )
+	cmds = [
+		'find . -type d -exec chmod 755 "{}" \;',
+		'find . -type f -exec chmod 600 "{}" \;',
+		'find ./pgs/              -maxdepth 1 -type f -name "*php" -exec chmod o+r "{}" \;',
+		'find ./static/gfx/         -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;',
+		'find ./static/gfx/gallery/ -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;',
+		'find ./static/css/         -maxdepth 1 -type f -name "*css" -exec chmod o+r "{}" \;',
+		'chmod o+r ./index.php',
+		'chmod o+r ./favicon.ico',
+		'chmod u+x ./tool.py',
+	]
+
+	for cmd in cmds:
+		sysrunrv( cmd )
 
 	return
 

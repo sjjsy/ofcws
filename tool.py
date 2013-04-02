@@ -42,7 +42,7 @@ def set_perms( args=[] ):
 		'find ./feed/               -maxdepth 1 -type f              -exec chmod o+r "{}" \;',
 		'chmod o+r ./index.php',
 		'chmod o+r ./favicon.ico',
-		'chmod u+x ./tool.py',
+#		'chmod u+x ./tool.py',
 	]
 
 	for cmd in cmds:

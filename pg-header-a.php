@@ -21,7 +21,9 @@
 		<script>
 			<?php
 				include "./static/php/basic.php";
+				include "../static/php/basic.php";
 				include "./static/php/ofc.php";
+				include "../static/php/ofc.php";
 			?>
 		</script>
 

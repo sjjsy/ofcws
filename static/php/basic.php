@@ -43,7 +43,7 @@
 	//$document_root = "/home/antakae/www";  // you might want to use $_SERVER['DOCUMENT_ROOT'] here... (does not work for me)
 	$simplepie_cache = "./cache";
 	//require_once($document_root . "/function/simplepie/simplepie.inc");
-	require_once("simplepie/simplepie.inc");
+	require_once( "simplepie/simplepie.inc" );
 
 
 	function get_calendar_events(

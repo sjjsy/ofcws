@@ -19,7 +19,7 @@
 
 <p>
 	We also have
-	<a href="/static/rss.xml" title="The OFC Fight Feed" type="application/rss+xml">
+	<a href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml">
 		an RSS feed
 	</a>
 	to which you can subscribe and in order to follow the latest news.

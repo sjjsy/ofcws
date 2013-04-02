@@ -16,7 +16,7 @@
 		<link rel="stylesheet" href="/static/css/bootstrap.responsive.css" />
 		<link rel="stylesheet" href="/static/css/mezzanine.css" />
 		<link rel="stylesheet" href="/static/css/ofc.css" />
-		<link rel="alternate" href="/static/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
+		<link rel="alternate" href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
 
 		<script>
 			<?php

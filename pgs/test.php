@@ -12,7 +12,7 @@
 
 	echo '<p><b>"Hello World!"</b> -said a PHP script</p>';
 
-	include "../testfuncs.php";
+	include "../static/php/testfuncs.php";
 
 	print_hello_world();
 ?>

@@ -4,9 +4,44 @@
 		<title>The OFC Fight Feed</title>
 		<description>The RSS feed of Otaniemi Fight Club.</description>
 		<link>http://ofc.ayy.fi/</link>
-		<lastBuildDate>Mon, 01 Apr 2013 19:10:00 +0200 </lastBuildDate>
-		<pubDate>Mon, 01 Apr 2013 19:10:00 +0200 </pubDate>
+		<lastBuildDate>Mon, 27 May 2013 23:00:00 +0200 </lastBuildDate>
+		<pubDate>Mon, 27 May 2013 23:00:00 +0200 </pubDate>
 		<ttl>1800</ttl>
+		<item>
+			<title>True Training at Tatamisali</title>
+			<description>
+				This Monday we had the pleasure to rewelcome an experienced fighter,
+				Teemu, back into our ranks. His return brings about not only a
+				guarantee of hard trainings ahead, but also an increased pace of learning
+				for all of us.
+			</description>
+			<link>http://ofc.ayy.fi/</link>
+			<guid>ofc-rss00006</guid>
+			<pubDate>Mon, 27 May 2013 23:00:00 +0200 </pubDate>
+		</item>
+		<item>
+			<title>Bank Account Updated</title>
+			<description>
+				The club's bank account was changed. Do not make any transfers to the
+				old anymore! From now on, always confirm the correct account number
+				from the club's treasurer (currently Bosco).
+			</description>
+			<link>http://ofc.ayy.fi/</link>
+			<guid>ofc-rss00005</guid>
+			<pubDate>Fri, 24 May 2013 16:00:00 +0200 </pubDate>
+		</item>
+		<item>
+			<title>Beau Bashing at Otahalli</title>
+			<description>
+				Today we had a French boxer, Roman, match us. His strong experience
+				and skill makes it a privilidge to fight him. Our pro-looking boxing
+				made Otahalli bystanders observe our training in awe. Some good
+				on-the-spot marketing here, eh!?
+			</description>
+			<link>http://ofc.ayy.fi/</link>
+			<guid>ofc-rss00004</guid>
+			<pubDate>Mon, 20 May 2013 23:00:00 +0200 </pubDate>
+		</item>
 		<item>
 			<title>UFC and Tortillas at Kattosauna!</title>
 			<description>OFC organized an open event at Kattosauna: The latest matches in UFC, tortillas, and sauna -- What could be better?</description>

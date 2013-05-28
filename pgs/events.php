@@ -6,8 +6,8 @@
 
 <p>
 	Below is a listing of the upcoming events from our event schedule. However, it
-	doesn't repeat recurring events which for this spring are: wrestling on
-	Mondays & kickboxing for Wednesdays.
+	doesn't repeat recurring events which for this spring are: "wrestling" on
+	Mondays & "kickboxing" for Wednesdays.
 </p>
 
 <p>

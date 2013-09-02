@@ -1,0 +1,63 @@
+#
+#  @file:    ofc
+#  @author:  smarisa
+#  @date:    2013-04-02
+#
+#  references:
+#    http://www.justincarmony.com/blog/2011/10/24/setting-up-nginx-php-fpm-on-ubuntu-10-04/
+#
+
+
+server {
+
+  listen                83;
+  server_name           grey.eio.fi;
+
+  access_log            /srv/ofc/logs/access.log;
+  error_log             /srv/ofc/logs/error.log;
+
+
+  # serving static files
+
+  location /static/ {
+    alias              /var/www/ofc/static/;
+    access_log         off;
+    expires            30d;
+  }
+
+  location /media/ {
+    alias              /var/www/ofc/media/;
+    access_log         off;
+    expires            30d;
+  }
+
+
+  # serving php
+
+  location / {
+    root               /var/www/ofc;
+    index              index.php;
+  }
+
+  location ~ \.php$ {
+    expires            off;
+    include            /etc/nginx/fastcgi_params;
+    fastcgi_pass       127.0.0.1:9000;
+    fastcgi_index      index.php;
+    fastcgi_param      SCRIPT_FILENAME /var/www/ofc/$fastcgi_script_name;
+  }
+
+  ## Disable viewing .htaccess & .htpassword
+  location ~ /\.ht {
+    deny               all;
+  }
+}
+
+
+upstream backend {
+  server                127.0.0.1:9000;
+}
+
+
+
+

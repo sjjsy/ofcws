@@ -3,45 +3,30 @@
 
 
 body {
-	background:        #AAA;
-	color:             #222;
+	background:        #777;
 }
 
 
-#dmain {
-	background:        #FFF;
-	color:             #000;
-	margin:            0px auto;
-/*	width:             1200px; */
-}
-
-
-footer {
+.navbar, footer
+{
 	background:        #111;
-	color:             #666;
+}
+
+#dheader
+{
+	background:        #FFF;
 }
 
 
-.attention {
-	font-style:        bold;
-	color:             #A00;
+h1 {
+  font-weight:       bold;
 }
 
 
-h1 {  color:  #222;  }
-/*h4 {  font-size:  100%;  }*/
-
-
-.subnote {
-	font-size:         80%;
-	font-style:        italic;
-	color:             #333;
-}
-
-
-.unimportant {
-	font-size:         90%;
-	color:             #333;
+#dcontent
+{
+	background:        #FFF;
+  margin-bottom:     40px;
 }
 
 
@@ -50,5 +35,23 @@ h1 {  color:  #222;  }
 }
 
 
+.ul-unstyled
+{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
 
 
+@media only screen and (max-width : 991px)
+{
+  #theleft, #theright
+  {
+    display: none;
+  }
+}
+
+
+
+
+/* EOF */

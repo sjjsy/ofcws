@@ -4,9 +4,9 @@
           right bar
         -->
 
-        <div class="span3 right">
+        <div id="theright" class="col-md-2">
 
-          <div class="panel">
+          <div class="panel panel-default">
 
             <h3>Calendar</h3>
 

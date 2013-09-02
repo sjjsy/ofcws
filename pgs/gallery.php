@@ -9,7 +9,7 @@
 
 	<div align="center">
 		<h1>Gallery</h1>
-		<p><a href="/">Return</a></p>
+		<p><a style="color: white;" href="/">Return</a></p>
 	</div>
 
 	<br>
@@ -21,7 +21,7 @@
 
 			<?php
 
-				function getDirectoryList( $directory ) 
+				function getFSIS( $directory ) 
 				{
 
 					// create an array to hold directory list
@@ -44,14 +44,14 @@
 					closedir($handler);
 
 					// done!
-					return $results;
 
+          return $results;
 				}
 
 				$a = "<li><div align=\"center\"><img src=\"/static/gfx/gallery/";
 				$b = "\" width=\"500\" /></div></li><br>";
 
-				foreach (getDirectoryList( "../static/gfx/gallery/" ) as $value)
+				foreach (getFSIS( "../static/gfx/gallery/" ) as $value)
 				{
 					print $a . $value . $b;
 				}

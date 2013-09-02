@@ -5,55 +5,30 @@
     <div class="container">
 
       <!--
-        the displaying of messages over the title
+        The Title Header
       -->
-
-      <div align="center">
-        <h1>
-          O<span style="color:#AAA;">taniemi</span>
-          F<span style="color:#AAA;">ight</span>
-          C<span style="color:#AAA;">lub</span>
-        </h1>
+      <div id="dheader" class="row">
+        <div class="col-md-12" align="center">
+          <h1>
+            O<span style="color:#777;">taniemi</span>
+            F<span style="color:#777;">ight</span>
+            C<span style="color:#777;">lub</span>
+          </h1>
+        </div>
       </div>
 
       <!--
-        the location-in-site bar just under the title (eg. Home / Blog / Team).
+        The main body three column setup
       -->
-
-      <ul class="breadcrumb">
-        <div class="attention" align="center">
-          . . .
-        </div>
-        <!-- <?php  include("pg-menu.php"); ?> -->
-      </ul>
-
-    </div>
-
-
-    <!--
-      the main body three column setup
-    -->
-
-    <div class="container">
-      <div class="row">
+      <div id="dcontent" class="row">
 
         <!--
           left bar
         -->
 
-        <div class="span2 left">
+        <div id="theleft" class="col-md-2">
 
-          <div class="panel tree">
-
-            <ul class="nav nav-list navlist-menu-level-0">
-              <?php include("pg-menu.php"); ?>
-            </ul>
-
-            <br>
-
-          </div>
-
-          <div class="panel">
+          <div class="panel panel-default">
 
             <div align="center">
               <img src="/static/gfx/logo.jpg" width="100%" />
@@ -82,5 +57,4 @@
           middle "main" bar
         -->
 
-        <div class="span7 middle">
-
+        <div id="themain" class="col-md-8">

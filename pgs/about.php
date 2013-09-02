@@ -33,7 +33,7 @@
 
 <h4 id="board">The Board</h4>
 
-<span class="subnote">
+<span class="muted">
 	<a href="/pgs/boards.php">(see past boards)</a>
 </span>
 

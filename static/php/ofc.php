@@ -37,23 +37,26 @@
     foreach ( $years as $year )
     {
       echo '<h4>' . $year . '</h4>';
-      echo '<ul class="unstyled">';
+      echo '<ul class="ul-unstyled">';
       foreach ( $posts as $post )
       {
         if ( isset( $boards[$year][$post] ) )
         {
-          echo '<li>' . utf8_decode( $boards[$year][$post] ) . ' <span class="unimportant">(' . $post . ')</span></li>';
+          echo '<li><strong>' . utf8_decode( $boards[$year][$post] ) . '</strong><br/><small>(' . $post . ')</small></li>';
         }
       }
       if ( isset( $boards[$year]['Other'] ) )
       {
+        echo '<br/>';
         foreach ( $boards[$year]['Other'] as $member )
         {
-          echo '<li class="unimportant">' . utf8_decode( $member ) . '</li>';
+          echo '<li><strong>' . utf8_decode( $member ) . '</strong></li>';
         }
       }
       // TODO: listing oposts (the important nonboard people)
       echo '</ul>';
+      echo '<br/>';
+      echo '<br/>';
     }
 
     // done!

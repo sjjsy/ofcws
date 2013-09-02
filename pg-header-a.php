@@ -5,7 +5,7 @@
   <head>
 
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Otaniemi Fight Club,Otaniemi,Fight,Club,martial arts,martial,wrestling,submission wrestling,submission,kickboxing,kick,boxing,mixed martial arts,MMA,Brazilian jiu-jitsu,karate,self-defense,sports,exercise,Aalto,University,student,association,Espoo,Helsinki,Finland,paini,mattopaini,nyrkkeily,potkunyrkkeily,kamppailu,thainyrkkeily,itsepuolustus,urheilu" />
     <meta name="description" content="Otaniemi Fight Club's official website." />
     <meta name="author" content="azcorbin (hit me!) gmail.com" />
@@ -13,9 +13,8 @@
     <title>Otaniemi Fight Club</title>
 
     <link rel="shortcut icon" href="/favicon.png" />
-    <link rel="stylesheet" href="/static/css/bootstrap.css" />
-    <link rel="stylesheet" href="/static/css/bootstrap.responsive.css" />
-    <link rel="stylesheet" href="/static/css/mezzanine.css" />
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="/static/css/ofc.css" />
     <link rel="alternate" href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
 
@@ -44,29 +43,26 @@
       the topmost bar
     -->
 
-    <div class="navbar navbar-inverse">
-      <div class="navbar-inner">
-        <div class="container">
-
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="/">Otaniemi Fight Club</a>
-
-          <p class="tagline">A martial arts association that operates under the Student Union of Aalto University</p>
-
-          <div class="nav-collapse">
-
-            <ul class="nav pull-right">
-              <?php include("pg-menu.php"); ?>
-            </ul>
-
-          </div>
-
+          </button>
+          <a class="navbar-brand" href="/">Otaniemi Fight Club</a>
+          <!--<p class="tagline">A martial arts association that operates under the Student Union of Aalto University</p>-->
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav pull-right">
+            <?php include("pg-menu.php"); ?>
+          </ul>
         </div>
       </div>
+    </div>
+
+    <div style="height:50px;">
     </div>
 
     <div id="dmain">

@@ -1,21 +1,19 @@
     </div>
 
-    <footer>
-      <div id="dfooter" class="container">
-        <br style="clear:both;">
-        <p class="text-center muted">
-          Created 2013-02-07, Modified 2013-09-02</br>
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+      <div style="text-align: center;">
+        <small>
+          Created 2013-02-07, Modified 2013-09-02 <br/>
           All Rights Reserved / Samuel Marisa / OFC
-        </p>
+        </small>
       </div>
-    </footer>
+    </nav>
 
     <div id="javascripts">
       <script src="/static/js/jquery.min.js"></script>
       <script src="/static/js/bootstrap.min.js"></script>
       <script src="/static/js/ofc.js"></script>
     </div>
-
 
   </body>
 

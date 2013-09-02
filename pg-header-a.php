@@ -43,26 +43,21 @@
       the topmost bar
     -->
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">Otaniemi Fight Club</a>
-          <!--<p class="tagline">A martial arts association that operates under the Student Union of Aalto University</p>-->
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav pull-right">
-            <?php include("pg-menu.php"); ?>
-          </ul>
-        </div>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Otaniemi Fight Club</a>
       </div>
-    </div>
-
-    <div style="height:50px;">
-    </div>
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav pull-right">
+          <?php include("pg-menu.php"); ?>
+        </ul>
+      </div>
+    </nav>
 
     <div id="dmain">

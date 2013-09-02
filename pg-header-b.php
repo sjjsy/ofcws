@@ -7,13 +7,20 @@
       <!--
         The Title Header
       -->
-      <div id="dheader" class="row">
-        <div class="col-md-12" align="center">
+      <div class="row">
+        <div class="col-md-12">
           <h1>
             O<span style="color:#777;">taniemi</span>
             F<span style="color:#777;">ight</span>
             C<span style="color:#777;">lub</span>
           </h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p class="tagline">
+            A martial arts association operating under the Student Union of Aalto University
+          </p>
         </div>
       </div>
 

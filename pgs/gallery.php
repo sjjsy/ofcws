@@ -17,7 +17,7 @@
 
 	<div align="center" style="background:#111;padding:10%;">
 
-		<ul class="unstyled">
+		<ul class="ul-unstyled">
 
 			<?php
 

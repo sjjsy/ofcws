@@ -36,7 +36,7 @@
 </p>
 
 <ol>
-	<li>First, send an email to <?php echo hide_email('ofc-hallitus@ayy.list.fi'); ?> with the following infromation:
+	<li>First, send an email to <?php echo hide_email('ofc-hallitus@list.ayy.fi'); ?> with the following infromation:
 		<ol>
 			<li>Your name</li>
 			<li>Your phone number</li>

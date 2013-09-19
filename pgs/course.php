@@ -41,10 +41,10 @@
     </ul>
   </li>
   <li>
-    Four different teachers -- all students themselves: Mikko, Heikki, Bosco & Samuel
+    Two main teachers -- both students and experienced fighters themselves: Mikko & Bosco
   </li>
   <li>
-    Costs only 10 euros. Paid in cash at the end of the second session (first sessions free).
+    Costs only 15 euros. Paid in cash at the end of the second session (first session's free).
     <ul>
       <li>
         Includes the 2013 membership for the club (right to attend any of our weekly trainings and other activities).
@@ -89,7 +89,3 @@
 	<a href="/pgs/join_us.php">the join us page</a>
 	but include into the email a line indicating that you're registering for the course.
 	Can it get any simpler?
-</p>
-
-
-<?php	include("../pg-footer.php"); ?>

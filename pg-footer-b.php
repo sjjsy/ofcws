@@ -4,7 +4,7 @@
           right bar
         -->
 
-        <div id="theright" class="col-md-2">
+        <div id="theright" class="col-md-3">
 
           <div class="panel panel-default">
 

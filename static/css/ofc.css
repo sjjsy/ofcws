@@ -46,11 +46,16 @@ h1 {
 
 .ul-unstyled
 {
-  list-style-type: none;
-  padding: 0px;
-  margin: 0px;
+  list-style-type:   none;
+  padding:           0px;
+  margin:            0px;
 }
 
+
+#theleft .panel, #theright .panel
+{
+  padding:           10px;
+}
 
 @media only screen and (max-width : 991px)
 {

@@ -64,4 +64,4 @@
           middle "main" bar
         -->
 
-        <div id="themain" class="col-md-8">
+        <div id="themain" class="col-md-7">

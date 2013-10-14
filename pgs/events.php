@@ -14,13 +14,14 @@
 	You may subscribe to the calendar's XML feed directly using <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">this link</a>.
 </p>
 
+<!--
 <p>
 	We also have
 	<a href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml">
 		an RSS feed
 	</a>
 	to which you can subscribe in order to follow the latest news.
-</p>
+</p>-->
 
 <p>
    All that said, this website is designed to be a rather static source of information. The
@@ -38,4 +39,4 @@
 ?>
 
 
-<?php	include("../pg-footer.php"); ?>
+<?php	include("../pg-footer-a.php"); ?>

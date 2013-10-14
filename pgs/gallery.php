@@ -49,7 +49,7 @@
 				}
 
 				$a = "<li><div align=\"center\"><img src=\"/static/gfx/gallery/";
-				$b = "\" width=\"500\" /></div></li><br>";
+				$b = "\" width=\"100%\" /></div></li><br>";
 
 				foreach (getFSIS( "../static/gfx/gallery/" ) as $value)
 				{

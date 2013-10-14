@@ -10,7 +10,7 @@
 
 <p>
   You might be looking for information on our upcoming
-  <strong>Basics in Martial Arts</strong>
+  <strong>Intro to Mixed Martial Arts</strong>
   course -- if so, check out
   <a href="/pgs/course.php">
     this page.

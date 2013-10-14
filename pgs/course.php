@@ -142,7 +142,7 @@
 
 <p>
   Yes, its all in our Google Calendar. Subscribe to it at the
-	<a href="/pgs/join_us.php">events page</a>.
+	<a href="/pgs/events.php">events page</a>.
 </p>
 
 
@@ -227,7 +227,6 @@
 
 
 
-<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

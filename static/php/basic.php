@@ -72,7 +72,7 @@
     //
     // Some configuration one might want to change.
     //
-    if (!isset($charset)) $charset = "ISO-8859-1";
+    if (!isset($charset)) $charset = "UTF-8";  # "ISO-8859-1"
 
     //
     // The following determines how many days/months/years we want to show from now on.
@@ -144,12 +144,12 @@
 
       // Let's grab the Google-namespaced <gd:where> tag.
       $gd_where = $item->get_item_tags('http://schemas.google.com/g/2005', 'where');
-      $location = mb_convert_encoding( utf8_decode( $gd_where[0]['attribs']['']['valueString'] ), $charset );
+      $location = $gd_where[0]['attribs']['']['valueString'];  # mb_convert_encoding( utf8_decode(  ), $charset )
 
       // Let's grab the remaining stuff
-      $description = mb_convert_encoding( utf8_decode( $item->get_description() ), $charset );
+      $description = $item->get_description();  # mb_convert_encoding( utf8_decode(  ), $charset )
       $description = str_replace("\n","<br \>\n      ",$description);  // ###This shouldn't be hard-coded###
-      $title = mb_convert_encoding( utf8_decode( $item->get_title() ), $charset );
+      $title = $item->get_title();  # mb_convert_encoding( utf8_decode(  ), $charset )
       $link = $item->get_link();
       $map = "http://maps.google.com/?q=" . urlencode($location);
 

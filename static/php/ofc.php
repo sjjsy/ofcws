@@ -42,7 +42,7 @@
       {
         if ( isset( $boards[$year][$post] ) )
         {
-          echo '<li><strong>' . utf8_decode( $boards[$year][$post] ) . '</strong><br/><small>(' . $post . ')</small></li>';
+          echo '<li><strong>' . $boards[$year][$post] . '</strong><br/><small>(' . $post . ')</small></li>';  # utf8_decode( )
         }
       }
       if ( isset( $boards[$year]['Other'] ) )
@@ -50,7 +50,7 @@
         echo '<br/>';
         foreach ( $boards[$year]['Other'] as $member )
         {
-          echo '<li><strong>' . utf8_decode( $member ) . '</strong></li>';
+          echo '<li><strong>' . $member . '</strong></li>';  # utf8_decode( )
         }
       }
       // TODO: listing oposts (the important nonboard people)

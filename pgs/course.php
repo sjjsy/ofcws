@@ -256,7 +256,11 @@
   this course and OFC's fourth calendar year with a feast of beefy self-made high quality
   hamburgers, fries and some appropriate video material at Kylän olohuone (might change)
   and everyone who participated in this course is welcome for free.
-  Vote for the date that best suits you at our
+  Vote for the date that best suits your schedules at
+	<a href="http://www.facebook.com/groups/107657179302080/561631347237992/">
+    this post
+  </a>
+  in our
 	<a href="http://www.facebook.com/groups/107657179302080/">
 	  FB group
   </a>.
@@ -331,7 +335,6 @@
 
 
 
-<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

@@ -1,4 +1,4 @@
-<?php	include("../pg-header.php"); ?>
+<?php	$thetitle='Events | '; include("../pg-header.php"); ?>
 
 
 <h2>Events</h2>
@@ -27,7 +27,7 @@
    All that said, this website is designed to be a rather static source of information. The
 	<a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>
 	and <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a>
-   services offer the most up-to-date and valid information.
+   services offer more up-to-date and valid information.
 </p>
 
 <h3>Upcoming Events</h3>

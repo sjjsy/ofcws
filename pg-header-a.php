@@ -11,7 +11,7 @@
     <meta name="description" content="Otaniemi Fight Club's official website." />
     <meta name="author" content="azcorbin (hit me!) gmail.com" />
 
-    <title>Otaniemi Fight Club</title>
+    <title><?php echo $thetitle; ?>Otaniemi Fight Club</title>
 
     <link rel="shortcut icon" href="/favicon.png" />
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">

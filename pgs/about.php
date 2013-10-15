@@ -1,4 +1,4 @@
-<?php	include("../pg-header.php"); ?>
+<?php	$thetitle='About | '; include("../pg-header.php"); ?>
 
 
 <h2>About</h2>

@@ -1,4 +1,4 @@
-<?php	include("../pg-header.php"); ?>
+<?php	$thetitle='Boards | '; include("../pg-header.php"); ?>
 
 
 <div align="center">

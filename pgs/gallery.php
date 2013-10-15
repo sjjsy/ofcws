@@ -1,4 +1,4 @@
-<?php include("../pg-header-a.php"); ?>
+<?php $thetitle='Gallery | '; include("../pg-header-a.php"); ?>
 
 
 <!--

@@ -1,4 +1,4 @@
-<?php	include("../pg-header.php"); ?>
+<?php	$thetitle='Join Us | '; include("../pg-header.php"); ?>
 
 <h2 id="joinus">Join Us</h2>
 

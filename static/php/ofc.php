@@ -25,7 +25,7 @@
         "Secretary"      => "Sami Pekkala",
         "Other"          => array( "Heikki Jussila" ),
       ),
-      "2010" => array(
+      "2010-11" => array(
         "President"      => "Bosco Martinez",
         "Vice President" => "Sami Pekkala",
         "Treasurer"      => "Olli Penttilä",

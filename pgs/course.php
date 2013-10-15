@@ -321,7 +321,7 @@
   Also join
 	<a href="http://on.fb.me/19Lhi9p">
 	  the Facebook event
-	</a>.
+	</a>
 	for the course!
 </p>
 
@@ -331,7 +331,6 @@
 
 
 
-<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

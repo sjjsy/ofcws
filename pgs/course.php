@@ -153,6 +153,20 @@
         You and Me!
       </td>
     </tr>
+    <tr>
+      <td>
+        2013-1X-XX Fightburgerfest
+      </td>
+      <td>
+        TBD
+      </td>
+      <td>
+        UFC
+      </td>
+      <td>
+        OFC
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -234,7 +248,7 @@
 
 
 <h4>
-  The Afterparty
+  Fightburgerfest?
 </h4>
 
 <p>
@@ -318,6 +332,4 @@
 <!-- EOF -->
 <!-- EOF -->
 
-<!-- EOF -->
-<!-- EOF -->
 <!-- EOF -->

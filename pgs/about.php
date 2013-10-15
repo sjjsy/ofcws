@@ -59,6 +59,11 @@
 	</ol>
 </p>
 
+<p>
+	You can also give us feedback, share ideas or write us anything you have on your mind using
+	<a href="http://bit.ly/164pG4K">this form</a>. We'll be happy to hear from you!
+</p>
+
 
 <h4 id="web">OFC Elsewhere on the Web</h4>
 <ul>

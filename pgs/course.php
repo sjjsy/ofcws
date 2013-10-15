@@ -311,16 +311,18 @@
   How to Register?
 </h3>
 
-
 <p>
-  Follow the instructions at 
-	<a href="/pgs/join_us.php">the join us page</a>
-	but include into the email a line indicating that you're registering for the course.
-	Could it get any simpler?
+  Register to the course using
+	<a href="http://bit.ly/1coFsXF">this form</a>.
+	You'll simultaneously register as a member.
 </p>
 
 <p>
-  You can also share any suggestions or ideas or ask anything that's on your mind. We'll be happy to hear from you!
+  Also join
+	<a href="http://on.fb.me/19Lhi9p">
+	  the Facebook event
+	</a>.
+	for the course!
 </p>
 
 
@@ -331,5 +333,9 @@
 
 <!-- EOF -->
 <!-- EOF -->
-
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
 <!-- EOF -->

@@ -80,7 +80,7 @@
         Stand-up Fighting 2
       </td>
       <td>
-        Undisclosed
+        Heikki Jussila
       </td>
     </tr>
     <tr>
@@ -331,7 +331,6 @@
 
 
 
-<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

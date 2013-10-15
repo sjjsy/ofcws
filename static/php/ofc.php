@@ -7,7 +7,7 @@
   function list_boards()
   {
     // create an array to hold the data
-    $years  = array( "2013", "2012", "2010" );
+    $years  = array( "2013", "2012", "2010-11" );
     $posts  = array( "President", "Vice President", "Treasurer", "Secretary" );
     $oposts = array( "Inspector" );
 

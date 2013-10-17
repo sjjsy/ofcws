@@ -18,7 +18,7 @@
   In case you're completely new to MMA or martial arts in general
   and wonder why you should invest your time in it,
   start by laying an eye on our
-	<a href="/pgs/why.php">why -page</a>.
+	<a href="/pgs/why.php">why page</a>.
 </p>
 
 

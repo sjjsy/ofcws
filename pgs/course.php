@@ -262,7 +262,7 @@
 <p>
   In December (date yet TBD) we will be celebrating the ending of
   this course and OFC's fourth calendar year with a feast of beefy self-made high quality
-  hamburgers, fries and some appropriate video material at Kylän olohuone (might change)
+  hamburgers, fries and some appropriate video material
   and everyone who participated in this course is welcome for free.
   Vote for the date that best suits your schedules at
 	<a href="http://www.facebook.com/groups/107657179302080/561631347237992/">

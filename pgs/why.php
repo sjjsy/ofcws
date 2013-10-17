@@ -156,9 +156,9 @@
               Accidents.
             </strong>
             You'll better cope with various accidents like tripping on ice and crashing
-            with a bicycle are a lesser threat when you've trained yourself to
+            with a bicycle. They form a lesser threat when you've trained yourself to
             avoid, evade, block and resist impacts every week for years.
-            You know how to fall. You know when and how to protect what's most important.
+            You know how to fall. You know when, how and what to protect.
           </p>
         </li>
         <li>
@@ -189,11 +189,78 @@
 </ol>
 
 
+<h4 id="otheropinions">
+  Other Opinions
+</h4>
+
+<p>
+  I asked some of my friends to comment on this and they gave a few more points:
+  <em>
+  <ul class="ul-unstyled">
+    <li>
+      <p>
+        "There simply isn't an activity on earth that is as ultimate as MMA."
+      </p>
+    </li>
+    <li>
+      <p>
+        "The freedom in MMA permits full and creative use of your body and wit. Your strategy is not predictated in a rulebook."
+      </p>
+    </li>
+    <li>
+      <p>
+        "MMA offers virtually infinite opportunities for learning and development."
+      </p>
+    </li>
+    <li>
+      <p>
+        "MMA as many other martial arts are also philosophical. If you thought MMA is just about forcing men to submit you're beyond mistaken. Things I've learned from martial arts have propelled me to succeed in my life as a whole."
+      </p>
+    </li>
+    <li>
+      <p>
+        "How many sports can you name with 40-year-olds still on the top? MMA isn't just about force and testosterone."
+      </p>
+    </li>
+    <li>
+      <p>
+        "Fighting is in our DNA -- as Dana White said. That's why it's so natural."
+      </p>
+    </li>
+    <li>
+      <p>
+        "Another great thing in MMA is that while it's fun to practice it's also exciting to watch."
+      </p>
+    </li>
+    <li>
+      <p>
+        "If you're very very good in football, then you're very very good in football,
+        but that's about it. With MMA, that's not the case.
+        Great mixed martial artists are tremendous athletes and often good in almost
+        all other sports as well. That's because of the wide array of corporal and mental
+        challenges MM-artists have had to tackle to develop themselves."
+      </p>
+    </li>
+    <li>
+      <p>
+        "You will never understand what MMA is all about unless you've given it a fair chance."
+      </p>
+    </li>
+  </ul>
+  </em>
+</p>
+
+
 
 
 <h3 id="related">
   Related
 </h3>
+
+<p>
+  We at Otaniemi Fight Club do not support or agree with everything behind these links,
+  but nevertheless it might be interesting/entertaining for you to take a peek:
+</p>
 
 
 <ul>
@@ -220,6 +287,13 @@
 <h3 id="videos">
   Videos (Youtube)
 </h3>
+
+<p>
+  These videos aren't a good definition of what and why we practice MMA nor how we perceive it.
+  But as with the other links, it might be interesting for you to take an equal peek on these.
+  Also feel free to browse the web for more
+  -- These were the fruits of just a couple of minutes of googling. Enjoy getting pumped:
+</p>
 
 
 <h4>

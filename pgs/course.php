@@ -9,8 +9,16 @@
 <h3 id="what">
   What?
 </h3>
+
 <p>
-  We are organizing an <strong>Intro to Mixed Martial Arts</strong> course this November -- and <strong>you're going to be there</strong>!
+  We are organizing an <strong>Intro to Mixed Martial Arts</strong> course this November!
+</p>
+
+<p>
+  In case you're completely new to MMA or martial arts in general
+  and wonder why you should invest your time in it,
+  start by laying an eye on our
+	<a href="/pgs/why.php">why -page</a>.
 </p>
 
 
@@ -335,6 +343,16 @@
 
 
 
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
+<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

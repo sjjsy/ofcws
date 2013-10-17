@@ -43,6 +43,21 @@
 			Wikipedia: MMA -- Mixed martial arts
 		</a>
 	</li>
+	<li>
+		<a href="http://en.wikipedia.org/wiki/Mixed_martial_arts_rules">
+			Wikipedia: MMA Rules
+		</a>
+	</li>
+	<li>
+		<a href="http://www.findingdulcinea.com/guides/Sports/Mixed-Martial-Arts.pg_03.html">
+			An example of a random article you'll easily find with google. Go ahead and find more yourself.
+		</a>
+	</li>
+	<li>
+		<a href="http://uk.askmen.com/sports/bodybuilding_200/210_fitness_tip.html">
+			Ok, here's another one ;)
+		</a>
+	</li>
 </ul>
 
 

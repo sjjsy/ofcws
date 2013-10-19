@@ -125,7 +125,7 @@
             that your body has limits. It's healthy to feel the temptation to submit and quit
             and the feelings of exhaustion, of powerlessness, of submission and of defeat.
             It's equally healthy to feel feelings of power, achievement, success and victory.
-            These things keep your animal (male) brain sane and relax, and they relieve stress.
+            These things keep your animal (male or female) brain sane and relax, and they relieve stress.
             MMA teaches you to seek these feelings, learn from them, and relish them.
           </p>
         </li>
@@ -168,8 +168,14 @@
             </strong>
             You'll develop a healthy attitude towards physical contact and violence
             and learn to control yourself and your agression.
-            You'll also learn empathy and trust and most of all: discipline and willpower.
-            These are things that shape who you are and who you'll become.
+            You'll also learn empathy and trust and most of all:
+            discipline and <strong>willpower</strong>.
+            <em>These are things that shape who you are and who you'll become.</em>
+            MMA trainings aren't always easy, nice and pleasing.
+            Sometimes your opponent seems way too challenging for you. Sometimes you'll get hit
+            but MMA teaches you regroup yourself, rebelieve in yourself and continue moving
+            forward with twice the determination, despite -- or should I say <em>because</em>
+            -- of the hits.
           </p>
         </li>
         <li>
@@ -194,7 +200,8 @@
 </h4>
 
 <p>
-  I asked some of my friends to comment on this and they gave a few more points:
+  I asked some of my friends to comment on this and they gave
+  <strong>a few more points</strong>:
   <em>
   <ul class="ul-unstyled">
     <li>

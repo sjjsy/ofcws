@@ -52,7 +52,7 @@
 <p>
 	The board can be contacted via
 	<ol>
-		<li>the board's mailing list: <?php echo hide_email('ofc-hallitus@ayy.list.fi'); ?>,</li>
+		<li>the board's mailing list: <?php echo hide_email('ofc-hallitus@list.ayy.fi'); ?>,</li>
 		<li>phone: 040 841 58 77 (President) -- recommended if the matter is urgent,</li>
 		<li>the <a href="http://www.facebook.com/groups/107657179302080/">Facebook group for members</a>, and if needbe via</li>
 		<li>the <a href="http://www.facebook.com/groups/122032444635141/">Facebook group of the board</a>.</li>

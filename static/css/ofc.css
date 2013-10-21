@@ -52,6 +52,12 @@ h1 {
 }
 
 
+.strchd {
+  width:         100%;
+  height:        100%;
+}
+
+
 #theleft .panel, #theright .panel
 {
   padding:           10px;
@@ -65,7 +71,17 @@ h1 {
   }
 }
 
+@media only screen and (max-height : 700px)
+{
+  .navbar-fixed-bottom
+  {
+    display: none;
+  }
+}
 
 
 
-/* EOF */
+
+/*
+ * EOF
+*/

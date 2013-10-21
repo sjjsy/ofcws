@@ -1,4 +1,10 @@
-<?php header('Content-Type:text/html; charset=utf-8'); ?>
+<?php
+  header( 'Content-Type:text/html; charset=utf-8' );
+  $thetitle = '';
+  $vpfjs = array();
+  include 'static/php/basic.php';
+  include 'static/php/ofc.php';
+?>
 <!DOCTYPE html>
 
 <html>
@@ -17,24 +23,10 @@
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     <link rel="stylesheet" href="/static/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="/static/css/ofc.css" />
-    <link rel="alternate" href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
 
-    <script>
-      <?php
-        foreach ( array("basic.php", "ofc.php") as $file )
-        {
-          foreach ( array(".", "..") as $pd )
-          {
-            $pf = $pd . "/static/php/" . $file;
-            if ( file_exists( $pf ) )
-            {
-              include $pf;
-              break;
-            }
-          }
-        }
-      ?>
-    </script>
+    <?php if ( isset( $vpfss ) ) {  foreach ( $vpfss as $pfss ) {  echo '<link rel="stylesheet" href="' . $pfss . '">';  }  } ?>
+
+    <link rel="alternate" href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml" />
 
   </head>
 

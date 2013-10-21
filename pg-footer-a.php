@@ -13,6 +13,12 @@
       <script src="/static/js/jquery.min.js"></script>
       <script src="/static/js/bootstrap.min.js"></script>
       <script src="/static/js/ofc.js"></script>
+      <?php
+        foreach ( $vpfjs as $pfjs )
+        {
+          echo '<script src="' . $pfjs . '"></script>';
+        }
+      ?>
     </div>
 
   </body>

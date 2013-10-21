@@ -1,71 +1,62 @@
-<?php $thetitle='Gallery | '; include("../pg-header-a.php"); ?>
+<?php
+  $thetitle = 'Gallery | ';
+  $vpfss    =  array();
+  $vpfss[]  = '/static/css/gallery.css';
+  include( "../pg-header-a.php" );
+?>
 
 
-<!--
-	main content wrapper
--->
+<div id="dgallery">
 
-<div class="container">
+  <div id='dslider' class='swipe'>
+    <div class='swipe-wrap'>
+	    <?php
+		    $a = '<div class="glrytrgt" style="background:url(../static/gfx/gallery/';
+		    $b = ') center no-repeat; background-size:contain;"><span>';
+		    $c = '</span></div>';
+		    foreach ( gvnf( '../static/gfx/gallery/' ) as $indx => $nf )
+		    {
+			    print $a . $nf . $b . $c;  # ($indx + 1)
 
-	<div align="center">
-		<h1>Gallery</h1>
-		<p><a style="color: white;" href="/">Return</a></p>
-	</div>
+		    }
+	    ?>
+      <!--
+      <div class="glrytrgt">1</div>
+      <div class="glrytrgt">2</div>
+      <div class="glrytrgt">3</div>
+      -->
+    </div>
+  </div>
 
-	<br>
-	<br>
+  <div style='text-align:center;padding-top:20px;'>
+    <button type="button" class="btn btn-xs" onclick='glry.prev()'>prev</button> 
+    <button type="button" class="btn btn-xs" onclick='glry.next()'>next</button>
+  </div>
 
-	<div align="center" style="background:#111;padding:10%;">
+  <br/>
 
-		<ul class="ul-unstyled">
+  <p>
+    Something simple to offer <em>a little</em> insight into what our trainings
+    have looked like (some shots are very old).
+  </p>
 
-			<?php
+  <p>
+    We at OFC prefer training to posing.
+    Consequently we have very few photos to showcase.
+    We <em>most humbly</em> ask you to stop browsing and
+    start scheduling yourself a chance to
+    check out the real deal at one of our trainings!
+  </p>
 
-				function getFSIS( $directory ) 
-				{
-
-					// create an array to hold directory list
-					$results = array();
-
-					// create a handler for the directory
-					$handler = opendir($directory);
-
-					// open directory and walk through the filenames
-					while ($file = readdir($handler)) {
-
-						// if file isn't this directory or its parent, add it to the results
-						if ($file != "." && $file != "..") {
-							$results[] = $file;
-						}
-
-					}
-
-					// tidy up: close the handler
-					closedir($handler);
-
-					// done!
-
-          return $results;
-				}
-
-				$a = "<li><div align=\"center\"><img src=\"/static/gfx/gallery/";
-				$b = "\" width=\"100%\" /></div></li><br>";
-
-				foreach (getFSIS( "../static/gfx/gallery/" ) as $value)
-				{
-					print $a . $value . $b;
-				}
-
-			?>
-
-		</ul>
-
-	</div>
-
-	<br>
-	<br>
+  <p><a class="rtrn" href="/">Return</a></p>
 
 </div>
 
+<!-- <- SWIPE -->
 
-<?php include("../pg-footer-a.php"); ?>
+
+<?php
+  $vpfjs[] = '/static/js/swipe.js';
+  $vpfjs[] = '/static/js/gallery.js';
+  include( "../pg-footer-a.php" );
+?>

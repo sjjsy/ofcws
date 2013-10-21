@@ -1,0 +1,63 @@
+/*
+ * CSS for the gallery
+*/
+
+
+
+
+.swipe {
+  overflow:      hidden;
+  visibility:    hidden;
+  position:      relative;
+}
+
+.swipe-wrap {
+  overflow:      hidden;
+  position:      relative;
+}
+
+.swipe-wrap > div {
+  float:         left;
+  width:         100%;
+  position:      relative;
+}
+
+
+body {
+  background:    #111;
+}
+
+#dgallery {
+  text-align:    center;
+  max-width:     600px;
+  margin:        auto;
+}
+
+#dgallery p {
+  color:         #AAA;
+}
+
+#dgallery a.rtrn {
+  color:         white;
+}
+
+#dslider {
+  width:         100%;
+}
+
+.glrytrgt {
+  background:    #F00;
+  color:         #FFF;
+  height:        500px;
+}
+
+.glrytrgt span {
+  color:         #666;
+}
+
+
+
+
+/*
+ * EOF
+*/

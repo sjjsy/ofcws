@@ -38,7 +38,7 @@
             MMA stresses your bones, joints, neck, feet, hands, ankles, and almost every other part
             of your body you could think of and we all know that frequent moderate stress triggers
             the body to strengthen itself; Wrestlers have <i>grown themselves robust</i>.
-            Streching and reach exercises and things that dancers and acrobats alike do also form
+            Stretching and reach exercises and things that dancers and acrobats alike do also form
             an integral part in developing MMA-capable -- versatile -- physique.
           </p>
         </li>
@@ -125,14 +125,15 @@
             that your body has limits. It's healthy to feel the temptation to submit and quit
             and the feelings of exhaustion, of powerlessness, of submission and of defeat.
             It's equally healthy to feel feelings of power, achievement, success and victory.
-            These things keep your animal (male or female) brain sane and relax, and they relieve stress.
+            These things keep your animal (male and female) brain sane and relax, and they relieve stress.
             MMA teaches you to seek these feelings, learn from them, and relish them.
           </p>
         </li>
       </ul>
     </p>
     <p>
-      Regular determined training also helps you keep good sleep and eating habits which is very important.
+      Regular determined training also helps you maintain good sleep and eating habits
+      which is very important.
     </p>
   </li>
 
@@ -173,7 +174,7 @@
             <em>These are things that shape who you are and who you'll become.</em>
             MMA trainings aren't always easy, nice and pleasing.
             Sometimes your opponent seems way too challenging for you. Sometimes you'll get hit
-            but MMA teaches you regroup yourself, rebelieve in yourself and continue moving
+            but MMA teaches you to regroup yourself, rebelieve in yourself and continue moving
             forward with twice the determination, despite -- or should I say <em>because</em>
             -- of the hits.
           </p>

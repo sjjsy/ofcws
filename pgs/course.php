@@ -46,7 +46,7 @@
       Topic (intro to)
     </th>
     <th>
-      Teacher
+      Instructor
     </th>
   </thead>
   <tbody>

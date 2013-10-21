@@ -36,16 +36,13 @@
   <br/>
 
   <p>
-    Something simple to offer <em>a little</em> insight into what our trainings
-    have looked like (some shots are very old).
-  </p>
-
-  <p>
     We at OFC prefer training to posing.
     Consequently we have very few photos to showcase.
+    This is just something simple to offer <em>a tiny bit</em> of insight
+    into what our trainings have looked like (some shots are pretty old).
     We <em>most humbly</em> ask you to stop browsing and
     start scheduling yourself a chance to
-    check out the real deal at one of our trainings!
+    check out the real deal at one of our events!
   </p>
 
   <p><a class="rtrn" href="/">Return</a></p>

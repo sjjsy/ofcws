@@ -333,7 +333,7 @@
 
 
 <h4>
-  On pain and fatigue
+  On overcoming yourself
 </h4>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/mFLKxAqE5fA" frameborder="0" allowfullscreen></iframe>

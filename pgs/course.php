@@ -1,4 +1,9 @@
-<?php $thetitle='Intro to MMA | Courses | '; include("../pg-header.php"); ?>
+<?php
+  $thetitle = 'Intro to MMA (course) | ';
+  $vpfss    =  array();
+  $vpfss[]  = '/static/css/course.css';
+  include( "../pg-header.php" );
+?>
 
 
 <h2>Intro to MMA (course)</h2>
@@ -22,6 +27,12 @@
         THE COURSE IS BOOKED!
       </strong>
       We cannot fit more participants in. If you are interested, please consider attending our following course (possibly in spring 2014).
+    </p>
+    <p>
+      We highly appreciate your interest, but the facilities we have in our disposal are small and to make sure we can offer quality training we have to limit the number of participants.
+    </p>
+    <p>
+      Maybe instead of participating in the course this time you could start preparing for the future ones! Exercise your body and consider joining following course instances organized possibly even already in spring 2014.
     </p>
   </div>
 </div>
@@ -54,7 +65,7 @@
   Schedule
 </h4>
 
-<table class="table table-striped">
+<table class="table">
   <thead>
     <th>
       Time
@@ -70,7 +81,7 @@
     </th>
   </thead>
   <tbody>
-    <tr>
+    <tr class="oh">
       <td>
         2013-11-01 15:00-17:00 (Fri)
       </td>
@@ -84,7 +95,7 @@
         Bosco Martinez
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-04 16:40-18:10 (Mon)
       </td>
@@ -98,7 +109,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-04 18:20-19:50 (Mon)
       </td>
@@ -112,7 +123,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="oh">
       <td>
         2013-11-08 15:00-17:00 (Fri)
       </td>
@@ -126,7 +137,7 @@
         Heikki Jussila
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-11 16:40-18:10 (Mon)
       </td>
@@ -140,7 +151,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-11 18:20-19:50 (Mon)
       </td>
@@ -154,7 +165,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="oh">
       <td>
         2013-11-15 15:00-17:00 (Fri)
       </td>
@@ -168,7 +179,7 @@
         Bosco Martinez
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-18 16:40-18:10 (Mon)
       </td>
@@ -182,7 +193,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="ts">
       <td>
         2013-11-18 18:20-19:50 (Mon)
       </td>
@@ -196,7 +207,7 @@
         Mikko Salama
       </td>
     </tr>
-    <tr>
+    <tr class="oh">
       <td>
         2013-11-22 15:00-17:00 (Fri)
       </td>
@@ -210,7 +221,7 @@
         Bosco Martinez
       </td>
     </tr>
-    <tr>
+    <tr class="ww">
       <td>
         2013-1X-XX Weekly Trainings
       </td>
@@ -224,7 +235,7 @@
         You and Me!
       </td>
     </tr>
-    <tr>
+    <tr class="xx">
       <td>
         2013-1X-XX Fightburgerfest
       </td>
@@ -243,7 +254,7 @@
 
 <p>
   <strong>Note:</strong>
-  We duplicated each session at Tatamisali because the space there is limited.
+  We duplicated each session at Tatamisali because the space there is limited (Attend the one you registered for).
 </p>
 
 <br/>
@@ -319,7 +330,7 @@
 	<em>
 	  can
 	</em>
-	attend the course without having the equipment and we can even lend some of them.
+	attend the course without having the equipment and we might even be able to lend some.
 </p>
 
 

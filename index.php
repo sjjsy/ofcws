@@ -9,9 +9,9 @@
 </p>
 
 <p>
-  You might be looking for information on our upcoming
-  <strong>Intro to Mixed Martial Arts</strong>
-  course -- if so, check out
+  You might be looking for information on our upcoming course
+  "<strong>Intro to Mixed Martial Arts</strong>"
+  -- if so, check out
   <a href="/pgs/course.php">
     this page.
   </a>

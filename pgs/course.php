@@ -6,6 +6,26 @@
 
 
 
+<h3 id="news">
+  News
+</h3>
+
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2013-10-27
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p class="lead text-danger">
+      <strong>
+        THE COURSE IS BOOKED!
+      </strong>
+      We cannot fit more participants in. If you are interested, please consider attending our following course (possibly in spring 2014).
+    </p>
+  </div>
+</div>
+
 <h3 id="what">
   What?
 </h3>
@@ -34,7 +54,7 @@
   Schedule
 </h4>
 
-<table cellpadding=3 style="">
+<table class="table table-striped">
   <thead>
     <th>
       Time
@@ -66,7 +86,21 @@
     </tr>
     <tr>
       <td>
-        2013-11-04 18:15-20:00 (Mon)
+        2013-11-04 16:40-18:10 (Mon)
+      </td>
+      <td>
+        Tatamisali
+      </td>
+      <td>
+        Submission Wrestling
+      </td>
+      <td>
+        Mikko Salama
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2013-11-04 18:20-19:50 (Mon)
       </td>
       <td>
         Tatamisali
@@ -94,7 +128,21 @@
     </tr>
     <tr>
       <td>
-        2013-11-11 18:15-20:00 (Mon)
+        2013-11-11 16:40-18:10 (Mon)
+      </td>
+      <td>
+        Tatamisali
+      </td>
+      <td>
+        Wrestling
+      </td>
+      <td>
+        Mikko Salama
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2013-11-11 18:20-19:50 (Mon)
       </td>
       <td>
         Tatamisali
@@ -122,7 +170,21 @@
     </tr>
     <tr>
       <td>
-        2013-11-18 18:15-20:00 (Mon)
+        2013-11-18 16:40-18:10 (Mon)
+      </td>
+      <td>
+        Tatamisali
+      </td>
+      <td>
+        Sub. Wre. Sparring
+      </td>
+      <td>
+        Mikko Salama
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2013-11-18 18:20-19:50 (Mon)
       </td>
       <td>
         Tatamisali
@@ -178,6 +240,11 @@
     </tr>
   </tbody>
 </table>
+
+<p>
+  <strong>Note:</strong>
+  We duplicated each session at Tatamisali because the space there is limited.
+</p>
 
 <br/>
 

@@ -37,6 +37,9 @@
   </div>
 </div>
 
+
+
+
 <h3 id="what">
   What?
 </h3>
@@ -131,7 +134,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Fighting 2
+        Takedowns
       </td>
       <td>
         Heikki Jussila
@@ -215,7 +218,7 @@
         Otahalli
       </td>
       <td>
-        Clinching and Takedowns
+        MMA Standup
       </td>
       <td>
         Bosco Martinez
@@ -237,10 +240,10 @@
     </tr>
     <tr class="xx">
       <td>
-        2013-1X-XX Fightburgerfest
+        2013-11-29 Fightburgerfest
       </td>
       <td>
-        TBD
+        Kylän olohuone
       </td>
       <td>
         UFC
@@ -339,18 +342,12 @@
 </h4>
 
 <p>
-  In December (date yet TBD) we will be celebrating the ending of
-  this course and OFC's fourth calendar year with a feast of beefy self-made high quality
+  After the first Friday session after the course at 18-22
+  we will be celebrating the ending of
+  this course and OFC's fourth calendar year with a feast of beefy self-made
   hamburgers, fries and some appropriate video material
   and everyone who participated in this course is welcome for free.
-  Vote for the date that best suits your schedules at
-	<a href="http://www.facebook.com/groups/107657179302080/561631347237992/">
-    this post
-  </a>
-  in our
-	<a href="http://www.facebook.com/groups/107657179302080/">
-	  FB group
-  </a>.
+  The election of the board of 2014 is going to occur in the event as well.
 </p>
 
 

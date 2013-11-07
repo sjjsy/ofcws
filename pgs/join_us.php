@@ -3,7 +3,7 @@
 <h2 id="joinus">Join Us</h2>
 
 <p>
-	Only OFC's members are allowed to fully participate in the club's activities.
+	Only members are allowed to fully participate in the club's activities.
 	However, everybody who considers joining the club can come first visit us in
 	one of our weekly trainings in order to get to know us, before	committing the
 	membership fee.
@@ -13,10 +13,10 @@
 <h4 id="whocan">Who Can Join?</h4>
 
 <p>
-	OFC is primarily for the students of Aalto University and we might limit the
+	The club is primarily for the students of Aalto University and we might limit the
 	number of outsiders due to the constraints set by our resources. However,
 	even non-Aaltoers can be accepted as half-members, after which they have
-	the right to take part in OFC's activities.
+	the right to take part in our activities.
 </p>
 
 
@@ -25,7 +25,7 @@
 <p>
 	The membership fee for 2013 is 20 euros. Some special events might have a small
 	additional fee but in these cases the amount is always informed clearly
-	beforehand. The weekly core sessions are free.
+	beforehand. The weekly core sessions are free (for members).
 </p>
 
 

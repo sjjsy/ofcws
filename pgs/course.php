@@ -92,7 +92,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Fighting 1
+        Stand-up Fighting
       </td>
       <td>
         Bosco Martinez

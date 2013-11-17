@@ -1,27 +1,4 @@
-<?php include("pg-header.php"); ?>
-
-
-<h2>Home</h2>
-
-
-<p>
-  Welcome to the web site of Otaniemi Fight Club!
-</p>
-
-
-<h4>Contents</h4>
-
-<ul>
-  <li><a href="/pgs/about.php"><b>About</b></a>: general information about the club (what, how, who)</li>
-  <li><a href="/pgs/events.php"><b>Events</b></a>: information about our event schedule (when)</li>
-  <li><a href="/pgs/course.php"><b>Course</b></a>: all you need to know about our upcoming introductory course (when, how & why attend)</li>
-  <li><a href="/pgs/related.php"><b>Related</b></a>: some links related to the things we practice (more depth into what we do)</li>
-  <li><a href="/pgs/gallery.php"><b>Gallery</b></a>: some photos off of our trainings (what does it look like in practice)</li>
-  <li><a href="/pgs/why.php"><b>Why</b></a>: some thoughts on why we do MMA and why you should too (why)</li>
-  <li><a href="/pgs/join_us.php"><b>Join Us</b></a>: instructions on how you should proceed ;) (what next)</li>
-</ul>
-
-
+<?php	$thetitle='News | '; include("../pg-header.php"); ?>
 
 
 <h2>News</h2>
@@ -74,7 +51,7 @@
 
     <p>Katsokaa alustava kokouspöytäkirja. Sieltä huomaatte, että hallitukseen ja toimihenkilöiksi on tarjolla useita mielenkiintoisia tehtäviä. The more we are, the more we can do. Tulkaa kaikki rohkeasti vaalikokoukseen, niin saatte miehekkään purilaisenne lisäksi komean tittelin!</p>
 
-    <p>Muistutan vielä AYY:n 26.11. järjestämästä yhdistyskoulutuksesta; Suosittelen järjestötoimintaa teille kaikille ja tämä tietopaketti varmasti helpottaa taipaleen aloitusta ja vähentää askarruttavien kysymysten määrää. ilmoittautukaa sinne ja tulkaa mukaan!</p>
+    <p>Muistutan vielä AYY:n 26.11. järjestämästä yhdistyskoulutuksesta; Suosittelen järjestötoimintaa teille kaikille ja tämä tietopaketti varmasti helpottaa taipaleen aloitusta ja vähentää askarruttavien kysymysten määrää. illmoittautumaan sinne ja tulkaa mukaan!</p>
 
     <h3>Edeltävien treenien agenda</h3>
 
@@ -118,4 +95,4 @@
 </div>
 
 
-<?php include("pg-footer.php"); ?>
+<?php	include("../pg-footer-a.php"); ?>

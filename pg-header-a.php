@@ -13,7 +13,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Otaniemi Fight Club,Otaniemi,Fight,Club,martial arts,martial,wrestling,submission wrestling,submission,kickboxing,kick,boxing,mixed martial arts,MMA,Brazilian jiu-jitsu,karate,self-defense,sports,exercise,Aalto,University,student,association,Espoo,Helsinki,Finland,paini,mattopaini,nyrkkeily,potkunyrkkeily,kamppailu,thainyrkkeily,itsepuolustus,urheilu" />
+    <meta name="keywords" content="Otaniemi,Fight,Club,Otaniemen,vapaaottelu,ry,MMA,BJJ,mixed martial arts,martial,arts,kamppailu-urheilu,kamppailu,urheilu,wrestling,paini,grappling,mattopaini,submission,selätys,kickboxing,potkunyrkkeily,Thai,thainyrkkeily,kick,potku,boxing,nyrkkeily,Brazilian,jiu-jitsu,karate,self-defense,itsepuolustus,sports,exercise,training,harjoittelu,Aalto,University,Aalto-yliopisto,yliopisto,Unisport,opiskelija,student,association,rekisteröity,yhdistys,Otaniemessä,Espoo,Helsinki,Finland" />
     <meta name="description" content="Otaniemi Fight Club's official website." />
     <meta name="author" content="azcorbin (hit me!) gmail.com" />
 

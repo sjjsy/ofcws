@@ -41,9 +41,9 @@ def set_perms( args=[] ):
     'find ./static/js/          -maxdepth 1 -type f -name "*js"  -exec chmod o+r "{}" \;',
     'find ./static/php/                     -type f              -exec chmod o+r "{}" \;',
     'find ./feed/               -maxdepth 1 -type f              -exec chmod o+r "{}" \;',
+    'find ./other/              -maxdepth 3 -type f              -exec chmod o+r "{}" \;',
     'chmod o+r ./index.php',
     'chmod o+r ./favicon.png',
-    'find ./other/              -maxdepth 3 -type f              -exec chmod o+r "{}" \;',
   ]
 
   for cmd in cmds:

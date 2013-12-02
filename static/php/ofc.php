@@ -12,6 +12,14 @@
     $oposts = array( "Inspector" );
 
     $boards = array(
+      "2014" => array(
+        "President"      => "Samuel Marisa",
+        "Treasurer"      => "Ville Sorsa",
+        "Secretary"      => "Tino Tuominen",
+        "Excerdinator"   => "Jani Fellman",
+        "Other"          => array( "Mikko Salama", "Heikki Jussila" ),
+        "Inspector"      => array( "Bosco Martinez", "Sami Pekkala" ),
+      ),
       "2013" => array(
         "President"      => "Samuel Marisa",
         "Treasurer"      => "Bosco Martinez",

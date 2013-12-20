@@ -23,7 +23,7 @@
 
 
 
-
+<!--
 <h2>News</h2>
 
 
@@ -116,6 +116,6 @@
 
   </div>
 </div>
-
+-->
 
 <?php include("pg-footer.php"); ?>

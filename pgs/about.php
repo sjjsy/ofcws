@@ -31,23 +31,36 @@
 </p>
 
 
+<h4 id="docs">The Official Documents</h4>
+
+<p>
+	In case you're interested in checking out our collection of official documents
+	you can find them through our
+	  <a href="http://bit.ly/1e2zXPe">link sheet</a>
+	at our Google Drive folder.
+</p>
+
+<p>
+  You might be interested to check out our official rules and this year's plan
+  of activities for instance.
+</p>
+
+
+
 <h4 id="board">The Board</h4>
 
 <span class="muted">
 	<a href="/pgs/boards.php">(see past boards)</a>
 </span>
 
-<ul class="unstyled">
-	<li><b>President</b>: Samuel Marisa</li>
-	<li><b>Treasurer</b>: Bosco Martinez</li>
-	<li><b>Secretary</b>: Ville Sorsa</li>
-	<li>Other Members of the Board:
-		<ul style="list-style:none;">
-			<li>Mikko Salama</li>
-			<li>Heikki Jussila</li>
-		</ul>
-	</li>
-</ul>
+<p>
+  President: <b>Samuel Marisa</b><br/>
+  Treasurer: <b>Ville Sorsa</b><br/>
+  Secretary: <b>Tino Tuominen</b><br/>
+  Event Coordinator: <b>Jani Fellman</b><br/>
+  Marketing: <b>Heikki Jussila</b><br/>
+  Additional members: <b>Mikko Salama</b><br/>
+</p>
 
 <p>
 	The board can be contacted via

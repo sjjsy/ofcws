@@ -8,17 +8,18 @@
   {
     // create an array to hold the data
     $years  = array( "2014", "2013", "2012", "2010-11" );
-    $posts  = array( "President", "Vice President", "Treasurer", "Secretary", "Event Producer" );
+    $posts  = array( "President", "Vice President", "Treasurer", "Secretary", "Event Coordinator", "Marketing" );
     $oposts = array( "Inspector" );
 
     $boards = array(
       "2014" => array(
-        "President"      => "Samuel Marisa",
-        "Treasurer"      => "Ville Sorsa",
-        "Secretary"      => "Tino Tuominen",
-        "Event Producer" => "Jani Fellman",
-        "Other"          => array( "Mikko Salama", "Heikki Jussila" ),
-        "Inspector"      => array( "Bosco Martinez", "Sami Pekkala" ),
+        "President"         => "Samuel Marisa",
+        "Treasurer"         => "Ville Sorsa",
+        "Secretary"         => "Tino Tuominen",
+        "Event Coordinator" => "Jani Fellman",
+        "Marketing"         => "Heikki Jussila",
+        "Other"             => array( "Mikko Salama" ),
+        "Inspector"         => array( "Bosco Martinez", "Sami Pekkala" ),
       ),
       "2013" => array(
         "President"      => "Samuel Marisa",

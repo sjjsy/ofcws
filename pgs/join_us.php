@@ -23,28 +23,22 @@
 <h4 id="costs">What Does It Cost?</h4>
 
 <p>
-	The membership fee for 2013 is 20 euros. Some special events might have a small
-	additional fee but in these cases the amount is always informed clearly
-	beforehand. The weekly core sessions are free (for members).
+	The membership fee for 2014 is 20 euros. It is also possible to join for
+	only the spring or fall term. The fee for such a term is 10 euros.
+	Some special events might have a small additional fee but in these cases
+	the amount is always informed clearly beforehand. The weekly core sessions
+	are free.
 </p>
 
 
 <h4 id="join">Become a Member!</h4>
 
 <p>
-	Joining OFC is straight forward. Follow these steps:
+	Joining the club is straight forward. Follow these steps:
 </p>
 
 <ol>
-	<li>First, send an email to <?php echo hide_email('ofc-hallitus@list.ayy.fi'); ?> with the following infromation:
-		<ol>
-			<li>Your name</li>
-			<li>Your phone number</li>
-			<li>Your email address</li>
-			<li>Your address</li>
-			<li>Whether you are a member of AYY or not (Yes/No)</li>
-		</ol>
-	</li>
+	<li>First, fill <a href="http://bit.ly/Kx9IpB">this form</a>.</li>
 	<li>Secondly, join <a href="http://www.facebook.com/groups/107657179302080/">the Facebook group</a> (to get in touch)</li>
 	<li>Register into <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a> (to better participate in the trainings)</li>
 	<li>Subscribe to <a href="https://list.ayy.fi/mailman/listinfo/ofc">the OFC mailing list</a> (to get all official information)</li>

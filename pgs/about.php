@@ -7,21 +7,21 @@
 <h4 id="club">The Club</h4>
 <p>
 	Otaniemi Fight Club (OFC) is an association that operates under the Student
-	Union of Aalto University. OFC is run by a small, but active group of
+	Union of Aalto University. The club is run by a small, but active group of
 	students with a mutual interest: martial arts.
 </p>
 <p>
 	Otaniemi Fight Club was founded on the sixth of May 2010 with a clear
 	purpose: <i>to enhance the opportunities of the students of Aalto University
-	to practice martial arts</i>. This is OFC's mission and what it pursues to
+	to practice martial arts</i>. This is the club's mission and what it pursues to
 	accomplish in many levels -- not just by offering some square meters of
 	tatami to train on, but also by providing some equipment, information and a
 	forum for its members, and perhaps most importantly, the critical mass
 	needed to accomplish things a lone fighter might not.
 </p>
 <p>
-	OFC organizes weekly sessions for wrestling and kickboxing. These make up
-	the core of OFC's event calendar. In addition to the regular sessions the
+	The club organizes weekly sessions for wrestling and kickboxing. These make up
+	the core of the club's event calendar. In addition to the regular sessions the
 	club organizes excursions to other martial arts clubs or schools or the like
 	to boost learning. To spice up, events unrelated to martial arts are also
 	included from time to time such as sauna nights, co-organized chillouts with
@@ -49,10 +49,6 @@
 
 <h4 id="board">The Board</h4>
 
-<span class="muted">
-	<a href="/pgs/boards.php">(see past boards)</a>
-</span>
-
 <p>
   President: <b>Samuel Marisa</b><br/>
   Treasurer: <b>Ville Sorsa</b><br/>
@@ -78,11 +74,20 @@
 </p>
 
 
-<h4 id="web">OFC Elsewhere on the Web</h4>
+<h4 id="pboards">Past Boards</h4>
+
+<p>
+  All the clubs past boards are listed at the
+	  <a href="/pgs/boards.php">boards page</a>.
+  Check it out!
+</p>
+
+
+<h4 id="web">The Club on the Web</h4>
 <ul>
-	<li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- OFC's public Facebook group for everyday information flow</li>
-	<li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- OFC's weekly training session schedule and participant information</li>
-	<li><a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a> -- A brief description of OFC at the AYY's list of associations.</li>
+	<li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- The club's public Facebook group for everyday information flow</li>
+	<li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- The club's weekly training session schedule and participant information</li>
+	<li><a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a> -- A brief description of the club at the AYY's list of associations.</li>
 </ul>
 
 

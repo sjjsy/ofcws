@@ -389,6 +389,9 @@
   Register to the course using
 	<a href="http://bit.ly/Kx9IpB">this form</a>.
 	You'll simultaneously register as a member.
+	<b>
+	  (Note: We will be able to fit only about 20 participants in)
+  </b>
 </p>
 
 <p>

@@ -217,7 +217,7 @@
         Otahalli
       </td>
       <td>
-        Striking
+        Striking I
       </td>
       <td>
         Mouginot
@@ -259,7 +259,7 @@
         Otahalli
       </td>
       <td>
-        Boxing
+        Striking II
       </td>
       <td>
         Mouginot
@@ -273,7 +273,7 @@
         Otahalli
       </td>
       <td>
-        Wrap Up
+        Takedowns & Sparring
       </td>
       <td>
         Rantamoijanen

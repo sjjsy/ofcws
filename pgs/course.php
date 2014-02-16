@@ -6,7 +6,9 @@
 ?>
 
 
-<h2>Intro to MMA (course)</h2>
+<h2>Intro to MMA II</h2>
+
+<b>A follow-up to the fall 2013 course <i><a href="./old_course.php">Intro to MMA</a></i></b>
 
 
 
@@ -18,21 +20,42 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
-      2013-10-27
+      2014-02-15
     </strong>
   </div>
   <div class="col-md-9">
-    <p class="lead text-danger">
+    <p>
       <strong>
-        THE COURSE IS BOOKED!
+        Registration opened!
       </strong>
-      We cannot fit more participants in. If you are interested, please consider attending our following course (possibly in spring 2014).
     </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2014-02-08
+    </strong>
+  </div>
+  <div class="col-md-9">
     <p>
-      We highly appreciate your interest, but the facilities we have in our disposal are small and to make sure we can offer quality training we have to limit the number of participants.
+      <strong>
+        Course instructors, dates & structure ratified!
+      </strong>
     </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2014-02-01
+    </strong>
+  </div>
+  <div class="col-md-9">
     <p>
-      Maybe instead of participating in the course this time you could start preparing for the future ones! Exercise your body and consider joining following course instances organized possibly even already in spring 2014.
+      <strong>
+        Planning of the club's second course started!
+      </strong>
     </p>
   </div>
 </div>
@@ -45,22 +68,24 @@
 </h3>
 
 <p>
-  We are organizing an <strong>Intro to Mixed Martial Arts</strong> course this November!
+  We are organizing a follow-up course to the successful fall 2013 course <i><a href="./old_course.php">Intro to MMA</a></i>! This course will focus in Muay Thai, stand-up wrestling and regular boxing. Check out the schedule below!
 </p>
 
 <p>
-  In case you're completely new to MMA or martial arts in general
-  and wonder why you should invest your time in it,
-  <strong>
-    start by laying an eye on our
-	<a href="/pgs/why.php">why page</a></strong>.
+  <i>
+    In case you're completely new to MMA or martial arts in general
+    and wonder why you should invest your time in it,
+    <strong>
+      start by laying an eye on our
+	  <a href="/pgs/why.php">why page</a></strong>.
+  </i>
 </p>
 
 
 
 
 <h3 id="facts">
-  Get the Facts Straight!
+  Facts
 </h3>
 
 
@@ -77,156 +102,114 @@
       Place
     </th>
     <th>
-      Topic (intro to)
+      Topic
     </th>
     <th>
       Instructor
     </th>
   </thead>
   <tbody>
-    <tr class="oh">
+    <tr>
       <td>
-        2013-11-01 15:00-17:00 (Fri)
+        2014-02-28 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Stand-up Fighting
+        Stand-up Wrestling
       </td>
       <td>
-        Bosco Martinez
+        Rantamoijanen
       </td>
     </tr>
-    <tr class="ts">
+    <tr>
       <td>
-        2013-11-04 16:40-18:10 (Mon)
+        2014-03-07 15:00-17:00 (Fri)
       </td>
       <td>
-        Tatamisali
+        Otahalli
+      </td>
+      <td>
+        Ground Game
+      </td>
+      <td>
+        Jussila
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2014-03-14 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
+      </td>
+      <td>
+        Striking
+      </td>
+      <td>
+        Mouginot
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2014-03-21 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
+      </td>
+      <td>
+        Kicking
+      </td>
+      <td>
+        Rantamoijanen
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2014-03-28 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
       </td>
       <td>
         Submission Wrestling
       </td>
       <td>
-        Mikko Salama
+        Jussila
       </td>
     </tr>
-    <tr class="ts">
+    <tr>
       <td>
-        2013-11-04 18:20-19:50 (Mon)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Submission Wrestling
-      </td>
-      <td>
-        Mikko Salama
-      </td>
-    </tr>
-    <tr class="oh">
-      <td>
-        2013-11-08 15:00-17:00 (Fri)
+        2014-04-04 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Takedowns
+        Boxing
       </td>
       <td>
-        Heikki Jussila
-      </td>
-    </tr>
-    <tr class="ts">
-      <td>
-        2013-11-11 16:40-18:10 (Mon)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Wrestling
-      </td>
-      <td>
-        Mikko Salama
+        Mouginot
       </td>
     </tr>
-    <tr class="ts">
+    <tr>
       <td>
-        2013-11-11 18:20-19:50 (Mon)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Wrestling
-      </td>
-      <td>
-        Mikko Salama
-      </td>
-    </tr>
-    <tr class="oh">
-      <td>
-        2013-11-15 15:00-17:00 (Fri)
+        2014-04-11 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Punches and Kicks
+        Wrap Up
       </td>
       <td>
-        Bosco Martinez
-      </td>
-    </tr>
-    <tr class="ts">
-      <td>
-        2013-11-18 16:40-18:10 (Mon)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Sub. Wre. Sparring
-      </td>
-      <td>
-        Mikko Salama
+        Rantamoijanen
       </td>
     </tr>
-    <tr class="ts">
+    <tr>
       <td>
-        2013-11-18 18:20-19:50 (Mon)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Sub. Wre. Sparring
-      </td>
-      <td>
-        Mikko Salama
-      </td>
-    </tr>
-    <tr class="oh">
-      <td>
-        2013-11-22 15:00-17:00 (Fri)
-      </td>
-      <td>
-        Otahalli
-      </td>
-      <td>
-        MMA Standup
-      </td>
-      <td>
-        Bosco Martinez
-      </td>
-    </tr>
-    <tr class="ww">
-      <td>
-        2013-1X-XX Weekly Trainings
+        2014-XX-XX Weekly Trainings
       </td>
       <td>
         Varies
@@ -238,27 +221,8 @@
         You and Me!
       </td>
     </tr>
-    <tr class="xx">
-      <td>
-        2013-11-29 Fightburgerfest
-      </td>
-      <td>
-        Kylän olohuone
-      </td>
-      <td>
-        UFC
-      </td>
-      <td>
-        OFC
-      </td>
-    </tr>
   </tbody>
 </table>
-
-<p>
-  <strong>Note:</strong>
-  We duplicated each session at Tatamisali because the space there is limited (Attend the one you registered for).
-</p>
 
 <br/>
 
@@ -267,6 +231,51 @@
 	<a href="/pgs/events.php">events page</a>.
 </p>
 
+<p>
+  <b>
+    Read more
+  </b>
+  about the programme of each session from
+  <a href="http://bit.ly/Mn2eXE">this</a>
+  Google Document.
+</p>
+
+
+<h4>
+  Instructors
+</h4>
+
+<p>
+  All of the course's instructors are members of the club, students and experienced martial artists. Here is a brief description of each:
+</p>
+
+<ul>
+  <li>
+    <b>
+      Rantamoijanen, Antti.
+    </b>
+    An experienced Muay Thai practitioner from Helsinki University.
+    His sessions will give you an effective intro to kickboxing and other Muay Thai techniques.
+    The man knows his tricks and is a proven instructor.
+  </li>
+  <li>
+    <b>
+      Jussila, Heikki.
+    </b>
+    An experienced mixed martial artist with a Judo background from the School of Engineering.
+    His sessions will train you in submission wrestling and stand up wrestling.
+    His practical experience and all-round experience will be a valuable asset.
+  </li>
+  <li>
+    <b>
+      Mouginot, Roman.
+    </b>
+    An experienced boxer from the School of Electrical Engineering.
+    His sessions will give you a straight to the business type intro to essential boxing.
+    He will put your boxing gloves and mouth guards into the use they were ment! ;)
+  </li>
+</ul>
+
 
 <h4>
   Costs
@@ -274,13 +283,15 @@
 
 <p>
   Costs
-  <strong>only 15 euros</strong>.
-  Paid in cash at the end of the second session
-  (<strong>first session's free</strong>; Bring the exact amount as we might not have change).
+  <strong>
+    only 25 euros
+  </strong>.
+  Paid in cash at the end of the third session.
+  Bring the exact amount as we might not have change.
 </p>
 
 <p>
-  Includes the 2013 membership for the club (right to attend any of our weekly trainings and other activities).
+  Includes the 2014 membership for the club (right to attend any of our weekly trainings and other activities).
 </p>
 
 
@@ -288,66 +299,41 @@
   Requirements
 </h4>
 
+<ol>
+  <li>
+    Good health
+  </li>
+  <li>
+    Good attitude
+  </li>
+  <li>
+    Experience and/or interest in martial arts
+  </li>
+  <li>
+    Willingness to sign the Terms of Participation
+  	<a href="http://bit.ly/1co4oyc">in English</a> or
+  	<a href="http://bit.ly/16YllRa">in Finnish</a>.
+  </li>
+  <li>
+    Some equipment (read more below)
+  </li>
+</ol>
+
+
+<h5>
+  Equipment
+</h5>
+
 <p>
-  The only general requirements are normal health and a good attitude.
-  No prior experience in martial arts expected.
-  The teaching proceeds according to the capabilities of all participants.
+  Fully participating in full-contact exercises like MMA-sparring requires proper equipment. Use of insufficient or poor quality equipment can lead to injury.
 </p>
 
 <p>
-  However, 
-  <em>
-    every participant must sign the
-    Terms of Participation
-  </em>
-  either
-    	<a href="http://bit.ly/1co4oyc">in English</a>, or
-    	<a href="http://bit.ly/16YllRa">in Finnish</a>
-  <small>
-    (The documents will be available in paper at the exercises)
-  </small>.
+  However, one can participate in at least about 70% of the course without any equipment due to the fact that the course has a lot of drills and exercises where there is no hard contact. In addition, the club will be able to sell or lend some equipment such as boxing gloves, hand wraps and mouth guards.
 </p>
 
 <p>
-  Because OFC is probably unable to lend equipment for everyone
-  you are required to get yourself the protective equipment mentioned in the document in case
-  you want to fully participate in full-contact exercises like MMA-sparring.
-  However, because this is an introductory course,
-  most of the training consists of varying drills and other safer exercises
-  which can be trained without all of the listed equipment
-  if the appropriate focus and caution is given.
-</p>
-
-<p>
-  The priority order for the acquisition of the equipment is: 1) Mouth guard, 2) Boxing or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
-</p>
-
-<p>
-  You can get working
-	<a href="http://www.prisma.fi/market/prisma?b_haku.sana=0072363012549">
-    mouth guards for just a couple of euros
-  </a>
-  and neither do the rest of the equipment cost that much
-	(<a href="http://www.ufs.fi/kamppailuvarusteet-mma-hanskat-c-47_48.html">some MMA gloves</a>).
-	And just to make it clear: You
-	<em>
-	  can
-	</em>
-	attend the course without having the equipment and we might even be able to lend some.
-</p>
-
-
-<h4>
-  Fightburgerfest?
-</h4>
-
-<p>
-  After the first Friday session after the course at 18-22
-  we will be celebrating the ending of
-  this course and OFC's fourth calendar year with a feast of beefy self-made
-  hamburgers, fries and some appropriate video material
-  and everyone who participated in this course is welcome for free.
-  The election of the board of 2014 is going to occur in the event as well.
+  In case you are interested to acquire equipment, the priority order is: 1) Mouth guard, 2) Boxing (sparring) or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
 </p>
 
 
@@ -357,8 +343,8 @@
 
 <p>
   14+ hours of beneficial exercise, lots of sweating & quality company guaranteed
-  with a fee almost equal to zero (€1/h), wrapped into an intense & effective package
-  just for You!
+  with a fee almost equal to zero (€2/h), wrapped into an intense & effective package
+  just <b>for You!</b>
 </p>
 
 <p>
@@ -401,7 +387,7 @@
 
 <p>
   Register to the course using
-	<a href="http://bit.ly/1coFsXF">this form</a>.
+	<a href="http://bit.ly/Kx9IpB">this form</a>.
 	You'll simultaneously register as a member.
 </p>
 
@@ -410,7 +396,7 @@
 	<a href="http://on.fb.me/19Lhi9p">
 	  the Facebook event
 	</a>
-	for the course!
+	for the course (FIXME)!
 </p>
 
 
@@ -419,18 +405,5 @@
 
 
 
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
 <!-- EOF -->
 <!-- EOF -->

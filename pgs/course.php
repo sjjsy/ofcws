@@ -352,7 +352,7 @@
 
 <p>
   14+ hours of beneficial exercise, lots of sweating & quality company guaranteed
-  with a fee almost equal to zero (€2/h), wrapped into an intense & effective package
+  with a fee almost equal to zero (max. 2€/h), wrapped into an intense & effective package
   just <b>for You!</b>
 </p>
 

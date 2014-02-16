@@ -44,6 +44,7 @@ def set_perms( args=[] ):
     'find ./other/              -maxdepth 3 -type f              -exec chmod o+r "{}" \;',
     'chmod o+r ./index.php',
     'chmod o+r ./favicon.png',
+    'chmod u+x ./tool.py',
   ]
 
   for cmd in cmds:

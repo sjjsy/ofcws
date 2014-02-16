@@ -284,10 +284,9 @@
 <p>
   Costs
   <strong>
-    only 25 euros
-  </strong>.
-  Paid in cash at the end of the third session.
-  Bring the exact amount as we might not have change.
+    only 25 euros.
+  </strong>
+  Paid either as a bank transfer to FI51 5720 9920 1081 48 (Fill the message field with the following content: "I2MMA2; Lastname, Firstnames") or in cash at the end of the third session, latest. If you pay in cash, bring the exact amount as we might not have change.
 </p>
 
 <p>
@@ -396,10 +395,10 @@
 
 <p>
   Also join
-	<a href="http://on.fb.me/19Lhi9p">
+	<a href="http://on.fb.me/NSSA0c">
 	  the Facebook event
 	</a>
-	for the course (FIXME)!
+	for the course!
 </p>
 
 

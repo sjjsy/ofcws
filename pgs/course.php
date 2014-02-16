@@ -8,7 +8,69 @@
 
 <h2>Intro to MMA II</h2>
 
-<b>A follow-up to the November 2013 course <i><a href="./old_course.php">Intro to MMA</a></i></b>
+<b>
+  A follow-up to the November 2013 course
+  <i><a href="./old_course.php">
+    Intro to MMA
+  </a></i>
+</b>
+
+
+<br/>
+<br/>
+
+<div class="container text-success" style="font-size: 1.3em; background-color: #FFF;">
+  <div class="row">
+    <div class="col-md-3">
+      What?
+    </div>
+    <div class="col-md-9">
+      A seven session course on Muay Thai and MMA
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      For whom?
+    </div>
+    <div class="col-md-9">
+      Anyone with interest in martial arts
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      Any costs?
+    </div>
+    <div class="col-md-9">
+      25 euros for a non-member
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      When?
+    </div>
+    <div class="col-md-9">
+      15-17 every Friday from February 28th untill April 11th
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      Where?
+    </div>
+    <div class="col-md-9">
+      At Monitoimihalli, Unisport Otaniemi, Espoo
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      Hmmh...
+    </div>
+    <div class="col-md-9">
+      <b>
+        Read more from below!
+      </b>
+    </div>
+  </div>
+</div>
 
 
 
@@ -68,7 +130,7 @@
 </h3>
 
 <p>
-  We are organizing a follow-up course to the successful fall 2013 course <i><a href="./old_course.php">Intro to MMA</a></i>! This course will focus in Muay Thai, stand-up wrestling and regular boxing. Check out the schedule below!
+  The club is organizing a sequel for the successful November 2013 course <i><a href="./old_course.php">Intro to MMA</a></i>! The follow-up will focus in Muay Thai, stand-up wrestling and regular boxing. Check out the schedule below!
 </p>
 
 <p>

@@ -8,7 +8,7 @@
 
 <h2>Intro to MMA II</h2>
 
-<b>A follow-up to the fall 2013 course <i><a href="./old_course.php">Intro to MMA</a></i></b>
+<b>A follow-up to the November 2013 course <i><a href="./old_course.php">Intro to MMA</a></i></b>
 
 
 
@@ -87,6 +87,16 @@
 <h3 id="facts">
   Facts
 </h3>
+
+
+<h4>
+  Locations
+</h4>
+
+<p>
+  All of the trainings will be held in Monitoimihalli at Unisport's Otaniemi facilities
+	(Otaranta 6, 02150 Espoo, Finland).
+</p>
 
 
 <h4>
@@ -290,7 +300,7 @@
 </p>
 
 <p>
-  Includes the 2014 membership for the club (right to attend any of our weekly trainings and other activities).
+  Includes the 2014 membership for the club (right to attend any of our weekly trainings and other activities). Members who have already paid the membership fee for 2014 are eligible to participate in the course for a cute fee of 5 euros.
 </p>
 
 
@@ -324,7 +334,7 @@
 </h5>
 
 <p>
-  Fully participating in full-contact exercises like MMA-sparring requires proper equipment. Use of insufficient or poor quality equipment can lead to injury.
+  Fully participating in full-contact exercises like boxing or MMA-sparring requires proper equipment. Use of insufficient or poor quality equipment can lead to injury.
 </p>
 
 <p>
@@ -332,7 +342,7 @@
 </p>
 
 <p>
-  In case you are interested to acquire equipment, the priority order is: 1) Mouth guard, 2) Boxing (sparring) or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
+  In case you are interested to acquire equipment yourself, the priority order is: 1) Mouth guard, 2) Boxing (sparring) or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
 </p>
 
 
@@ -387,9 +397,9 @@
 <p>
   Register to the course using
 	<a href="http://bit.ly/Kx9IpB">this form</a>.
-	You'll simultaneously register as a member.
+	You'll simultaneously register as a member
 	<b>
-	  (Note: We will be able to fit only about 20 participants in)
+	  (Note: We will be able to fit only about 20 participants in).
   </b>
 </p>
 

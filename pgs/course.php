@@ -342,7 +342,7 @@
     <b>
       Mouginot, Roman.
     </b>
-    An experienced boxer from the School of Electrical Engineering.
+    An experienced boxer working for the School of Engineering.
     His sessions will give you a straight to the business type intro to essential boxing.
     He will put your boxing gloves and mouth guards into the use they were ment! ;)
   </li>

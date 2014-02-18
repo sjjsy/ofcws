@@ -82,6 +82,20 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
+      2014-02-18
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p>
+      <strong>
+        The number of registrations has surpassed 10! Both genders represented!
+      </strong>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
       2014-02-15
     </strong>
   </div>
@@ -335,16 +349,16 @@
       Jussila, Heikki.
     </b>
     An experienced mixed martial artist with a Judo background from the School of Engineering.
-    His sessions will train you in submission wrestling and stand up wrestling.
-    His practical experience and all-round experience will be a valuable asset.
+    His sessions will train you in both submission and stand-up wrestling.
+    You will get to profit from his practical and all-round experience in the arts.
   </li>
   <li>
     <b>
       Mouginot, Roman.
     </b>
-    An experienced boxer working for the School of Engineering.
-    His sessions will give you a straight to the business type intro to essential boxing.
-    He will put your boxing gloves and mouth guards into the use they were ment! ;)
+    An experienced boxer who's currently working for the School of Engineering.
+    His sessions will give you a straight to the business type intro to the essentials of boxing.
+    He will put your boxing gloves and mouth guards into the use they were made for! ;)
   </li>
 </ul>
 
@@ -358,11 +372,23 @@
   <strong>
     only 25 euros.
   </strong>
-  Paid either as a bank transfer to FI51 5720 9920 1081 48 (Fill the message field with the following content: "I2MMA2; Lastname, Firstnames") or in cash at the end of the third session, latest. If you pay in cash, bring the exact amount as we might not have change.
+  Paid either as 1) a bank transfer or 2) in cash:
+  <ol>
+    <li>
+      <b>Bank transfer</b><br/>
+      Destination: FI51 5720 9920 1081 48<br/>
+      Message: "I2MMA2; Lastname, Firstnames"<br/>
+      Deadline: 2014-03-03
+    </li>
+    <li>
+      <b>In cash</b><br/>
+      Bring the exact amount (as we might not have change) to the second session (2014-03-07).
+    </li>
+  </ol>
 </p>
 
 <p>
-  Includes the 2014 membership for the club (right to attend any of our weekly trainings and other activities). Members who have already paid the membership fee for 2014 are eligible to participate in the course for a cute fee of 5 euros.
+  The fee includes the 2014 membership for the club (right to attend any of our weekly trainings and other activities). Members who have already paid the membership fee for 2014 are eligible to participate in the course for a cute fee of 5 euros.
 </p>
 
 
@@ -400,7 +426,7 @@
 </p>
 
 <p>
-  However, one can participate in at least about 70% of the course without any equipment due to the fact that the course has a lot of drills and exercises where there is no hard contact. In addition, the club will be able to sell or lend some equipment such as boxing gloves, hand wraps and mouth guards.
+  However, one can participate in at least about 70% of the course without any equipment due to the fact that the course has a lot of drills and exercises where there is no hard contact. In addition, the club will be able to sell or lend some equipment such as boxing gloves, hand wraps and mouth guards. No equipment is needed for the first session.
 </p>
 
 <p>

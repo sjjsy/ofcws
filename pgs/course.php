@@ -433,6 +433,12 @@
   In case you are interested to acquire equipment yourself, the priority order is: 1) Mouth guard, 2) Boxing (sparring) or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
 </p>
 
+<p>
+  <b>
+    The club is going to make an order of new MMA-equipment either prior to the course or after the first session (undecided). The club will get the items with lowered prices. If you're interested in having the club order your equipment for you, please write about it into the registration form (link below). We'll contact you.
+  </b>
+</p>
+
 
 <h4>
   Conclusions

@@ -259,10 +259,10 @@
         Otahalli
       </td>
       <td>
-        Submission Wrestling
+        Striking II
       </td>
       <td>
-        Jussila
+        Mouginot
       </td>
     </tr>
     <tr>
@@ -273,10 +273,10 @@
         Otahalli
       </td>
       <td>
-        Striking II
+        Submission Wrestling
       </td>
       <td>
-        Mouginot
+        Jussila
       </td>
     </tr>
     <tr>
@@ -332,35 +332,77 @@
 </h4>
 
 <p>
-  All of the course's instructors are members of the club, students and experienced martial artists. Here is a brief description of each:
+  All of the course's instructors are members of the club, students and experienced martial artists. Here's a brief description of each:
 </p>
 
-<ul>
-  <li>
-    <b>
-      Rantamoijanen, Antti.
-    </b>
-    An experienced Muay Thai practitioner from Helsinki University.
-    His sessions will give you an effective intro to kickboxing and other Muay Thai techniques.
-    The man knows his tricks and is a proven instructor.
-  </li>
-  <li>
-    <b>
-      Jussila, Heikki.
-    </b>
-    An experienced mixed martial artist with a Judo background from the School of Engineering.
-    His sessions will train you in both submission and stand-up wrestling.
-    You will get to profit from his practical and all-round experience in the arts.
-  </li>
-  <li>
-    <b>
-      Mouginot, Roman.
-    </b>
-    An experienced boxer who's currently working for the School of Engineering.
-    His sessions will give you a straight to the business type intro to the essentials of boxing.
-    He will put your boxing gloves and mouth guards into the use they were made for! ;)
-  </li>
-</ul>
+<div class="row">
+  <div class="col-md-7">
+    <strong>
+      Antti Rantamoijanen
+    </strong>
+    <p>
+      School: University of Helsinki<br/>
+      Background: Muay Thai<br/>
+    </p>
+    <p>
+      Antti was asked to become an instructor to make sure you get a good
+      introduction to MMA and more precisely the art that arguably ties all
+      areas of MMA together most effectively: The Art of the Eight Limbs.
+      In his sessions you will learn core Muay Thai techniques and how to apply
+      them. Pay attention in his sessions and you'll double your offensive
+      arsenal. The man knows all the important stuff and is a proven instructor.
+    </p>
+  </div>
+  <div class="col-md-5" style="padding:1em;">
+    <img src="/static/gfx/course/threesome__ranta.jpg" height="150px" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-7">
+    <strong>
+      Heikki Jussila
+    </strong>
+    <p>
+      School: Aalto School of Engineering<br/>
+      Background: Competetive Judo, MMA<br/>
+    </p>
+    <p>
+      Heikki was asked to become an instructor to have you learn how to overcome an
+      opponent without the need to rely on punches and kicks. He will introduce you to
+      wrestling and notably submission wrestling. Heikki has lots of experience
+      from a wide range of martial arts. He will show you that there are many
+      ways to vanquish an opponent and that you're the one to choose your approach
+      for each situation.
+    </p>
+  </div>
+  <div class="col-md-5" style="padding:1em;">
+    <img src="/static/gfx/course/threesome__jussila.jpg" height="150px" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-7">
+    <strong>
+      Roman Mouginot
+    </strong>
+    <p>
+      School: Aalto School of Engineering<br/>
+      Background: Boxing and French Boxing<br/>
+    </p>
+    <p>
+      Roman was asked to become an instructor to make sure you get a real taste
+      of what boxing is all about.
+      He knows what one needs to know and work on in order
+      to succeed in hand to hand fighting. His sessions will give you a straight
+      to the business type intro to the essentials of boxing. His sessions will
+      put your boxing gloves and mouth guards into the use they were made for! ;)
+    </p>
+  </div>
+  <div class="col-md-5" style="padding:1em;">
+    <img src="/static/gfx/course/threesome__mouginot.jpg" height="150px" />
+  </div>
+</div>
+
+
 
 
 <h4>

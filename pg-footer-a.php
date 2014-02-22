@@ -3,7 +3,7 @@
     <nav class="navbar navbar-inverse navbar-fixed-bottom">
       <div style="text-align: center;">
         <small>
-          Created 2013-02-07, Modified 2014-02-18 <br/>
+          Created 2013-02-07, Modified 2014-02-22 <br/>
           All Rights Reserved / Samuel Marisa / OFC
         </small>
       </div>

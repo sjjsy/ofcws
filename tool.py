@@ -37,6 +37,7 @@ def set_perms( args=[] ):
     'find ./pgs/                -maxdepth 1 -type f -name "*php" -exec chmod o+r "{}" \;',
     'find ./static/gfx/         -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;',
     'find ./static/gfx/gallery/ -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;',
+    'find ./static/gfx/course/  -maxdepth 1 -type f -name "*jpg" -exec chmod o+r "{}" \;',
     'find ./static/css/         -maxdepth 1 -type f -name "*css" -exec chmod o+r "{}" \;',
     'find ./static/js/          -maxdepth 1 -type f -name "*js"  -exec chmod o+r "{}" \;',
     'find ./static/php/                     -type f              -exec chmod o+r "{}" \;',

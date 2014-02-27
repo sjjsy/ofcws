@@ -19,13 +19,15 @@
 <br/>
 <br/>
 
-<div class="container text-success" style="font-size: 1.3em; background-color: #FFF;">
+<div class="container text-success" style="font-size: 1.3em;">
   <div class="row">
-    <div class="col-md-12 text-error">
-      THE COURSE IS BOOKED.<br/>
-      If you're interested to participate, please add yourself into the queue by
-      registering as normal. You'll get into the course if somebody that has
-      already been accepted cancels his/her participation.
+    <div class="col-md-12">
+      <p class="text-danger">
+        THE COURSE IS BOOKED.<br/>
+        If you're interested to participate, please add yourself into the queue by
+        registering as normal. You'll get into the course if somebody that has
+        already been accepted cancels his/her participation.
+      </p>
     </div>
   </div>
   <div class="row">
@@ -225,7 +227,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Wrestling
+        Clinching
       </td>
       <td>
         Rantamoijanen
@@ -239,7 +241,7 @@
         Otahalli
       </td>
       <td>
-        Ground Game
+        Stand-up Wrestling
       </td>
       <td>
         Jussila
@@ -267,10 +269,10 @@
         Otahalli
       </td>
       <td>
-        Kicking
+        Ground Game
       </td>
       <td>
-        Rantamoijanen
+        Jussila
       </td>
     </tr>
     <tr>
@@ -295,10 +297,10 @@
         Otahalli
       </td>
       <td>
-        Submission Wrestling
+        Kicking
       </td>
       <td>
-        Jussila
+        Rantamoijanen
       </td>
     </tr>
     <tr>
@@ -494,18 +496,22 @@
 </p>
 
 <p>
-  In case you are interested to acquire equipment yourself, the priority order is: 1) Mouth guard, 2) Boxing (sparring) or MMA gloves, 3) Jockstrap, 4) Shin guards, 5) Headgear.
+  In case you are interested to acquire equipment yourself, the priority order is: 1) Mouth guard, 2) Boxing (sparring, 16 oz) or MMA gloves (padded), 3) Jockstrap, 4) Shin guards, 5) Headgear.
 </p>
 
+<!--
 <p>
   The club is going to make
   <b>
     an order of new MMA-equipment
   </b>
-  either prior to the course or after the first session (undecided). The club will get the items with lowered prices. If you're interested in having the club order your equipment for you, please write about it into the registration form (link below). We'll contact you.
-
+  either prior to the course or after the first session (undecided).
+  The club will get the items with lowered prices.
+  If you're interested in having the club order your equipment for you,
+  please write about it into the registration form (link below).
+  We'll contact you.
 </p>
-
+-->
 
 <h4>
   Conclusions

@@ -36,8 +36,6 @@
     <strong>
       2014-02-26
     </strong>
-    </br>
-    <small> Samuel Marisa</small>
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">
@@ -45,7 +43,7 @@
     </h4>
     <p>
       The course is booked. You may still register, but you'll get into the
-      course only if somebody already accepted cancels his/her participation.
+      course only if somebody else cancels his/her participation.
       Read more about the course at the
       <a href="/pgs/course.php">
         course page.
@@ -58,8 +56,6 @@
     <strong>
       2014-02-15
     </strong>
-    </br>
-    <small> Samuel Marisa</small>
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">

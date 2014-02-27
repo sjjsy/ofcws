@@ -34,6 +34,28 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
+      2014-02-26
+    </strong>
+    </br>
+    <small> Samuel Marisa</small>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      The Spring Course Is Booked
+    </h4>
+    <p>
+      The course is booked. You may still register, but you'll get into the
+      course only if somebody already accepted cancels his/her participation.
+      Read more about the course at the
+      <a href="/pgs/course.php">
+        course page.
+      </a>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
       2014-02-15
     </strong>
     </br>
@@ -41,13 +63,13 @@
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">
-	    Course Registration Opened
+      Course Registration Opened
     </h4>
     <p>
-	    The registration for the club's spring course has been opened!
-	    Link to the registration can be found at the
+      The registration for the club's spring course has been opened!
+      Link to the registration can be found at the
       <a href="/pgs/course.php">
-  	    course page.
+        course page.
       </a>
     </p>
   </div>

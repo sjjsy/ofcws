@@ -21,6 +21,14 @@
 
 <div class="container text-success" style="font-size: 1.3em; background-color: #FFF;">
   <div class="row">
+    <div class="col-md-12 text-error">
+      THE COURSE IS BOOKED.<br/>
+      If you're interested to participate, please add yourself into the queue by
+      registering as normal. You'll get into the course if somebody that has
+      already been accepted cancels his/her participation.
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3">
       What?
     </div>
@@ -79,6 +87,20 @@
   News
 </h3>
 
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2014-02-26
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p>
+      <strong>
+        The course is booked! You may still add yourself into the queue.
+      </strong>
+    </p>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-3">
     <strong>

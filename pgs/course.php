@@ -227,7 +227,7 @@
         Otahalli
       </td>
       <td>
-        Clinching
+        Stand-up Wrestling I
       </td>
       <td>
         Rantamoijanen
@@ -241,7 +241,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Wrestling
+        Stand-up Wrestling II
       </td>
       <td>
         Jussila
@@ -269,7 +269,7 @@
         Otahalli
       </td>
       <td>
-        Ground Game
+        The Ground Game
       </td>
       <td>
         Jussila

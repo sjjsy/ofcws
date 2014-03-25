@@ -442,7 +442,7 @@
   <ol>
     <li>
       <b>Bank transfer</b><br/>
-      Destination: FI51 5720 9920 1081 48<br/>
+      Destination: FI27 5380 1120 0352 71<br/>
       Message: "I2MMA2; Lastname, Firstnames"<br/>
       Deadline: 2014-03-03
     </li>

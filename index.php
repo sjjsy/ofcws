@@ -34,6 +34,43 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
+      2014-04-17
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      How Fit Are You?
+    </h4>
+    <p>
+      We're organizing two chances to benchmark your fitness!
+      Read more from
+      <a href="/pgs/fitness.php">
+        here.
+      </a>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2014-04-17
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      General Meeting on the 17th of May
+    </h4>
+    <p>
+      Read more about the meeting
+      <a href="/pgs/meeting-2014-05-17.php">
+        here.
+      </a>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
       2014-02-26
     </strong>
   </div>

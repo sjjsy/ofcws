@@ -13,7 +13,7 @@
 
 <p>
   The club is organizing a General Meeting meeting to celebrate its fourth anniversary
-  and elect the its first ever honorary members.
+  and elect its first ever honorary members.
 </p>
 
 <p>
@@ -24,23 +24,20 @@
   Fine food will be served and a movie will likely be watched after the meeting.
 </p>
 
-
-<h3 id="facts">
-  More details
-</h3>
-
-
-<ul>
-  <li>
-    Time: 17th of May 18-22
-  </li>
-  <li>
-    Location: Kylän olohuone, Jämeräntaival 5 A, Espoo
-  </li>
-  <li>
-    For whom: All members of the club
-  </li>
-</ul>
+<P>
+  More details:
+  <ul>
+    <li>
+      Time: 17th of May 18-22
+    </li>
+    <li>
+      Location: Kylän olohuone, Jämeräntaival 5 A, Espoo
+    </li>
+    <li>
+      For whom: All members of the club
+    </li>
+  </ul>
+</p>
 
 
 <h3 id="topics">

@@ -34,6 +34,25 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
+      2014-04-30
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      MMA For You?
+    </h4>
+    <p>
+      We're organizing a session on mid May to introduce people to MMA and our club.
+      Read more from
+      <a href="/pgs/intro.php">
+        here.
+      </a>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
       2014-04-17
     </strong>
   </div>
@@ -42,7 +61,7 @@
       How Fit Are You?
     </h4>
     <p>
-      We're organizing two chances to benchmark your fitness!
+      We're organizing two chances to benchmark your fitness in May!
       Read more from
       <a href="/pgs/fitness.php">
         here.

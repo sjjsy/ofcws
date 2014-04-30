@@ -81,7 +81,9 @@ The Fitness Score can be expressed with an adjective:<br>
 <h4>Males Aged 20-24</h4>
 <p>
 <ul>
-<li>A1) Cooper (m): 3300, 3100, 2900, 2700, 2200 (Alternative: 4 km (min): 14:33, 15:29, 16:33, 17:47, 21:49)</li>
+<li>A1a) Cooper (m): 3300, 3100, 2900, 2700, 2200</li>
+<li>A1b) 3200m (mm:ss): 11:38, 12:23, 13:14, 14:13, 17:27</li>
+<li>A1c) 4000m (mm:ss): 14:33, 15:29, 16:33, 17:47, 21:49</li>
 <li>M1) Standing Long Jump (cm): 270, 250, 230, 210, 190</li>
 <li>M2) Sit Up: 53, 49, 45, 41, 29</li>
 <li>M3) Push Up: 48, 44, 40, 36, 24</li>
@@ -104,7 +106,9 @@ Scores from example results in each area:<br>
 <h4>Females Aged 20-24</h4>
 <p>
 <ul>
-<li>A1) Cooper: 3100, 2900, 2700, 2500, 2090 (Alternative: 4 km (min): 15:29, 16:33, 17:47, 19:12, 22:58)</li>
+<li>A1a) Cooper: 3100, 2900, 2700, 2500, 2090</li>
+<li>A1b) 3200m (mm:ss): 12:23, 13:14, 14:13, 15:22, 18:22</li>
+<li>A1c) 4000m (mm:ss): 15:29, 16:33, 17:47, 19:12, 22:58</li>
 <li>M1) Standing Long Jump (cm): 220, 200, 180, 160, 140</li>
 <li>M2) Sit Up: 46, 42, 38, 34, 22</li>
 <li>M3) Push Up: 36, 32, 28, 24, 16</li>
@@ -128,7 +132,7 @@ Scores from example results in each area:<br>
 <h4>A1) Cooper's Test / Cooper-testi</h4>
 <p>
 <ul>
-<li>Purpose: To measure the subject's long distance <a href="./Maximal_Oxygen_Consumption.html" title="maximal oxygen consumption" class="page">maximal oxygen consumption</a>. The test was designed by Kenneth H. Cooper in 1968 for US military. Everything above 3 km is rated "long distance" — which means the runner will predominately use his "red", slow oxidative muscle cells.</li>
+<li>Purpose: To measure the subject's long distance <a href="./Maximal_Oxygen_Consumption.html" title="maximal oxygen consumption" class="page">maximal oxygen consumption</a> capacity. The test was designed by Kenneth H. Cooper in 1968 for the US military. Everything above 3 km is rated "long distance" — which means the runner will predominately use his "red", slow oxidative muscle cells.</li>
 <li>Execution: Running as far a distance within 12 minutes on a good, flat running surface (steady, maximal pace).</li>
 <li>Score: The distance covered.</li>
 </ul>

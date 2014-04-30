@@ -114,7 +114,7 @@
     The test consists of five subtests: one aerobic test and four anaerobic tests
   </li>
   <li>
-    The aerobic test will be performed as a timed 4km run
+    The aerobic test will be performed as a timed two mile (8x400m) run
   </li>
   <li>
     The anaerobic tests will be performed as follows
@@ -179,7 +179,7 @@
         Otakenttä
       </td>
       <td>
-        4000 meter Run
+        Two Mile Run
       </td>
     </tr>
     <tr>
@@ -264,10 +264,4 @@
 </p>
 
 
-<?php	include("../pg-footer-a.php"); ?>	
-
-
-
-
-<!-- EOF -->
-<!-- EOF -->
+<?php	include("../pg-footer-a.php"); ?>

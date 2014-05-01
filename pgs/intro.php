@@ -72,8 +72,7 @@
 </h3>
 
 <p>
-  The club is organizing a chance to get more familiar with MMA as a sport.
-  Check out more details from below!
+  The club is organizing a chance for everybody to get more familiar with the club and MMA and martial arts as sports.
 </p>
 
 <p>

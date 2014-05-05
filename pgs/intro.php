@@ -202,7 +202,7 @@
 
 
 <h4>
-  Guides
+  Introducers
 </h4>
 
 <div class="row">
@@ -215,7 +215,7 @@
       Background: Competetive Judo, MMA<br/>
     </p>
     <p>
-      Heikki was asked to be your guide, since his experience in martial arts is
+      Heikki was asked to be your introducer, since his experience in martial arts is
       long and broad. He's fit to guide you to both the stand-up and on-the-ground
       arts, styles and techniques. He's experienced as an instructor and knows
       all about the club as well.<br/>
@@ -289,7 +289,11 @@
 </h3>
 
 <p>
-  AYY's sports branch will organize the registration. More info is coming soon!
+  Register yourself by simply adding your name to the queue
+  <a href="http://bit.ly/1fJl5tw">
+    here.
+  </a>
+  We appreciate your interest!
 </p>
 
 

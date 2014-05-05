@@ -33,7 +33,7 @@
       Any costs?
     </div>
     <div class="col-md-9">
-      Zero
+      Zero, zip, nada
     </div>
   </div>
   <div class="row">
@@ -72,7 +72,7 @@
 </h3>
 
 <p>
-  The club is organizing a chance for everybody to get more familiar with the club and MMA and martial arts as sports.
+  The club is organizing a chance for everybody to get more familiar with the club and the sport we call MMA and martial arts in general.
 </p>
 
 <p>
@@ -293,7 +293,6 @@
   <a href="http://bit.ly/1fJl5tw">
     here.
   </a>
-  We appreciate your interest!
 </p>
 
 

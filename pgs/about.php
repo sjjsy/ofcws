@@ -86,7 +86,7 @@
 <h4 id="board">Honorary Members</h4>
 
 <p>
-  Every now and then we organize an meeting in which we vote which
+  Every now and then we organize a meeting in which we vote which
   of our current or past members should be granted the status of
   <i>honorary member</i>.
   The status is given for contributions toward developing the club.

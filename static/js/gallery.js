@@ -10,15 +10,15 @@ $(document).ready(function() {
   {
     // private members
     var el, eln, ajaxLoader, ipage = 1, npages = -1, npctt = 0, npcpp = 0;
-   
+
     // init function, we'll expose it publicly
     function _init() {
-   
+
       // container references
       el          = $('#dmatrix');
       eln         = $('#dmatrixnfo');
       ajaxLoader  = $('.loader');
-   
+
       npcpp = Math.floor( ($( window ).width() * 0.90) / 340 ) * Math.floor( ($( window ).height() * 0.90 - 200) / 260 );
       console.log( 'ddd: ' + $( window ).width() + '  ' + $( window ).height() );
       console.log( 'npcpp: ' + npcpp );
@@ -39,11 +39,11 @@ $(document).ready(function() {
         eln.fadeTo ( 'fast', 1 );
         el.fadeTo  ( 'fast', 1 );
       });
-   
+
       // load initial view
       load( ipage );
     }
-   
+
     // calls local proxy to retrieve flickr data for the selected type
     function load( pg ) {
       console.log( 'load:' + pg + ' ' + npages );
@@ -56,7 +56,7 @@ $(document).ready(function() {
         );
       }
     }
-   
+
     // appends the returned html to the container
     function onSuccess( json )
     {
@@ -93,23 +93,26 @@ $(document).ready(function() {
       else
       {
         eln.html( '...' );
-        el.html( '<center><p>Sorry, but no luck finding pictures today! :(</p></center>' );
+        el.html( '<center><p>Sorry, but no luck finding pictures today! :(</p>'
+          + '<p>You should be able to find them yourself from the club\'s'
+          + '<a href="https://www.flickr.com/groups/otaniemifightclub/">Flickr group</a>.</p>'
+          + '</center>' );
       }
     }
-   
+
     // functions to be called by controls
     function _prev() {  load( ipage - 1 );  }
     function _next() {  load( ipage + 1 );  }
-   
+
     // functions to be made available
     return {
       init: _init,
       prev: _prev,
       next: _next
     };
-   
+
   }();
- 
+
   // initializes the custom class
   window.glry.flckr.init();
 });

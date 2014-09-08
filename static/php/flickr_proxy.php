@@ -6,9 +6,9 @@
 
   // include the phpFlickr library
   require_once('lib/phpFlickr/3.2/phpFlickr.php');
-   
+
   // create an instance of the phpFlickr class
-  $f = new phpFlickr('4071a364cffdf5dbd010a7eeb131bf50', 'ec73ffa9fa33b614', false);
+  $f = new phpFlickr('4071a364cffdf5dbd010a7eeb131bf50');
 
   // Caching
   $f->enableCache("fs", "/home/ofc/www-data/cache");
@@ -23,7 +23,7 @@
     'page'    => $resp['photos']['page'],
     'photos'  => array()
   );
- 
+
   foreach ( (array) $resp['photos']['photo'] as $photo ) {
     if ( $photo['pathalias'] ) {
       $node = array(
@@ -33,7 +33,7 @@
       array_push( $output['photos'], $node );
     }
   }
- 
+
   header('Content-type: application/json');
   echo json_encode( $output );
 

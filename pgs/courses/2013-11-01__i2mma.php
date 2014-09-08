@@ -2,7 +2,7 @@
   $thetitle = 'Intro to MMA (course) | ';
   $vpfss    =  array();
   $vpfss[]  = '/static/css/course.css';
-  include( "../pg-header.php" );
+  include( "../../pg-header.php" );
 ?>
 
 
@@ -295,7 +295,7 @@
 </p>
 
 <p>
-  However, 
+  However,
   <em>
     every participant must sign the
     Terms of Participation
@@ -375,7 +375,7 @@
     All this said, you still think you have excuses for not coming?
   </strong>
   <br/>
-  You: 
+  You:
   <strong>
     No. None whatsoever! .. In fact, I'm gonna have my mates join as well!
   </strong>
@@ -414,23 +414,9 @@
 </p>
 
 
-<?php	include("../pg-footer-a.php"); ?>	
+<?php	include("../../pg-footer-a.php"); ?>
 
 
 
 
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
-<!-- EOF -->
 <!-- EOF -->

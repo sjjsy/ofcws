@@ -1,6 +1,6 @@
 <?php
   $thetitle = 'MMA For You? | ';
-  include( "/pg-header.php" );
+  include( "../../pg-header.php" );
 ?>
 
 
@@ -305,7 +305,7 @@
 </p>
 
 
-<?php	include("/pg-footer-a.php"); ?>
+<?php	include("../../pg-footer-a.php"); ?>
 
 
 

@@ -10,7 +10,9 @@
 </p>
 
 <p>
-	You may subscribe to the calendar's XML feed directly using <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">this link</a>. Highly recommended!
+  You may subscribe to the calendar's XML feed directly using
+  <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">this link</a>.
+  Highly recommended!
 </p>
 
 <!--
@@ -23,16 +25,16 @@
 </p>-->
 
 <p>
-  The
-	<a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>
-	and <a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto</a>
-   services offer more up-to-date information.
+  The club's
+  <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>
+  is the place where all news and updates are first published and that's where
+  the discussions occur so that's a very useful resource as well.
 </p>
 
 <h3>Upcoming Events</h3>
 
 <?php
-	$events = get_calendar_events( 'm8540j7mbg1akg32rvhfb6uir4@group.calendar.google.com', null, null, null, "ISO-8859-1", null, null, 12 );
+	$events = get_calendar_events( 'm8540j7mbg1akg32rvhfb6uir4@group.calendar.google.com', 90, null, null, "ISO-8859-1", null, null, 12 );
 
 	print_calendar_events( $events, "ezorgs_full_theme", null, "%Y-%m-%d", "%m-%d", "%H:%M" );
 ?>

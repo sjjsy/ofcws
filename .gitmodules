@@ -1,0 +1,3 @@
+[submodule "static/php/lib/phpFlickr/3.2"]
+	path = static/php/lib/phpFlickr/3.2
+	url = https://github.com/dan-coulter/phpflickr.git

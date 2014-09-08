@@ -10,7 +10,7 @@
 
 <b>
   A follow-up to the November 2013 course
-  <i><a href="./2013-11-01__i2mma1.php">
+  <i><a href="./2013-11-01__i2mma.php">
     Intro to MMA
   </a></i>
 </b>

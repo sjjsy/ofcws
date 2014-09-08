@@ -77,7 +77,7 @@
 
 <p>
   <i>
-    The only requirements for participation are
+    The only general requirements for participation are
     good general health and a sporty, positive and social attitude.
   </i>
 </p>
@@ -100,6 +100,9 @@
       Date & Time
     </th>
     <th>
+      Location
+    </th>
+    <th>
       Topic
     </th>
   </thead>
@@ -109,7 +112,10 @@
         2014-09-15 18:00-20:00
       </td>
       <td>
-        New Fighters' Night @ Tatamisali
+        Tatamisali
+      </td>
+      <td>
+        New Fighters' Night
       </td>
     </tr>
     <tr>
@@ -117,7 +123,10 @@
         2014-09-26 15:00-17:00
       </td>
       <td>
-        Basics of Boxing @ Otahalli
+        Otahalli
+      </td>
+      <td>
+        Basics of Boxing
       </td>
     </tr>
     <tr>
@@ -125,7 +134,10 @@
         2014-09-29 18:00-19:30
       </td>
       <td>
-        BJJ Tryout @ Tatamisali
+        Tatamisali
+      </td>
+      <td>
+        BJJ Tryout
       </td>
     </tr>
     <tr>
@@ -133,7 +145,10 @@
         2014-10-06 18:00-20:00
       </td>
       <td>
-        New Fighters' Night @ Tatamisali
+        Tatamisali
+      </td>
+      <td>
+        New Fighters' Night
       </td>
     </tr>
     <tr>
@@ -141,7 +156,10 @@
         2014-10-10 15:00-17:00
       </td>
       <td>
-        Boxing Techniques @ Otahalli
+        Otahalli
+      </td>
+      <td>
+        Boxing Techniques
       </td>
     </tr>
     <tr>
@@ -149,7 +167,14 @@
         2014-10-31 15:00-17:00
       </td>
       <td>
-        Muay Thai (course) 1/4 @ Otahalli
+        Otahalli
+      </td>
+      <td>
+        Muay Thai (course) 1/4 <br>
+        Read more at the
+        <a href="/pgs/course.php">
+          course page.
+        </a>
       </td>
     </tr>
   </tbody>
@@ -176,8 +201,11 @@
 <p>
   <b>Otahalli</b>: Otaranta 6, Espoo.<br>
   The tatami area is located in the left side of the sports hall named
-  "Monitoimihalli" at "Heittopaikka". The tatami area isn't visible when
-  you get into the hall. You must walk to the far-left corner to spot it.
+  "Monitoimihalli" at "Heittopaikka". When not in use, the tatami pieces
+  are stored in a stack. At the start/finish of trainings we deploy/stack
+  the pieces. The tatami area isn't visible from the entrance of the hall.
+  You must walk to the far-left corner to spot it.
+  <br>
   In case you have a valid Unisport subscription, you can register for
   the session via the Unisport reader, otherwise just say you're going
   to attend "Vapaaottelu" to the receptionists. Finding the place and
@@ -213,34 +241,32 @@
   more relaxed and open twist specifically targeted for newbies.
   There might be more experienced members doing some BJJ training which
   you can simply watch, but in case you feel like it. You can also join
-  the action and give a try yourself. In these sessions there is no "programme",
-  but snacks will be served. You may participate without equipment.
+  the action and give a try yourself. In these sessions there is no fixed
+  programme, but you can expect free snacks and the friendly company of
+  some of our members. You may participate without equipment.
 </p>
 
 <p>
-  The <b>Basics of Boxing</b> and <b>Boxing Techniques</b> sessions are boxing
-  trainings targeted with interested to train boxing. The instructor will
-  be Roman Mouginot and you are guaranteed to get sweaty. Both sessions
-  start with a proper warmup, continue with technique drills and finish
-  with some sort of sparring. These sessions require mouth guards and boxing
-  gloves (we have a few pairs we might be able to lend).
+  The <b>Basics of Boxing</b> and <b>Boxing Techniques</b> sessions are
+  independent sessions targeted to people with interest on developing their
+  boxing skills.
+  The instructor will be Roman Mouginot which means the training will be
+  worth your time no matter your level.
+  Both sessions start with a proper warmup, continue with technique drills and
+  finish with some sort of sparring.
+  In order to participate, you should bring your own mouth guards and
+  boxing gloves (though we have a few pairs we might be able to lend).
 </p>
 
 <p>
   The <b>BJJ Tryout</b> session is for everyone interested in training
   Brazilian Jiu-Jitsu and/or submission wrestling. We train that regularly
   at Tatamisali. There you'll get to learn some basic moves and see more
-  of what it really is. It will be good exercise in the sense that you will
-  get sweaty. You may participate without equipment.
+  of what the sport is really about.
   You will also learn more about our club, who we are and how and why we train.
-</p>
-
-<p>
-  The <b>Muay Thai</b> session is the first session of the course of this
-  fall. Read more about the course at the
-  <a href="/pgs/course.php">
-    course page.
-  </a>
+  Heikki Jussila will be the primary instructor there.
+  You may participate without equipment.
+  And don't worry, it will be good exercise!
 </p>
 
 
@@ -249,7 +275,7 @@
 </h4>
 
 <p>
-  There will be at least two of our primary guides there for you at each session.
+  There will be at least two of our main guides there for you at each session.
   You can find a brief description of these guys at our
   <a href="/pgs/guides.php">
     guides page.
@@ -262,7 +288,8 @@
 </h4>
 
 <p>
-  Free, interesting chances to get to know more about the club and what we do.
+  A few interesting chances to get to know more about the club,
+  and more importantly, about what and how we train. All for free.
 </p>
 
 <p>

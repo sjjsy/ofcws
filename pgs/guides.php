@@ -62,11 +62,12 @@
       Background: Boxing and French Boxing<br/>
     </p>
     <p>
-      Roman is a quasi-professional boxer.
+      Roman is a hard core boxer.
       While he has some experience from BJJ and other fields as well
       he's been more or less exclusively focused on boxing throughout
       his martial arts career.
-      He trains hard which is why he's an excellent instructor.
+      He trains hard and doesn't waste time on talking nonsense which
+      makes him an effective instructor.
       Getting a peek on his boxing skills and training style is
       valuable no matter which part of MMA you decide to focus on.
     </p>
@@ -86,11 +87,14 @@
     </p>
     <p>
       Samuel started practicing martial arts in his teens and has introduced
-      himself to multiple arts.
-      At OFC he has doubled his abilities and arsenal of techniques.
-      He has been pretty devoted to developing the club and himself in
-      it since he first encountered it back in late 2012.
-      He is decent in most parts of MMA but master of none.
+      himself to multiple styles.
+      During his years at OFC he has doubled his abilities and arsenal
+      of techniques.
+      He has been pretty devoted to developing the club and his
+      martial arts skills since his first encounter with the club back
+      in late 2012.
+      While he is no master in any of the areas of MMA, he handles most ok
+      and knows what newbies should focus on.
       He trains for fitness and develops OFC for you!
     </p>
   </div>

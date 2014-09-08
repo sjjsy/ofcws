@@ -334,8 +334,13 @@
   Just show up and enjoy!
 </p>
 
+<p>
+  You can post questions and discuss these events and anything related at our
+  <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>.
+</p>
 
-<?php  include("../pg-footer-a.php"); ?>
+
+<?php include("../pg-footer-a.php"); ?>
 
 
 

@@ -4,7 +4,7 @@
 ?>
 
 
-<h2>Instructors and Guides</h2>
+<h2>Guides/Instructors</h2>
 
 <br/>
 <br/>
@@ -104,7 +104,7 @@
 </div>
 
 
-<?php  include("../pg-footer-a.php"); ?>
+<?php include("../pg-footer-a.php"); ?>
 
 
 

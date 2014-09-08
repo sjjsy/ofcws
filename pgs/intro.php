@@ -191,27 +191,32 @@
   All sessions will be held either in Tatamisali or in Otahalli. Here's
   a brief description on how to find them:
 </p>
+
 <p>
-  <b>Tatamisali</b> Jämeräntaival 5 A, Espoo.<br>
-  After you enter from the entrance turn right and you'll see a white
-  door 5 meters directly in front of you. Usually we change clothes
-  to our gear inside the tatami hall. Another possibility is to use the
-  dressing room for the sauna downstairs in case its free.
+  <b>Tatamisali</b>: Jämeräntaival 5 A, Espoo.<br>
+  After you enter from the A entrance you'll see the white door of Tatamisali
+  5 meters directly right from you.
+  Usually we switch to our training gear inside the tatami hall.
+  Another possibility is to use the sauna's dressing room downstairs
+  (in case its free).
+  In case the door is closed you should call the key holder that is
+  participating in the event.
 </p>
+
 <p>
   <b>Otahalli</b>: Otaranta 6, Espoo.<br>
   The tatami area is located in the left side of the sports hall named
   "Monitoimihalli" at "Heittopaikka". When not in use, the tatami pieces
   are stored in a stack. At the start/finish of trainings we deploy/stack
   the pieces. The tatami area isn't visible from the entrance of the hall.
-  You must walk to the far-left corner to spot it.
+  You must walk to the far-left corner to spot it at your left.
   <br>
-  In case you have a valid Unisport subscription, you can register for
-  the session via the Unisport reader, otherwise just say you're going
-  to attend "Vapaaottelu" to the receptionists. Finding the place and
-  changing your clothes at the dressing rooms might take time, so
-  please adjust your schedules accordingly. You should take a lock to
-  keep your stuff safe at the locker.
+  In case you have a valid Unisport subscription, you should register
+  to the sessions via the Unisport reader, otherwise just say you're
+  going to attend "Vapaaottelu" to the receptionists.
+  Finding the place and changing your clothes at the dressing rooms
+  might take time, so please adjust your schedules accordingly.
+  You should take a small bell lock to keep your stuff safe at a locker.
 </p>
 
 
@@ -220,9 +225,9 @@
 </h4>
 
 <p>
-  There are no odd requirements for participation except normal health and a
-  sporty, positive and social attitude.
-  There's no need for special equipment.
+  In most sessions there are no odd requirements for participation
+  except normal health and a sporty, positive and social attitude.
+  You are not forced to acquire any special equipment.
   A sturdy pair of shorts and a t-shirt will do.
   We train barefoot on the tatami.
   Just remember to round your nails and lay an eye on this document
@@ -241,9 +246,10 @@
   more relaxed and open twist specifically targeted for newbies.
   There might be more experienced members doing some BJJ training which
   you can simply watch, but in case you feel like it. You can also join
-  the action and give a try yourself. In these sessions there is no fixed
-  programme, but you can expect free snacks and the friendly company of
-  some of our members. You may participate without equipment.
+  the action and give a try yourself.
+  In these sessions there is no fixed programme, but you can expect
+  free snacks and the friendly company of some of our members.
+  You may participate without equipment.
 </p>
 
 <p>

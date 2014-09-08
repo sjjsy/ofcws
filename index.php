@@ -9,7 +9,11 @@
 </p>
 
 <p>
-  If you're a student in the capital region and you're interested in martial arts -- or close, then this site is for you! Feel free to browse away: Check out at least some of our pics from our <a href="/pgs/gallery.php">Gallery</a> and who we are and what we do from the <a href="/pgs/about.php">About</a> page!
+  If you're a student in the capital region and you're interested in
+  martial arts -- or close, then this site is for you! Feel free to
+  browse away: Check out at least some of our pics from our
+  <a href="/pgs/gallery.php">Gallery</a> and who we are and what we
+  do from the <a href="/pgs/about.php">About</a> page!
 </p>
 
 
@@ -34,15 +38,16 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
-      2014-04-30
+      2014-09-08
     </strong>
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">
-      MMA For You?
+      OFC For You?
     </h4>
     <p>
-      We're organizing a session on mid May to introduce people to MMA and our club.
+      We're organizing a few opportunities for newcomers to get to know
+      our club and what and how we train.
       Read more from
       <a href="/pgs/intro.php">
         here.
@@ -53,65 +58,7 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
-      2014-04-17
-    </strong>
-  </div>
-  <div class="col-md-9">
-    <h4 style="margin-top:0px;">
-      How Fit Are You?
-    </h4>
-    <p>
-      We're organizing two chances to benchmark your fitness in May!
-      Read more from
-      <a href="/pgs/fitness.php">
-        here.
-      </a>
-    </p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-3">
-    <strong>
-      2014-04-17
-    </strong>
-  </div>
-  <div class="col-md-9">
-    <h4 style="margin-top:0px;">
-      General Meeting on the 17th of May
-    </h4>
-    <p>
-      Read more about the meeting
-      <a href="/pgs/meeting-2014-05-17.php">
-        here.
-      </a>
-    </p>
-  </div>
-</div>
-<!--
-<div class="row">
-  <div class="col-md-3">
-    <strong>
-      2014-02-26
-    </strong>
-  </div>
-  <div class="col-md-9">
-    <h4 style="margin-top:0px;">
-      The Spring Course Is Booked
-    </h4>
-    <p>
-      The course is booked. You may still register, but you'll get into the
-      course only if somebody else cancels his/her participation.
-      Read more about the course at the
-      <a href="/pgs/course.php">
-        course page.
-      </a>
-    </p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-3">
-    <strong>
-      2014-02-15
+      2014-09-08
     </strong>
   </div>
   <div class="col-md-9">
@@ -119,7 +66,7 @@
       Course Registration Opened
     </h4>
     <p>
-      The registration for the club's spring course has been opened!
+      The registration for the club's fall course has been opened!
       Link to the registration can be found at the
       <a href="/pgs/course.php">
         course page.
@@ -127,7 +74,6 @@
     </p>
   </div>
 </div>
--->
 
 
 

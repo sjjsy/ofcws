@@ -1,11 +1,10 @@
 <?php
-  $thetitle = 'MMA For You? | ';
+  $thetitle = 'OFC For You? | ';
   include( "../pg-header.php" );
 ?>
 
 
-<h2>MMA For You?</h2>
-
+<h2>OFC For You?</h2>
 
 <br/>
 <br/>
@@ -17,7 +16,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A two hour intro to MMA
+      Opportunities to learn about OFC, Brazilian Jiu-Jitsu, Boxing and Muay Thai
     </div>
   </div>
   <div class="row">
@@ -25,7 +24,7 @@
       For whom?
     </div>
     <div class="col-md-9">
-      You and your friends
+      Aalto students and faculty
     </div>
   </div>
   <div class="row">
@@ -33,7 +32,7 @@
       Any costs?
     </div>
     <div class="col-md-9">
-      Zero, zip, nada
+      Zero, zip, nada; Only the course has a modest fee
     </div>
   </div>
   <div class="row">
@@ -41,7 +40,7 @@
       When?
     </div>
     <div class="col-md-9">
-      15:00-17:00 on the 16th of May
+      See the schedule below
     </div>
   </div>
   <div class="row">
@@ -49,7 +48,7 @@
       Where?
     </div>
     <div class="col-md-9">
-      At Otahalli, Unisport Otaniemi
+      At Tatamisali and Unisport Otaniemi
     </div>
   </div>
   <div class="row">
@@ -72,13 +71,14 @@
 </h3>
 
 <p>
-  The club is organizing a chance for everybody to get more familiar with the club and the sport we call MMA and martial arts in general.
+  The club is organizing a few opportunities for everybody to get more
+  familiar with the club and the sports we practice.
 </p>
 
 <p>
   <i>
     The only requirements for participation are
-    good health and a social positive attitude.
+    good general health and a sporty, positive and social attitude.
   </i>
 </p>
 
@@ -97,7 +97,7 @@
 <table class="table">
   <thead>
     <th>
-      Time
+      Date & Time
     </th>
     <th>
       Topic
@@ -106,50 +106,50 @@
   <tbody>
     <tr>
       <td>
-        15:00-15:15
+        2014-09-15 18:00-20:00
       </td>
       <td>
-        What the MMA!?
-      </td>
-    </tr>
-    <tr>
-      <td>
-        15:15-15:30
-      </td>
-      <td>
-        General Warmup
+        New Fighters' Night @ Tatamisali
       </td>
     </tr>
     <tr>
       <td>
-        15:30-15:50
+        2014-09-26 15:00-17:00
       </td>
       <td>
-        Arts on Foot
-      </td>
-    </tr>
-    <tr>
-      <td>
-        15:50-16:10
-      </td>
-      <td>
-        Arts on the Ground
+        Basics of Boxing @ Otahalli
       </td>
     </tr>
     <tr>
       <td>
-        16:10-16:40
+        2014-09-29 18:00-19:30
       </td>
       <td>
-        Arts of Sparring
+        BJJ Tryout @ Tatamisali
       </td>
     </tr>
     <tr>
       <td>
-        16:40-17:00
+        2014-10-06 18:00-20:00
       </td>
       <td>
-        Muscle Joy
+        New Fighters' Night @ Tatamisali
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2014-10-10 15:00-17:00
+      </td>
+      <td>
+        Boxing Techniques @ Otahalli
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2014-10-31 15:00-17:00
+      </td>
+      <td>
+        Muay Thai (course) 1/4 @ Otahalli
       </td>
     </tr>
   </tbody>
@@ -163,7 +163,27 @@
 </h4>
 
 <p>
-  The session will be held in the sports hall named "Monitoimihalli" in Unisport Otaniemi's Otahalli facilities. The address is Otaranta 6, 02150 Espoo. The tatami area isn't visible when you get into the hall. You must walk to the far-left corner to spot it. In case you have a valid Unisport subscription, you can register for the session via the Unisport reader, otherwise just say you're going to attend "Vapaaottelu" to the receptionists. Finding the place and changing your clothes at the dressing rooms might take time, so please adjust your schedules accordingly.
+  All sessions will be held either in Tatamisali or in Otahalli. Here's
+  a brief description on how to find them:
+</p>
+<p>
+  <b>Tatamisali</b> Jämeräntaival 5 A, Espoo.<br>
+  After you enter from the entrance turn right and you'll see a white
+  door 5 meters directly in front of you. Usually we change clothes
+  to our gear inside the tatami hall. Another possibility is to use the
+  dressing room for the sauna downstairs in case its free.
+</p>
+<p>
+  <b>Otahalli</b>: Otaranta 6, Espoo.<br>
+  The tatami area is located in the left side of the sports hall named
+  "Monitoimihalli" at "Heittopaikka". The tatami area isn't visible when
+  you get into the hall. You must walk to the far-left corner to spot it.
+  In case you have a valid Unisport subscription, you can register for
+  the session via the Unisport reader, otherwise just say you're going
+  to attend "Vapaaottelu" to the receptionists. Finding the place and
+  changing your clothes at the dressing rooms might take time, so
+  please adjust your schedules accordingly. You should take a lock to
+  keep your stuff safe at the locker.
 </p>
 
 
@@ -173,13 +193,14 @@
 
 <p>
   There are no odd requirements for participation except normal health and a
-  social positive attitude.
+  sporty, positive and social attitude.
   There's no need for special equipment.
   A sturdy pair of shorts and a t-shirt will do.
-  No socks on the tatami.
+  We train barefoot on the tatami.
   Just remember to round your nails and lay an eye on this document
-	<a href="http://bit.ly/1co4oyc">in English</a> or
-	<a href="http://bit.ly/16YllRa">in Finnish</a>.
+  <a href="http://bit.ly/1co4oyc">in English</a> or
+  <a href="http://bit.ly/16YllRa">in Finnish</a>.
+  You are required to sign it once you really start training with us.
 </p>
 
 
@@ -188,65 +209,52 @@
 </h4>
 
 <p>
-  The schedule above is a rough sketch to let you know what to expect.
-  The objective of the session is to give you a quick & compact introduction to
-  the sport we refer to as MMA and martial arts in general. You will also learn
-  more about our club, who we are and how and why we train.
+  <b>The New Fighters' Nights</b> are regular Monday trainings with a
+  more relaxed and open twist specifically targeted for newbies.
+  There might be more experienced members doing some BJJ training which
+  you can simply watch, but in case you feel like it. You can also join
+  the action and give a try yourself. In these sessions there is no "programme",
+  but snacks will be served. You may participate without equipment.
 </p>
 
 <p>
-  Even though the session is novice friendly, we'll make you sweat. The session
-  also contains an introduction to the art of sparring. This is going to include
-  a few soft-contact exercises. But fear not: at OFC we train as ladies and gentlemen.
+  The <b>Basics of Boxing</b> and <b>Boxing Techniques</b> sessions are boxing
+  trainings targeted with interested to train boxing. The instructor will
+  be Roman Mouginot and you are guaranteed to get sweaty. Both sessions
+  start with a proper warmup, continue with technique drills and finish
+  with some sort of sparring. These sessions require mouth guards and boxing
+  gloves (we have a few pairs we might be able to lend).
+</p>
+
+<p>
+  The <b>BJJ Tryout</b> session is for everyone interested in training
+  Brazilian Jiu-Jitsu and/or submission wrestling. We train that regularly
+  at Tatamisali. There you'll get to learn some basic moves and see more
+  of what it really is. It will be good exercise in the sense that you will
+  get sweaty. You may participate without equipment.
+  You will also learn more about our club, who we are and how and why we train.
+</p>
+
+<p>
+  The <b>Muay Thai</b> session is the first session of the course of this
+  fall. Read more about the course at the
+  <a href="/pgs/course.php">
+    course page.
+  </a>
 </p>
 
 
 <h4>
-  Introducers
+  Guides
 </h4>
 
-<div class="row">
-  <div class="col-md-7">
-    <strong>
-      Heikki Jussila
-    </strong>
-    <p>
-      School: Aalto School of Engineering<br/>
-      Background: Competetive Judo, MMA<br/>
-    </p>
-    <p>
-      Heikki was asked to be your introducer, since his experience in martial arts is
-      long and broad. He's fit to guide you to both the stand-up and on-the-ground
-      arts, styles and techniques. He's experienced as an instructor and knows
-      all about the club as well.<br/>
-    </p>
-  </div>
-  <div class="col-md-5" style="padding:1em;">
-    <img src="/static/gfx/course/threesome__jussila.jpg" height="150px" />
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-7">
-    <strong>
-      Roman Mouginot
-    </strong>
-    <p>
-      School: Aalto School of Engineering<br/>
-      Background: Boxing and French Boxing<br/>
-    </p>
-    <p>
-      Roman was asked to accompany Heikki since as a quasi-professional boxer
-      he's perfect for complementing Jussila's expertise and approach. While he
-      has some experience from BJJ and other fields as well he's been more or less
-      exclusively focused on boxing throughout his martial arts career.
-      Getting a peek on his approach, teachings and training style is valuable to
-      all novice martial artists.
-    </p>
-  </div>
-  <div class="col-md-5" style="padding:1em;">
-    <img src="/static/gfx/course/threesome__mouginot.jpg" height="150px" />
-  </div>
-</div>
+<p>
+  There will be at least two of our primary guides there for you at each session.
+  You can find a brief description of these guys at our
+  <a href="/pgs/guides.php">
+    guides page.
+  </a>
+</p>
 
 
 <h4>
@@ -254,7 +262,7 @@
 </h4>
 
 <p>
-  A free, compact, hard-to-beat chance to get to know more about the club and MMA.
+  Free, interesting chances to get to know more about the club and what we do.
 </p>
 
 <p>
@@ -262,9 +270,9 @@
   <strong class="text-error">
     excuses
   </strong>
-  for not coming?
+  for not joining us?
   <br/>
-  You: 
+  You:
   <strong>
     No. None whatsoever! .. In fact, I'm gonna have my mates join as well!
   </strong>
@@ -272,10 +280,10 @@
   Thadda boy! ;)
   <strong>
     Go get em!
-	  <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fintro.php&t=Otaniemi%20Fight%20Club%3A%20MMA%20For%20You?">
+    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fintro.php&t=Otaniemi%20Fight%20Club%20For%20You?">
       via FB
     </a> &
-    <a href="http://twitter.com/share?text=MMA%20For%20You?&url=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fintro.php">
+    <a href="http://twitter.com/share?text=OFC%20For%20You?&url=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fintro.php">
       via Twitter
     </a>
   </strong>
@@ -289,14 +297,12 @@
 </h3>
 
 <p>
-  Register yourself by simply adding your name to the queue
-  <a href="http://bit.ly/1fJl5tw">
-    here.
-  </a>
+  Excluding the course, these events require no registration.
+  Just show up and enjoy!
 </p>
 
 
-<?php	include("../pg-footer-a.php"); ?>	
+<?php  include("../pg-footer-a.php"); ?>
 
 
 

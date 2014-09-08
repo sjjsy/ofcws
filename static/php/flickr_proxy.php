@@ -5,13 +5,16 @@
   $pg    = array_key_exists(   'pg', $_GET)  ? $_GET[   'pg'] :  1;
 
   // include the phpFlickr library
-  require_once( 'lib/phpFlickr/3.1/phpFlickr.php' );
+  require_once('lib/phpFlickr/3.2/phpFlickr.php');
    
   // create an instance of the phpFlickr class
-  $f = new phpFlickr( '4071a364cffdf5dbd010a7eeb131bf50' );
-   
+  $f = new phpFlickr('4071a364cffdf5dbd010a7eeb131bf50', 'ec73ffa9fa33b614', false);
+
+  // Caching
+  $f->enableCache("fs", "/home/ofc/www-data/cache");
+
   // fetch photos from the group    array('warmup','kickboxing')
-  $resp = $f->groups_pools_getPhotos( '2405618@N22', NULL, NULL, NULL, 'path_alias', $npcpp, $pg );
+  $resp = $f->groups_pools_getPhotos('2405618@N22', NULL, NULL, NULL, 'path_alias', $npcpp, $pg);
 
   $output = array(
     'total'   => $resp['photos']['total'],

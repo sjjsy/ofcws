@@ -1,7 +1,7 @@
 <?php	$thetitle='Honorary Members | '; include("../pg-header.php"); ?>
 
 
-<div align="center">
+<div align="center" width="80%">
 
   <h2>Honorary Members</h2>
 

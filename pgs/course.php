@@ -102,7 +102,8 @@
 </h3>
 
 <p>
-  We at Otaniemi Fight Club are organizing a course on Muay Thai. Check out the schedule below!
+  We at Otaniemi Fight Club are organizing an introductory course on
+  Muay Thai. Check out the schedule below!
 </p>
 
 <p>
@@ -232,6 +233,29 @@
 <p>
   Yes, its all in our Google Calendar. Subscribe to it at the
   <a href="/pgs/events.php">events page</a>.
+</p>
+
+
+<h4>
+  Objective
+</h4>
+
+<p>
+  After this four session course the participants should have an idea
+  of what Muay Thai, <i>the art of the four limbs</i>, is,
+  how it can be trained,
+  how some of its most essential techniques and moves can be applied,
+  and, how martial arts can be trained safely.
+  The objective is that even participants with no prior martial arts
+  experience would then be able to join the club's weekly trainings
+  (or attend a more thorough course).
+</p>
+
+<p>
+  While this is a beginner-level course, more experienced participants
+  (even those with specifically Muay Thai experience) should still
+  benefit from the trainings as training the most essential basic
+  techniques repeatedly is very rarely a waste of time.
 </p>
 
 

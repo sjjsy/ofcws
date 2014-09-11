@@ -126,7 +126,7 @@
         Otahalli
       </td>
       <td>
-        Basics of Boxing
+        Basics of Boxing I
       </td>
     </tr>
     <tr>
@@ -159,7 +159,7 @@
         Otahalli
       </td>
       <td>
-        Boxing Techniques
+        Basics of Boxing II
       </td>
     </tr>
     <tr>
@@ -253,7 +253,7 @@
 </p>
 
 <p>
-  The <b>Basics of Boxing</b> and <b>Boxing Techniques</b> sessions are
+  The <b>Basics of Boxing I</b> and <b>II</b> sessions are
   independent sessions targeted to people with interest on developing their
   boxing skills.
   The instructor will be Roman Mouginot which means the training will be

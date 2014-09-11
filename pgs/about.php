@@ -1,4 +1,4 @@
-<?php  $thetitle='About | '; include("../pg-header.php"); ?>
+<?php $thetitle='About | '; include("../pg-header.php"); ?>
 
 
 <h2>About</h2>
@@ -62,7 +62,7 @@
   The board can be contacted via
   <ol>
     <li>the board's mailing list: <?php echo hide_email('ofc-hallitus@list.ayy.fi'); ?>,</li>
-    <li>phone: 040 841 58 77 (President) -- recommended if the matter is urgent,</li>
+    <li>phone: 0408415877 (President) -- recommended if the matter is urgent,</li>
     <li>the <a href="http://www.facebook.com/groups/107657179302080/">Facebook group for members</a>, and if needbe via</li>
     <li>the <a href="http://www.facebook.com/groups/122032444635141/">Facebook group of the board</a>.</li>
   </ol>
@@ -98,9 +98,11 @@
 <h4 id="web">The Club on the Web</h4>
 <ul>
   <li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- The club's public Facebook group for everyday information flow</li>
-  <li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- The club's weekly training session schedule and participant information</li>
+  <!--
+    <li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- The club's weekly training session schedule and participant information</li>
+  -->
   <li><a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a> -- A brief description of the club at the AYY's list of associations.</li>
 </ul>
 
 
-<?php  include("../pg-footer.php"); ?>
+<?php include("../pg-footer.php"); ?>

@@ -163,7 +163,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Wrestling
+        Movement & Striking
       </td>
       <td>
         Rantamoijanen
@@ -177,7 +177,7 @@
         Otahalli
       </td>
       <td>
-        Stand-up Techniques
+        Kicks I
       </td>
       <td>
         Rantamoijanen
@@ -191,7 +191,7 @@
         Otahalli
       </td>
       <td>
-        Striking
+        Kicks II
       </td>
       <td>
         Rantamoijanen
@@ -205,7 +205,7 @@
         Otahalli
       </td>
       <td>
-        The Ground Game
+        Combinations & Clinching
       </td>
       <td>
         Rantamoijanen

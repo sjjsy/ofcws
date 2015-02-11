@@ -31,31 +31,19 @@
 </p>
 
 
-<h4 id="docs">The Official Documents</h4>
-
-<p>
-  In case you're interested in checking out our collection of official documents
-  you can find them through our
-    <a href="http://bit.ly/1e2zXPe">link sheet</a>
-  at our Google Drive folder.
-</p>
-
-<p>
-  You might be interested to check out our official rules and this year's plan
-  of activities for instance.
-</p>
-
-
-
 <h4 id="board">The Board</h4>
 
 <p>
+  The club's board members are elected every year.
+  This year's board is organized thus:
+</p>
+
+<p>
   President: <b>Samuel Marisa</b><br/>
-  Treasurer: <b>Ville Sorsa</b><br/>
-  Secretary: <b>Tino Tuominen</b><br/>
-  Event Coordinator: <b>Jani Fellman</b><br/>
+  Treasurer: <b>Jared Myren</b><br/>
+  Secretary: <b>Jesperi Rantanen</b><br/>
+  Event Coordinator: <b>Tino Tuominen</b><br/>
   Marketing: <b>Heikki Jussila</b><br/>
-  Additional members: <b>Mikko Salama</b><br/>
 </p>
 
 <p>
@@ -74,12 +62,27 @@
 </p>
 
 
-<h4 id="pboards">Past Boards</h4>
+<h5 id="pboards">Past Boards</h5>
 
 <p>
   All the clubs past boards are listed at the
   <a href="/pgs/boards.php">boards page</a>.
   Check it out!
+</p>
+
+
+<h4 id="docs">The Official Documents</h4>
+
+<p>
+  In case you're interested in checking out our collection of documents
+  you can find them through our
+    <a href="http://bit.ly/1e2zXPe">link sheet</a>
+  at our Google Drive folder.
+</p>
+
+<p>
+  You might be interested to check out our official rules and this year's plan
+  of activities for instance.
 </p>
 
 
@@ -95,14 +98,31 @@
 </p>
 
 
-<h4 id="web">The Club on the Web</h4>
-<ul>
-  <li><a href="http://www.facebook.com/groups/107657179302080/">Facebook</a> -- The club's public Facebook group for everyday information flow</li>
-  <!--
-    <li><a href="http://otaniemifightclub.nimenhuuto.com/">Nimenhuuto.com</a> -- The club's weekly training session schedule and participant information</li>
-  -->
-  <li><a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a> -- A brief description of the club at the AYY's list of associations.</li>
-</ul>
+<h4 id="web">The Club Elsewhere on the Web</h4>
+
+<h5 id="fbgroup">Facebook Group</h5>
+
+<p>
+  The club has a public
+  <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>
+  which is used for weekly communication. It is the best place to stay in
+  touch with other members, learn about current plans and discuss
+  everything related to the club.
+</p>
+
+<h5 id="flickr">Flickr Group</h5>
+
+<p>
+  The club has a public
+  <a href="https://www.flickr.com/groups/otaniemifightclub/">Flickr group</a>
+  which houses all our photos. It is a great resource for those who want
+  to get an idea of how our trainings might look like.
+</p>
+
+<h5 id="ayyadvert">AYY's Association List</h5>
+
+The club also has a page with a brief description at
+<a href="http://ayy.fi/en/blog/profiles/otaniemi-fight-club-en/">AYY's Association List</a>.
 
 
 <?php include("../pg-footer.php"); ?>

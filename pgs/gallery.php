@@ -23,6 +23,15 @@
 
     <p class="loader">
       Waiting for Flickr...
+      <br/>
+      <br/>
+      <br/>
+      <small>
+        Note: If the photos fail to load,<br/>
+        you can try to browse them<br/>
+        directly at
+        <a href="https://www.flickr.com/groups/otaniemifightclub/">Flickr</a>.
+      </small>
     </p>
   </div>
 

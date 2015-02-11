@@ -46,7 +46,7 @@ $(document).ready(function() {
 
     // calls local proxy to retrieve flickr data for the selected type
     function load( pg ) {
-      console.log( 'load:' + pg + ' ' + npages );
+      console.log( 'load: ' + pg + ' ' + npages );
       if ( ( npages == -1 ) || ( ( npages >= 0 ) && ( (0 < pg) && (pg <= npages) ) ) ) {
         ipage = pg;
         $.get(

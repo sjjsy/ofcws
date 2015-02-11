@@ -1,17 +1,17 @@
 <?php
-  $thetitle = 'Muay Thai (course) | ';
+  $thetitle = 'Intermediate Course | ';
   $vpfss    =  array();
   $vpfss[]  = '/static/css/course.css';
   include( "../pg-header.php" );
 ?>
 
 
-<h2>Muay Thai</h2>
+<h2>Intermediate Course</h2>
 
 <b>
-  A follow-up to the spring 2014 course
-  <i><a href="./courses/2014-02-28__i2mma2.php">
-    Intro to MMA II
+  A follow-up to the fall 2014 course
+  <i><a href="./courses/2014-10-31__muay_thai.php">
+    Muay Thai
   </a></i>
 </b>
 
@@ -25,7 +25,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A four session course on Muay Thai
+      A course on Muay Thai and Wrestling
     </div>
   </div>
   <div class="row">
@@ -33,7 +33,7 @@
       For whom?
     </div>
     <div class="col-md-9">
-      Anyone with interest in martial arts
+      Anyone with some experience in martial arts
     </div>
   </div>
   <div class="row">
@@ -41,7 +41,10 @@
       Any costs?
     </div>
     <div class="col-md-9">
-      15 euros for a non-member
+      Free for members.
+      <a href="./join_us.php">
+        Join us
+      </a> if you haven't yet!
     </div>
   </div>
   <div class="row">
@@ -49,7 +52,7 @@
       When?
     </div>
     <div class="col-md-9">
-      15-17 every Friday from October 31st until November 21st
+      Fridays 15-17 and Saturdays 12-14
     </div>
   </div>
   <div class="row">
@@ -57,7 +60,7 @@
       Where?
     </div>
     <div class="col-md-9">
-      At Monitoimihalli, Unisport Otaniemi, Espoo
+      In Otaniemi
     </div>
   </div>
   <div class="row">
@@ -82,7 +85,7 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
-      2014-09-08
+      2015-02-11
     </strong>
   </div>
   <div class="col-md-9">
@@ -102,8 +105,8 @@
 </h3>
 
 <p>
-  We at Otaniemi Fight Club are organizing an introductory course on
-  Muay Thai. Check out the schedule below!
+  We at Otaniemi Fight Club are organizing an intermediary course on
+  Muay Thai and BJJ. Check out the schedule below!
 </p>
 
 <p>
@@ -130,8 +133,10 @@
 </h4>
 
 <p>
-  All of the trainings will be held in Monitoimihalli at Unisport's Otaniemi facilities
-  (Otaranta 6, 02150 Espoo, Finland).
+  All of the trainings will be held either in
+  Monitoimihalli at Unisport's Otaniemi facilities
+  (Otaranta 6)
+  or in Tatamisali (Jämeräntaival 5 A).
 </p>
 
 
@@ -157,13 +162,13 @@
   <tbody>
     <tr>
       <td>
-        2014-10-31 15:00-17:00 (Fri)
+        2015-02-27 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Movement & Striking
+        Muay Thai I
       </td>
       <td>
         Rantamoijanen
@@ -171,13 +176,27 @@
     </tr>
     <tr>
       <td>
-        2014-11-07 15:00-17:00 (Fri)
+        2015-03-07 12:00-14:00 (Sat)
+      </td>
+      <td>
+        Tatamisali
+      </td>
+      <td>
+        Wrestling I
+      </td>
+      <td>
+        Jussila
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2015-03-13 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Kicks I
+        Muay Thai II
       </td>
       <td>
         Rantamoijanen
@@ -185,13 +204,27 @@
     </tr>
     <tr>
       <td>
-        2014-11-14 15:00-17:00 (Fri)
+        2015-03-21 12:00-14:00 (Sat)
+      </td>
+      <td>
+        Tatamisali
+      </td>
+      <td>
+        Wrestling II
+      </td>
+      <td>
+        Jussila
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2015-03-27 15:00-17:00 (Fri)
       </td>
       <td>
         Otahalli
       </td>
       <td>
-        Kicks II
+        Muay Thai III
       </td>
       <td>
         Rantamoijanen
@@ -199,27 +232,27 @@
     </tr>
     <tr>
       <td>
-        2014-11-21 15:00-17:00 (Fri)
+        2015-04-04 12:00-14:00 (Sat)
       </td>
       <td>
-        Otahalli
+        Tatamisali
       </td>
       <td>
-        Combinations & Clinching
+        Wrestling III
       </td>
       <td>
-        Rantamoijanen
+        Jussila
       </td>
     </tr>
     <tr>
       <td>
-        2014-XX-XX Weekly Trainings
+        2015-XX-XX Weekly Trainings
       </td>
       <td>
         Varies
       </td>
       <td>
-        MMA Sparring
+        Sparring
       </td>
       <td>
         You and Me!
@@ -231,6 +264,7 @@
 <br/>
 
 <p>
+  Note: We reserve the right to do minor alterations in the above schedule.
   Yes, its all in our Google Calendar. Subscribe to it at the
   <a href="/pgs/events.php">events page</a>.
 </p>
@@ -241,21 +275,14 @@
 </h4>
 
 <p>
-  After this four session course the participants should have an idea
-  of what Muay Thai, <i>the art of the four limbs</i>, is,
-  how it can be trained,
-  how some of its most essential techniques and moves can be applied,
-  and, how martial arts can be trained safely.
-  The objective is that even participants with no prior martial arts
-  experience would then be able to join the club's weekly trainings
-  (or attend a more thorough course).
+  Train participants in kickboxing and wrestling sparring such that at the end
+  of the course they are able to apply a variety of basic defensive and
+  offensive techniques better than beginners.
 </p>
 
 <p>
-  While this is a beginner-level course, more experienced participants
-  (even those with specifically Muay Thai experience) should still
-  benefit from the trainings as training the most essential basic
-  techniques repeatedly is very rarely a waste of time.
+  The secondary objective is to grow the club's weekly training participant
+  pool especially in the non-beginner segment.
 </p>
 
 
@@ -264,9 +291,8 @@
 </h4>
 
 <p>
-  The primary instructor will be Antti Rantamoijanen.
-  Jussila and Marisa will be present as secondary instructors in most trainings.
-  Read more about these guys at our
+  The primary instructors will be Antti Rantamoijanen and Heikki Jussila.
+  Read more about the club's instructors at our
   <a href="/pgs/guides.php">
     guides page.
   </a>
@@ -278,31 +304,12 @@
 </h4>
 
 <p>
-  Costs
-  <strong>
-    only 15 euros.
-  </strong>
-  Paid either as 1) a bank transfer or 2) in cash:
-  <ol>
-    <li>
-      <b>Bank transfer</b><br/>
-      Destination: FI27 5380 1120 0352 71<br/>
-      Message: "Muay Thai; Lastname, Firstnames"<br/>
-      Deadline: 2014-11-07
-    </li>
-    <li>
-      <b>In cash</b><br/>
-      Bring the exact amount (as we might not have change) to the first or
-      second session.
-    </li>
-  </ol>
-</p>
-
-<p>
-  The fee includes the 2014 fall membership for the club (right to
-  attend any of our weekly trainings and other activities). Members
-  who have already paid the membership fee for 2014 are eligible to
-  participate in the course for a cute fee of 5 euros.
+  You need to have a valid club membership status for this year.
+  See the
+  <a href="./join_us.php">
+    join us page
+  </a>
+  for instructions.
 </p>
 
 
@@ -315,10 +322,10 @@
     Good health
   </li>
   <li>
-    Good attitude
+    Good sporty & social attitude
   </li>
   <li>
-    Experience and/or interest in martial arts
+    Some experience in martial arts
   </li>
   <li>
     Willingness to sign the Terms of Participation
@@ -334,23 +341,31 @@
 
 <p>
   Fully participating in full-contact exercises like boxing or MMA-sparring
-  requires proper equipment. Use of insufficient or poor quality equipment
-  can lead to injury.
+  requires proper equipment.
+  Use of insuitable, insufficient or poor quality equipment can lead to injury.
 </p>
 
 <p>
-  However, one can participate in about 90% of this course without
-  any equipment due to the fact that the course is an introductory
-  course that does not focus on contact sparring but instead consists
-  of drills and exercises which require no special equipment.
-  In addition, the club will be able to sell or lend some equipment such
-  as boxing gloves, hand wraps and mouth guards.
+  The equipment needed in this course include:
+  <ol>
+    <li>Mouth guard</li>
+    <li>Jockstrap</li>
+    <li>16 oz boxing gloves or padded MMA gloves</li>
+    <li>Shin guards</li>
+  </ol>
 </p>
 
 <p>
-  In case you are interested to acquire equipment yourself, the priority
-  order is: 1) Mouth guard, 2) Boxing (sparring, 16 oz) or MMA gloves (padded),
-  3) Jockstrap, 4) Shin guards, 5) Headgear.
+  We expect most of the participants to be able to bring their own gear into
+  the exercise sessions.
+  However, the club will be able to sell, rent or lend some equipment such
+  as boxing gloves, hand wraps and mouth guards to a few participants.
+</p>
+
+<p>
+  Missing some of the equipment does not prevent all participation as
+  most sessions include lots of drills and other exercises that do not require
+  protective equipment.
 </p>
 
 
@@ -359,18 +374,14 @@
 </h4>
 
 <p>
-  8+ hours of beneficial exercise, lots of sweating & quality company guaranteed
-  with a fee almost equal to zero (max. 2€/h), wrapped into an effective
-  introductory package just <b>for You!</b>
+  12+ hours of beneficial exercise, lots of sweating & quality company
+  guaranteed with a fee almost equal to zero (&lt;2€/h), wrapped into an
+  easy effective package just <b>for You!</b>
 </p>
 
 <p>
-  Yes, this course is an excellent way to (re)learn basic martial arts skills
-  and get back to training and getting fit and able.
-  You'll learn the needed Muay Thai techniques that you need for starting
-  training regularly with members of Otaniemi Fight Club at our free weekly
-  trainings. There you'll have a chance to continue exercising, learning and
-  building on what the course taught you.
+  We hope that after the course you'll participate in our weekly trainings
+  where you'll have a chance to continue developing your skills and physique.
   If you have doubts, contact us through our Facebook group.
 </p>
 
@@ -387,10 +398,10 @@
   Thadda boy! ;)
   <strong>
     Go get em!
-    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php&t=Otaniemi%20Fight%20Club%3A%20Muay%20Thai">
+    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php&t=Otaniemi%20Fight%20Club%3A%20Intermediate%20Course">
       via FB
     </a> &
-    <a href="http://twitter.com/share?text=Join%20me%20on%20the%20course%20Muay%20Thai%20by%20Otaniemi%20Fight%20Club&url=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php">
+    <a href="http://twitter.com/share?text=Intermediate%20Course%20by%20Otaniemi%20Fight%20Club&url=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php">
       via Twitter
     </a>
   </strong>
@@ -408,19 +419,9 @@
   <a href="http://bit.ly/Kx9IpB">this form</a>.
   You'll simultaneously register as a member
   <b>
-    (Note: We will be able to fit only about 20 participants in).
+    (Note: We will be able to fit a maximum of 16 participants in).
   </b>
 </p>
-
-<!--
-<p>
-  Also join
-  <a href="">
-    the Facebook event
-  </a>
-  for the course!
-</p>
--->
 
 
 <?php include("../pg-footer-a.php"); ?>

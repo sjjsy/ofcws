@@ -3,41 +3,26 @@
 
 <h2>Events</h2>
 
-
 <p>
-	Below is a listing of some upcoming events from our event schedule. However, it
-	doesn't <i>repeat</i> recurring events such as the weekly trainings.
+  Below you should see our public Google Calendar.
+  We try to keep it as up to date as we can.
 </p>
-
 <p>
-  You may subscribe to the calendar's XML feed directly using
-  <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">this link</a>.
+  You can add the calendar into your Google Calendar using the button at
+  the lower right corner.
+  Alternatively you should be able to add the calendar to a third party
+  calendar app using the calendar's
+    <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">XML feed</a>.
   Highly recommended!
 </p>
 
-<!--
-<p>
-	We also have
-	<a href="/feed/rss.xml" title="The OFC Fight Feed" type="application/rss+xml">
-		an RSS feed
-	</a>
-	to which you can subscribe in order to follow the latest news.
-</p>-->
+<iframe src="https://www.google.com/calendar/embed?src=m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com&ctz=Europe/Helsinki" style="border: 0" width="600" height="600" frameborder="1" scrolling="no"></iframe>
 
 <p>
-  The club's
-  <a href="http://www.facebook.com/groups/107657179302080/">Facebook group</a>
-  is the place where all news and updates are first published and that's where
-  the discussions occur so that's a very useful resource as well.
+	In the spring of 2015 we have about three trainings per week.
+	There will be an attendance poll in
+	<a href="http://www.facebook.com/groups/107657179302080/">Facebook</a>
+	for each training. Please, use it to indicate when you are participating.
 </p>
-
-<h3>Upcoming Events</h3>
-
-<?php
-	$events = get_calendar_events( 'm8540j7mbg1akg32rvhfb6uir4@group.calendar.google.com', 90, null, null, "ISO-8859-1", null, null, 12 );
-
-	print_calendar_events( $events, "ezorgs_full_theme", null, "%Y-%m-%d", "%m-%d", "%H:%M" );
-?>
-
 
 <?php	include("../pg-footer-a.php"); ?>

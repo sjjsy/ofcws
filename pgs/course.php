@@ -33,7 +33,7 @@
       For whom?
     </div>
     <div class="col-md-9">
-      Anyone with some experience in martial arts
+      Anyone with a little experience in martial arts
     </div>
   </div>
   <div class="row">
@@ -360,6 +360,7 @@
   the exercise sessions.
   However, the club will be able to sell, rent or lend some equipment such
   as boxing gloves, hand wraps and mouth guards to a few participants.
+  Also, the wrestling sessions do not require boxing gloves nor shin guards.
 </p>
 
 <p>

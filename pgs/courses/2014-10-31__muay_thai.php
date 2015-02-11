@@ -41,7 +41,7 @@
       Any costs?
     </div>
     <div class="col-md-9">
-      15 euros for a non-member
+      10 euros for a non-member
     </div>
   </div>
   <div class="row">
@@ -79,6 +79,20 @@
   News
 </h3>
 
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2014-10-20
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p>
+      <strong>
+        Course fee lowered from 15€!
+      </strong>
+    </p>
+  </div>
+</div>
 <div class="row">
   <div class="col-md-3">
     <strong>
@@ -219,7 +233,7 @@
         Varies
       </td>
       <td>
-        MMA Sparring
+        Technique & Sparring?
       </td>
       <td>
         You and Me!
@@ -242,13 +256,12 @@
 
 <p>
   After this four session course the participants should have an idea
-  of what Muay Thai, <i>the art of the four limbs</i>, is,
+  of what Muay Thai, <i>the art of the eight limbs</i>, is,
   how it can be trained,
-  how some of its most essential techniques and moves can be applied,
+  how some of its most essential techniques can be applied,
   and, how martial arts can be trained safely.
   The objective is that even participants with no prior martial arts
-  experience would then be able to join the club's weekly trainings
-  (or attend a more thorough course).
+  experience would then be able to join the club's weekly trainings.
 </p>
 
 <p>
@@ -256,6 +269,14 @@
   (even those with specifically Muay Thai experience) should still
   benefit from the trainings as training the most essential basic
   techniques repeatedly is very rarely a waste of time.
+</p>
+
+<p>
+  The objectives of the course also include developing participants'
+  overall physical fitness. This is why each exercise session will
+  also contain some physically intensive exercise that will be
+  beneficial to muscular and cardiovascular development
+  irrespective of the participants' background or knowhow.
 </p>
 
 
@@ -280,14 +301,15 @@
 <p>
   Costs
   <strong>
-    only 15 euros.
+    only 10 euros.
   </strong>
   Paid either as 1) a bank transfer or 2) in cash:
   <ol>
     <li>
       <b>Bank transfer</b><br/>
-      Destination: FI27 5380 1120 0352 71<br/>
-      Message: "Muay Thai; Lastname, Firstnames"<br/>
+      Account IBAN: FI27 5380 1120 0352 71<br/>
+      Receiver: Otaniemi Fight Club<br/>
+      Message: Muay Thai; <i>Lastname, Firstnames</i><br/>
       Deadline: 2014-11-07
     </li>
     <li>
@@ -302,7 +324,7 @@
   The fee includes the 2014 fall membership for the club (right to
   attend any of our weekly trainings and other activities). Members
   who have already paid the membership fee for 2014 are eligible to
-  participate in the course for a cute fee of 5 euros.
+  participate in the course for free (please register nonetheless).
 </p>
 
 
@@ -321,7 +343,7 @@
     Experience and/or interest in martial arts
   </li>
   <li>
-    Willingness to sign the Terms of Participation
+    Willingness to sign our <i>Terms of Participation</i>
     <a href="http://bit.ly/1co4oyc">in English</a> or
     <a href="http://bit.ly/16YllRa">in Finnish</a>.
   </li>
@@ -344,7 +366,7 @@
   course that does not focus on contact sparring but instead consists
   of drills and exercises which require no special equipment.
   In addition, the club will be able to sell or lend some equipment such
-  as boxing gloves, hand wraps and mouth guards.
+  as groin guards, boxing gloves, hand wraps and mouth guards.
 </p>
 
 <p>
@@ -360,16 +382,16 @@
 
 <p>
   8+ hours of beneficial exercise, lots of sweating & quality company guaranteed
-  with a fee almost equal to zero (max. 2€/h), wrapped into an effective
+  with a fee almost equal to zero (~1€/h), wrapped into an effective
   introductory package just <b>for You!</b>
 </p>
 
 <p>
-  Yes, this course is an excellent way to (re)learn basic martial arts skills
-  and get back to training and getting fit and able.
-  You'll learn the needed Muay Thai techniques that you need for starting
-  training regularly with members of Otaniemi Fight Club at our free weekly
-  trainings. There you'll have a chance to continue exercising, learning and
+  Yes, this course is a convenient way to learn or relearn basic
+  martial arts skills and develop your physique and aptitude.
+  You'll learn the needed Muay Thai techniques that you need for
+  practicing regularly with our members at our free weekly trainings.
+  There you'll have a chance to continue exercising, learning and
   building on what the course taught you.
   If you have doubts, contact us through our Facebook group.
 </p>
@@ -384,7 +406,7 @@
     No. None whatsoever! .. In fact, I'm gonna have my mates join as well!
   </strong>
   <br/>
-  Thadda boy! ;)
+  Thadda boy/girl! ;)
   <strong>
     Go get em!
     <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php&t=Otaniemi%20Fight%20Club%3A%20Muay%20Thai">

@@ -73,18 +73,19 @@ The club offers:
 
 <p>
   We'd prefer receiving the membership fee payment as a bank transfer:
+  <ul class="list-unstyled">
+    <li>Receiver: Otaniemi Fight Club</li>
+    <li>Account IBAN: FI27 5380 1120 0352 71</li>
+    <li>Message: Membership 2015; <i>Lastname, Firstnames</i></li>
+    <li>Amount: 16 €</li>
+    <li>Deadline: Now</li>
+  </ul>
 </p>
 
-<ul class="list-unstyled">
-  <li>Receiver: Otaniemi Fight Club</li>
-  <li>Account IBAN: FI27 5380 1120 0352 71</li>
-  <li>Message: Membership 2015; <i>Lastname, Firstnames</i></li>
-  <li>Amount: 16 €</li>
-  <li>Deadline: Now</li>
-</ul>
-
-However, if you cannot do the transfer, you can also pay in cash by bringing
-the exact amount to one of the club's board members. 
+<p>
+  However, if you cannot do the transfer, you can also pay in cash by
+  bringing the exact amount to one of the club's board members.
+</p>
 
 
 <?php  include("../pg-footer.php"); ?>

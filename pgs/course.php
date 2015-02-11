@@ -395,7 +395,7 @@
     No. None whatsoever! .. In fact, I'm gonna have my mates join as well!
   </strong>
   <br/>
-  Thadda boy! ;)
+  Thadda boy/girl! ;)
   <strong>
     Go get em!
     <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fofc.ayy.fi%2Fpgs%2Fcourse.php&t=Otaniemi%20Fight%20Club%3A%20Intermediate%20Course">

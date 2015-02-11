@@ -14,8 +14,8 @@
 
 
   <div id="dcontrols">
-    <button type="button" class="btn btn-xs" onclick='glry.flckr.prev()'>prev</button> 
-    <button type="button" class="btn btn-xs" onclick='glry.flckr.next()'>next</button>
+    <button type="button" class="btn btn-xs" onclick='window.glry.flckr.prev()'>prev</button> 
+    <button type="button" class="btn btn-xs" onclick='window.glry.flckr.next()'>next</button>
 
     <div id="dmatrixnfo">
       <p>...</p>

@@ -25,7 +25,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A course on Muay Thai and Wrestling
+      A course on muay thai and wrestling
     </div>
   </div>
   <div class="row">
@@ -106,7 +106,7 @@
 
 <p>
   We at Otaniemi Fight Club are organizing an intermediary course on
-  Muay Thai and BJJ. Check out the schedule below!
+  muay thai and wrestling. Check out the schedule below!
 </p>
 
 <p>

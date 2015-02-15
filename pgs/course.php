@@ -198,7 +198,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jujutsu
+        Hokutoryu Jiujitsu
       </td>
       <td>
         TBD
@@ -240,7 +240,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jujutsu
+        Hokutoryu Jiujitsu
       </td>
       <td>
         TBD
@@ -282,7 +282,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jujutsu
+        Hokutoryu Jiujitsu
       </td>
       <td>
         TBD

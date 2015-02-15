@@ -96,6 +96,22 @@
     </p>
   </div>
 </div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2015-02-15
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p>
+      <strong>
+        Hokutoryu sessions added!
+      </strong>
+      They will be served as a side dish for the course participants that are
+      interested in the art.
+    </p>
+  </div>
+</div>
 
 
 
@@ -168,10 +184,24 @@
         Otahalli
       </td>
       <td>
-        Muay Thai I
+        Muay Thai
       </td>
       <td>
         Rantamoijanen
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2015-03-06 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
+      </td>
+      <td>
+        Hokutoryu Jujutsu
+      </td>
+      <td>
+        TBD
       </td>
     </tr>
     <tr>
@@ -182,7 +212,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling I
+        Wrestling
       </td>
       <td>
         Jussila
@@ -196,10 +226,24 @@
         Otahalli
       </td>
       <td>
-        Muay Thai II
+        Muay Thai
       </td>
       <td>
         Rantamoijanen
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2015-03-20 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
+      </td>
+      <td>
+        Hokutoryu Jujutsu
+      </td>
+      <td>
+        TBD
       </td>
     </tr>
     <tr>
@@ -210,7 +254,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling II
+        Wrestling
       </td>
       <td>
         Jussila
@@ -224,10 +268,24 @@
         Otahalli
       </td>
       <td>
-        Muay Thai III
+        Muay Thai
       </td>
       <td>
         Rantamoijanen
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2015-04-03 15:00-17:00 (Fri)
+      </td>
+      <td>
+        Otahalli
+      </td>
+      <td>
+        Hokutoryu Jujutsu
+      </td>
+      <td>
+        TBD
       </td>
     </tr>
     <tr>
@@ -238,7 +296,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling III
+        Wrestling
       </td>
       <td>
         Jussila
@@ -277,7 +335,7 @@
 <p>
   Train participants in kickboxing and wrestling sparring such that at the end
   of the course they are able to apply a variety of basic defensive and
-  offensive techniques better than beginners.
+  offensive techniques significantly better than beginners.
 </p>
 
 <p>

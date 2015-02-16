@@ -85,20 +85,6 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
-      2015-02-11
-    </strong>
-  </div>
-  <div class="col-md-9">
-    <p>
-      <strong>
-        Registration opened!
-      </strong>
-    </p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-3">
-    <strong>
       2015-02-15
     </strong>
   </div>
@@ -110,6 +96,20 @@
       They will be served as a side dish for all interested course participants.
       The topics of the sessions are yet to be determined.
       <!--They might contain some Hokutoryu Jiujitsu technique drills.-->
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2015-02-11
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <p>
+      <strong>
+        Registration opened!
+      </strong>
     </p>
   </div>
 </div>

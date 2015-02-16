@@ -105,10 +105,11 @@
   <div class="col-md-9">
     <p>
       <strong>
-        Hokutoryu sessions added!
+        Additional sessions added!
       </strong>
-      They will be served as a side dish for the course participants that are
-      interested in the art.
+      They will be served as a side dish for all interested course participants.
+      The topics of the sessions are yet to be determined.
+      <!--They might contain some Hokutoryu Jiujitsu technique drills.-->
     </p>
   </div>
 </div>
@@ -155,6 +156,10 @@
   or in Tatamisali (Jämeräntaival 5 A).
 </p>
 
+<p>
+  No Unisport membership is required.
+</p>
+
 
 <h4>
   Schedule
@@ -198,7 +203,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        TBD
       </td>
       <td>
         TBD
@@ -240,7 +245,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        TBD
       </td>
       <td>
         TBD
@@ -282,7 +287,7 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        TBD
       </td>
       <td>
         TBD
@@ -313,7 +318,6 @@
         Sparring
       </td>
       <td>
-        You and Me!
       </td>
     </tr>
   </tbody>
@@ -386,7 +390,7 @@
     Some experience in martial arts
   </li>
   <li>
-    Willingness to sign the Terms of Participation
+    Willingness to sign the <em>Terms of Participation</em>
     <a href="http://bit.ly/1co4oyc">in English</a> or
     <a href="http://bit.ly/16YllRa">in Finnish</a>.
   </li>
@@ -417,7 +421,8 @@
   We expect most of the participants to be able to bring their own gear into
   the exercise sessions.
   However, the club will be able to sell, rent or lend some equipment such
-  as boxing gloves, hand wraps and mouth guards to a few participants.
+  as hand wraps and boxing gloves, and mouth and groin guards to a few
+  participants.
   Also, the wrestling sessions do not require boxing gloves nor shin guards.
 </p>
 
@@ -439,7 +444,7 @@
 </p>
 
 <p>
-  We hope that after the course you'll participate in our weekly trainings
+  We hope that after the course you'll participate in our free weekly trainings
   where you'll have a chance to continue developing your skills and physique.
   If you have doubts, contact us through our Facebook group.
 </p>

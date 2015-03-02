@@ -25,7 +25,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A course on muay thai and submission wrestling
+      A course on muay thai, hokutoryu jiujitsu and submission wrestling
     </div>
   </div>
   <div class="row">
@@ -122,7 +122,8 @@
 
 <p>
   We at Otaniemi Fight Club are organizing an intermediary course on
-  muay thai and submission wrestling. Check out the schedule below!
+  muay thai, hokutoryu jiujitsu and submission wrestling.
+  Check out the schedule below!
 </p>
 
 <p>

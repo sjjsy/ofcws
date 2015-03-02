@@ -25,7 +25,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A course on muay thai and wrestling
+      A course on muay thai and submission wrestling
     </div>
   </div>
   <div class="row">
@@ -93,9 +93,8 @@
       <strong>
         Additional sessions added!
       </strong>
+      Three Hokutoryu Jiujitsu sessions added.
       They will be served as a side dish for all interested course participants.
-      The topics of the sessions are yet to be determined.
-      <!--They might contain some Hokutoryu Jiujitsu technique drills.-->
     </p>
   </div>
 </div>
@@ -123,7 +122,7 @@
 
 <p>
   We at Otaniemi Fight Club are organizing an intermediary course on
-  muay thai and wrestling. Check out the schedule below!
+  muay thai and submission wrestling. Check out the schedule below!
 </p>
 
 <p>
@@ -203,10 +202,10 @@
         Otahalli
       </td>
       <td>
-        TBD
+        Hokutoryu Jiujitsu
       </td>
       <td>
-        TBD
+        Marisa/Levo
       </td>
     </tr>
     <tr>
@@ -217,7 +216,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling
+        Submission Wrestling
       </td>
       <td>
         Jussila
@@ -245,10 +244,10 @@
         Otahalli
       </td>
       <td>
-        TBD
+        Hokutoryu Jiujitsu
       </td>
       <td>
-        TBD
+        Marisa/Levo
       </td>
     </tr>
     <tr>
@@ -259,7 +258,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling
+        Submission Wrestling
       </td>
       <td>
         Jussila
@@ -287,10 +286,10 @@
         Otahalli
       </td>
       <td>
-        TBD
+        Hokutoryu Jiujitsu
       </td>
       <td>
-        TBD
+        Marisa/Levo
       </td>
     </tr>
     <tr>
@@ -301,7 +300,7 @@
         Tatamisali
       </td>
       <td>
-        Wrestling
+        Submission Wrestling
       </td>
       <td>
         Jussila
@@ -337,7 +336,7 @@
 </h4>
 
 <p>
-  Train participants in kickboxing and wrestling sparring such that at the end
+  Train participants in kickboxing and submission wrestling sparring such that at the end
   of the course they are able to apply a variety of basic defensive and
   offensive techniques significantly better than beginners.
 </p>
@@ -354,6 +353,7 @@
 
 <p>
   The primary instructors will be Antti Rantamoijanen and Heikki Jussila.
+  Marisa and Levo will direct the Hokutoryu sessions.
   Read more about the club's instructors at our
   <a href="/pgs/guides.php">
     guides page.

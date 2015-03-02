@@ -180,6 +180,7 @@
     </th>
   </thead>
   <tbody>
+  <!--
     <tr>
       <td>
         2015-02-27 15:00-17:00 (Fri)
@@ -194,6 +195,7 @@
         Rantamoijanen
       </td>
     </tr>
+  -->
     <tr>
       <td>
         2015-03-06 15:00-17:00 (Fri)
@@ -352,8 +354,10 @@
 </h4>
 
 <p>
-  The primary instructors will be Antti Rantamoijanen and Heikki Jussila.
-  Marisa and Levo will direct the Hokutoryu sessions.
+  The instructors vary by session/topic
+  Antti Rantamoijanen will instruct the thai sessions,
+  Heikki Jussila the submission wrestling sessions,
+  and Marisa and Levo the Hokutoryu sessions.
   Read more about the club's instructors at our
   <a href="/pgs/guides.php">
     guides page.
@@ -438,7 +442,7 @@
 </h4>
 
 <p>
-  12+ hours of beneficial exercise, lots of sweating & quality company
+  Lots of beneficial exercise, sweating & quality company
   guaranteed with a fee almost equal to zero (&lt;2€/h), wrapped into an
   easy effective package just <b>for You!</b>
 </p>

@@ -443,7 +443,7 @@
 
 <p>
   Lots of beneficial exercise, sweating & quality company
-  guaranteed with a fee almost equal to zero (&lt;2€/h), wrapped into an
+  guaranteed with a fee almost equal to zero, wrapped into an
   easy effective package just <b>for You!</b>
 </p>
 

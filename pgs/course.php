@@ -25,7 +25,7 @@
       What?
     </div>
     <div class="col-md-9">
-      A course on muay thai, hokutoryu jiujitsu and submission wrestling
+      A course on muay thai, kickboxing and submission wrestling
     </div>
   </div>
   <div class="row">
@@ -93,7 +93,7 @@
       <strong>
         Additional sessions added!
       </strong>
-      Three Hokutoryu Jiujitsu sessions added.
+      Three kickboxing sessions added.
       They will be served as a side dish for all interested course participants.
     </p>
   </div>
@@ -122,7 +122,7 @@
 
 <p>
   We at Otaniemi Fight Club are organizing an intermediary course on
-  muay thai, hokutoryu jiujitsu and submission wrestling.
+  muay thai, kickboxing and submission wrestling.
   Check out the schedule below!
 </p>
 
@@ -181,7 +181,6 @@
     </th>
   </thead>
   <tbody>
-  <!--
     <tr>
       <td>
         2015-02-27 15:00-17:00 (Fri)
@@ -196,7 +195,6 @@
         Rantamoijanen
       </td>
     </tr>
-  -->
     <tr>
       <td>
         2015-03-06 15:00-17:00 (Fri)
@@ -205,10 +203,10 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        Kickboxing
       </td>
       <td>
-        Marisa/Levo
+        Marisa
       </td>
     </tr>
     <tr>
@@ -247,10 +245,10 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        Kickboxing
       </td>
       <td>
-        Marisa/Levo
+        Marisa
       </td>
     </tr>
     <tr>
@@ -289,10 +287,10 @@
         Otahalli
       </td>
       <td>
-        Hokutoryu Jiujitsu
+        Kickboxing
       </td>
       <td>
-        Marisa/Levo
+        Marisa
       </td>
     </tr>
     <tr>
@@ -328,7 +326,6 @@
 <br/>
 
 <p>
-  Note: We reserve the right to do minor alterations in the above schedule.
   Yes, its all in our Google Calendar. Subscribe to it at the
   <a href="/pgs/events.php">events page</a>.
 </p>
@@ -358,7 +355,7 @@
   The instructors vary by session/topic
   Antti Rantamoijanen will instruct the thai sessions,
   Heikki Jussila the submission wrestling sessions,
-  and Marisa and Levo the Hokutoryu sessions.
+  and Marisa the kickboxing sessions.
   Read more about the club's instructors at our
   <a href="/pgs/guides.php">
     guides page.

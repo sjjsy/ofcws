@@ -281,34 +281,6 @@
     </tr>
     <tr>
       <td>
-        2015-04-03 15:00-17:00 (Fri)
-      </td>
-      <td>
-        Otahalli
-      </td>
-      <td>
-        Kickboxing
-      </td>
-      <td>
-        Marisa
-      </td>
-    </tr>
-    <tr>
-      <td>
-        2015-04-04 12:00-14:00 (Sat)
-      </td>
-      <td>
-        Tatamisali
-      </td>
-      <td>
-        Submission Wrestling
-      </td>
-      <td>
-        Jussila
-      </td>
-    </tr>
-    <tr>
-      <td>
         2015-XX-XX Weekly Trainings
       </td>
       <td>

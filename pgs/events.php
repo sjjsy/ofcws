@@ -19,10 +19,11 @@
 <iframe src="https://www.google.com/calendar/embed?src=m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com&ctz=Europe/Helsinki" style="border: 0" width="600" height="600" frameborder="1" scrolling="no"></iframe>
 
 <p>
-	In the spring of 2015 we have about three trainings per week.
+	In the fall of 2015 we have about three trainings per week.
 	There will be an attendance poll in
 	<a href="http://www.facebook.com/groups/107657179302080/">Facebook</a>
-	for each training. Please, use it to indicate when you are participating.
+	for each training. Please, use it to indicate when you are participating
+	-- trainings are cancelled if there are too few people interested.
 </p>
 
 <?php	include("../pg-footer-a.php"); ?>

@@ -14,7 +14,7 @@
 <div class="container text-success" style="font-size: 1.3em;">
   <div class="row">
     <div class="col-md-3">
-      What?
+      What
     </div>
     <div class="col-md-9">
       A two hour intro to MMA with OFC
@@ -22,7 +22,7 @@
   </div>
   <div class="row">
     <div class="col-md-3">
-      For whom?
+      For whom
     </div>
     <div class="col-md-9">
       You and your friends
@@ -30,7 +30,7 @@
   </div>
   <div class="row">
     <div class="col-md-3">
-      Any costs?
+      Any costs
     </div>
     <div class="col-md-9">
       Zero, zip, nada
@@ -38,7 +38,7 @@
   </div>
   <div class="row">
     <div class="col-md-3">
-      When?
+      When
     </div>
     <div class="col-md-9">
       15:00-17:00 on the 20th of November
@@ -46,10 +46,21 @@
   </div>
   <div class="row">
     <div class="col-md-3">
-      Where?
+      Where
     </div>
     <div class="col-md-9">
       At Otahalli, Unisport Otaniemi
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      Register
+    </div>
+    <div class="col-md-9">
+      Check the
+      <a href="#register">
+        end
+      </a>
     </div>
   </div>
   <div class="row">
@@ -228,6 +239,18 @@
   <strong>
   Go get em!
   </strong>
+</p>
+
+
+<h3 id="register">
+  How to Register?
+</h3>
+
+<p>
+  Register yourself by entering your details into
+  <a href="http://bit.ly/1O0SjC4">
+    this form
+  </a> if you are going to attend.
 </p>
 
 

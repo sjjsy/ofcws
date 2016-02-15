@@ -49,8 +49,10 @@ The club offers:
 <h4 id="costs">What Does It Cost?</h4>
 
 <p>
-  The membership fee for 2015 is 16 euros. It is also possible to join for
-  only the spring or fall term. The fee for such a term is 10 euros.
+  The annual membership fee has been from 10 to 30 euros during the past years.
+  It has been also possible to join for only the spring or fall term but the
+  fee for such a term has usually been more than half of the whole year fee.
+  The details are decided annually around March.
 </p>
 
 
@@ -72,6 +74,11 @@ The club offers:
 <h4 id="payment">Paying the Fee</h4>
 
 <p>
+  The magnitude of the fee for 2016 will be decided in the Annual Meeting in
+  march. The payment DL will also be decided in the meeting.
+</p>
+<!--
+<p>
   We'd prefer receiving the membership fee payment as a bank transfer:
   <ul class="list-unstyled">
     <li>Receiver: Otaniemi Fight Club</li>
@@ -85,7 +92,7 @@ The club offers:
 <p>
   However, if you cannot do the transfer, you can also pay in cash by
   bringing the exact amount to one of the club's board members.
-</p>
+</p>-->
 
 
 <?php  include("../pg-footer.php"); ?>

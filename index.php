@@ -34,6 +34,55 @@
 <h2>News</h2>
 
 
+<!--<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2016-02-15
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      It's time to pay the membership fee!
+    </h4>
+    <p>
+      Follow the instructions <a href="/pgs/meetings/join_us.php">here</a>.
+    </p>
+  </div>
+</div>-->
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2016-02-14
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      Annual Meeting
+    </h4>
+    <p>
+      We're organizing our statutory annual meeting on the 10th of March.
+      Inform of your participation via our Facebook group!
+      Read more <a href="/pgs/meetings/annual_meeting.php">here</a>.
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2016-01-01
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      Wanna Be a Chairman?
+    </h4>
+    <p>
+      We're looking for a new person to act as chairman of the club!
+      There is very little mandatory work so in case you wan't to know about how
+      small sports associations work please contact f. ex. the chairman of 2015.
+    </p>
+  </div>
+</div>
 <!--
 <div class="row">
   <div class="col-md-3">

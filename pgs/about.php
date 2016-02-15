@@ -7,8 +7,8 @@
 <h4 id="club">The Club</h4>
 <p>
   Otaniemi Fight Club (OFC) is an association that operates under the Student
-  Union of Aalto University. The club is run by a small, but active group of
-  students with a mutual interest: martial arts.
+  Union of Aalto University. The club is run by a small group of students with
+  a mutual interest: practicing martial arts.
 </p>
 <p>
   Otaniemi Fight Club was founded on the sixth of May 2010 with a clear
@@ -40,10 +40,10 @@
 
 <p>
   President: <b>Samuel Marisa</b><br/>
-  Treasurer: <b>Jared Myren</b><br/>
-  Secretary: <b>Jesperi Rantanen</b><br/>
-  Event Coordinator: <b>Tino Tuominen</b><br/>
-  Marketing: <b>Heikki Jussila</b><br/>
+  Treasurer: <b>Heikki Jussila</b><br/>
+  Secretary: <b>Tino Tuominen</b><br/>
+  <!--Event Coordinator: <b>Tino Tuominen</b><br/>
+  Marketing: <b>Heikki Jussila</b><br/>-->
 </p>
 
 <p>
@@ -115,7 +115,7 @@
 <p>
   The club has a public
   <a href="https://www.flickr.com/groups/otaniemifightclub/">Flickr group</a>
-  which houses all our photos. It is a great resource for those who want
+  which houses all our photos. It is a great resource if you want
   to get an idea of how our trainings might look like.
 </p>
 

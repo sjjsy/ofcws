@@ -21,7 +21,7 @@
   Details:
   <ul>
     <li>
-      Time: 10th of May 19:15
+      Time: 10th of March 19:15
     </li>
     <li>
       Location: Elisa living room, Jämeräntaival 5 A, Espoo

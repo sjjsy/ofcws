@@ -22,7 +22,7 @@
 <ul>
   <li><a href="/pgs/about.php"><b>About</b></a>: general information about the club (what, how, who)</li>
   <li><a href="/pgs/events.php"><b>Events</b></a>: information about our event schedule (when)</li>
-  <li><a href="/pgs/course.php"><b>Course</b></a>: everything about the courses we organize (when, how & why attend)</li>
+<!--  <li><a href="/pgs/course.php"><b>Course</b></a>: everything about the courses we organize (when, how & why attend)</li>-->
   <li><a href="/pgs/gallery.php"><b>Gallery</b></a>: some photos off of our trainings (what does it look like in practice)</li>
   <li><a href="/pgs/why.php"><b>Why</b></a>: some thoughts on why we do MMA and why you should too (why)</li>
   <li><a href="/pgs/join_us.php"><b>Join Us</b></a>: instructions on how you should proceed ;) (what next)</li>
@@ -34,10 +34,28 @@
 <h2>News</h2>
 
 
-<!--<div class="row">
+<div class="row">
   <div class="col-md-3">
     <strong>
-      2016-02-15
+      2016-03-19
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      Course registration opened
+    </h4>
+      Our plans for the April
+      <a href="/pgs/courses/2016-04-08__kickboxing.php">
+        kickboxing course
+      </a>
+      are published!
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
+      2016-03-19
     </strong>
   </div>
   <div class="col-md-9">
@@ -48,7 +66,7 @@
       Follow the instructions <a href="/pgs/meetings/join_us.php">here</a>.
     </p>
   </div>
-</div>-->
+</div>
 <div class="row">
   <div class="col-md-3">
     <strong>
@@ -57,7 +75,7 @@
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">
-      Annual Meeting
+      Annual meeting
     </h4>
     <p>
       We're organizing our statutory annual meeting on the 10th of March.
@@ -74,7 +92,7 @@
   </div>
   <div class="col-md-9">
     <h4 style="margin-top:0px;">
-      Wanna Be a Chairman?
+      Wanna be a chairman?
     </h4>
     <p>
       We're looking for a new person to act as chairman of the club!
@@ -100,25 +118,6 @@
       Read more from
       <a href="/pgs/intro.php">
         here.
-      </a>
-    </p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-3">
-    <strong>
-      2015-02-11
-    </strong>
-  </div>
-  <div class="col-md-9">
-    <h4 style="margin-top:0px;">
-      Course Registration Opened
-    </h4>
-    <p>
-      The registration for the club's spring course has been opened!
-      Link to the registration can be found at the
-      <a href="/pgs/course.php">
-        course page.
       </a>
     </p>
   </div>

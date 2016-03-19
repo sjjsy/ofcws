@@ -13,6 +13,26 @@
 <div class="row">
   <div class="col-md-7">
     <strong>
+      Carin Aschan
+    </strong>
+    <p>
+      School: Aalto ELEC<br/>
+      Background: Kickboxing<br/>
+    </p>
+    <p>
+      Carin is our newest reinforcement! She has earned herself no less than
+      two silver medals from Finnish kickboxing championships. We are yet
+      to see how she will make us feel about our skills and endurance at the
+      tatami. One shouldn't judge a fighter by his/her smile.
+    </p>
+  </div>
+  <div class="col-md-5" style="padding:1em;">
+    <img src="/static/gfx/course/threesome__aschan.jpg" height="150px" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-7">
+    <strong>
       Antti Rantamoijanen
     </strong>
     <p>
@@ -37,7 +57,7 @@
       Heikki Jussila
     </strong>
     <p>
-      School: Aalto School of Engineering<br/>
+      School: Aalto ENG<br/>
       Background: Competetive Judo, MMA<br/>
     </p>
     <p>
@@ -58,7 +78,7 @@
       Roman Mouginot
     </strong>
     <p>
-      School: Aalto School of Engineering<br/>
+      School: Aalto ENG<br/>
       Background: Boxing and French Boxing<br/>
     </p>
     <p>
@@ -82,7 +102,7 @@
       Samuel Marisa
     </strong>
     <p>
-      School: Aalto School of Science<br/>
+      School: Aalto SCI<br/>
       Background: Hokutoryu Ju-Jutsu, BJJ, (Kick)boxing<br/>
     </p>
     <p>

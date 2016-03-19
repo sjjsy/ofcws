@@ -2,7 +2,7 @@
   $thetitle = 'Intermediate Course | ';
   $vpfss    =  array();
   $vpfss[]  = '/static/css/course.css';
-  include( "../pg-header.php" );
+  include( "../../pg-header.php" );
 ?>
 
 
@@ -10,7 +10,7 @@
 
 <b>
   A follow-up to the fall 2014 course
-  <i><a href="./courses/2014-10-31__muay_thai.php">
+  <i><a href="/pgs/courses/2014-10-31__muay_thai.php">
     Muay Thai
   </a></i>
 </b>
@@ -42,7 +42,7 @@
     </div>
     <div class="col-md-9">
       Free for members.
-      <a href="./join_us.php">
+      <a href="/pgs/join_us.php">
         Join us
       </a> if you haven't yet!
     </div>
@@ -342,7 +342,7 @@
 <p>
   You need to have a valid club membership status for this year.
   See the
-  <a href="./join_us.php">
+  <a href="/pgs/join_us.php">
     join us page
   </a>
   for instructions.
@@ -462,7 +462,7 @@
 </p>
 
 
-<?php include("../pg-footer-a.php"); ?>
+<?php include("../../pg-footer-a.php"); ?>
 
 
 

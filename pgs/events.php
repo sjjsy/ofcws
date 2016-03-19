@@ -12,7 +12,9 @@
   the lower right corner.
   Alternatively you should be able to add the calendar to a third party
   calendar app using the calendar's
-    <a href="https://www.google.com/calendar/feeds/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic">XML feed</a>.
+    <a href="https://calendar.google.com/calendar/ical/m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com/public/basic.ics">ICAL address</a>
+  or inspect the calendar with the browser using its
+    <a href="https://calendar.google.com/calendar/embed?src=m8540j7mbg1akg32rvhfb6uir4%40group.calendar.google.com&ctz=Europe/Helsinki">HTML link</a>.
   Highly recommended!
 </p>
 

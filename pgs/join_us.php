@@ -2,7 +2,7 @@
 
 <h2 id="joinus">Join Us</h2>
 
-<h4 id="why">Why?</h4>
+<h4 id="why">Why</h4>
 
 <p>
   The club exists to serve its members.
@@ -35,7 +35,7 @@ The club offers:
 </p>
 
 
-<h4 id="whocan">Who Can Join?</h4>
+<h4 id="whocan">Who Can Join</h4>
 
 <p>
   The club is primarily by and for the students of Aalto University and we
@@ -46,13 +46,14 @@ The club offers:
 </p>
 
 
-<h4 id="costs">What Does It Cost?</h4>
+<h4 id="costs">What Does It Cost</h4>
 
 <p>
-  The annual membership fee has been from 10 to 30 euros during the past years.
+<!--  The annual membership fee has been from 10 to 30 euros during the past years.
   It has been also possible to join for only the spring or fall term but the
   fee for such a term has usually been more than half of the whole year fee.
-  The details are decided annually around March.
+  The details are decided annually around March.-->
+  The membership fee for 2016 is 12€ and 8€ for just one semester.
 </p>
 
 
@@ -73,26 +74,36 @@ The club offers:
 
 <h4 id="payment">Paying the Fee</h4>
 
+<!--
 <p>
   The magnitude of the fee for 2016 will be decided in the Annual Meeting in
   march. The payment DL will also be decided in the meeting.
-</p>
-<!--
+</p>-->
 <p>
-  We'd prefer receiving the membership fee payment as a bank transfer:
+  We'd very much prefer receiving the membership fee payment as a bank transfer:
   <ul class="list-unstyled">
     <li>Receiver: Otaniemi Fight Club</li>
     <li>Account IBAN: FI27 5380 1120 0352 71</li>
-    <li>Message: Membership 2015; <i>Lastname, Firstnames</i></li>
-    <li>Amount: 16 €</li>
+    <li>Full year:</li>
+      <ul>
+      <li>Message: Membership 2016 full; <i>Lastname, Firstnames</i>
+      <li>Amount: 12 €</li>
+      </ul>
+    </li>
+    <li>Half year:</li>
+      <ul>
+      <li>Message: Membership 2016 half; <i>Lastname, Firstnames</i>
+      <li>Amount: 8 €</li>
+      </ul>
+    </li>
     <li>Deadline: Now</li>
   </ul>
 </p>
 
 <p>
-  However, if you cannot do the transfer, you can also pay in cash by
+  However, if you cannot do the transfer, it is also possible to pay in cash by
   bringing the exact amount to one of the club's board members.
-</p>-->
+</p>
 
 
 <?php  include("../pg-footer.php"); ?>

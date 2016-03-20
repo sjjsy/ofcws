@@ -128,7 +128,7 @@
         Tatamisali
       </td>
       <td>
-        Muay Thai
+        Muay thai
       </td>
       <td>
         Antti
@@ -156,10 +156,10 @@
         Tatamisali
       </td>
       <td>
-        Muay Thai
+        Muay thai
       </td>
       <td>
-        Antti
+        Samuel
       </td>
     </tr>
     <tr>
@@ -184,7 +184,7 @@
         Tatamisali
       </td>
       <td>
-        Muay Thai
+        Muay thai
       </td>
       <td>
         Antti
@@ -212,7 +212,7 @@
         Tatamisali
       </td>
       <td>
-        Muay Thai
+        Muay thai
       </td>
       <td>
         Antti
@@ -253,7 +253,7 @@
 
 
 <h4>
-  Objective
+  Objectives
 </h4>
 
 <p>
@@ -326,6 +326,13 @@
     the sheet
   </a>
   we've been using to plan the course.
+</p>
+
+<p>
+  In the muay thai trainings the focus will be in techniques relevant in
+  kickboxing with <a href="https://en.wikipedia.org/wiki/K-1">K1</a> rules.
+  So no standup grappling or throwing techniques will be exercised during
+  these sessions. Join our Monday BJJ sessions in case you want to wrestle!
 </p>
 
 <p>

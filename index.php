@@ -5,7 +5,20 @@
 
 
 <p>
-  Welcome to the official web site of Otaniemi Fight Club!
+  Welcome to the official web site of Otaniemi Fight Club (OFC)!
+</p>
+
+<p>
+  <b>
+    Sadly, OFC has run out of active people willing to organize its activities.
+  </b>
+  Thus OFC as a club is at great risk of being shut down unless we find an
+  active person willing to devote some time (preferably at least an hour a
+  month) to keeping the club running. Please read the
+  <a href="/pgs/about.php#board">
+    About page
+    </a>
+  for more info.
 </p>
 
 <p>
@@ -37,6 +50,27 @@
 <div class="row">
   <div class="col-md-3">
     <strong>
+      2016-10-19
+    </strong>
+  </div>
+  <div class="col-md-9">
+    <h4 style="margin-top:0px;">
+      OFC needs a president!
+    </h4>
+    <p>
+      OFC as a club is at great risk of being shut down unless we find an active
+      person willing to devote some time to keeping the club running. Please
+      read
+      <a href="/pgs/about.php#board">
+        About page
+        </a>
+      for more info.
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    <strong>
       2016-03-19
     </strong>
   </div>
@@ -44,6 +78,7 @@
     <h4 style="margin-top:0px;">
       Course registration opened
     </h4>
+    <p>
       Our plans for the April
       <a href="/pgs/courses/2016-04-08__kickboxing.php">
         kickboxing course

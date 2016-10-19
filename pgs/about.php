@@ -34,32 +34,50 @@
 <h4 id="board">The Board</h4>
 
 <p>
-  The club's board members are elected every year.
-  This year's board is organized thus:
+  The club's board members are elected every year. However, we were unable to
+  find a replacement for the club's chairman of the year 2015. Thus the club is
+  currently headless and is thus unable to meet its goals!
+</p>
+<p>
+  Therefore, we're looking for a new person to assume the role of the chairman
+  of the club. There is very little mandatory work so in case you wan't to know
+  about how small sports associations work or just would like to gather a group
+  of friends to wrestle and train with, please contact f. ex. the chairman of
+  2015 to discuss how he could help you start running the club.
+</p>
+<p>
+  The club does not need to continue the way it has so far: So if you have ideas
+  on what the club could do or what it shouldn't it would only be great.
 </p>
 
-<p>
+<!--<p>
   President: <b>Samuel Marisa</b><br/>
   Treasurer: <b>Heikki Jussila</b><br/>
   Secretary: <b>Tino Tuominen</b><br/>
   <!--Event Coordinator: <b>Tino Tuominen</b><br/>
   Marketing: <b>Heikki Jussila</b><br/>-->
-</p>
+</p>-->
 
 <p>
-  The board can be contacted via
+  The last board can be contacted via
   <ol>
-    <li>the <a href="http://www.facebook.com/groups/107657179302080/">Facebook group for members</a>, and if needbe via</li>
-    <li>the <a href="http://www.facebook.com/groups/122032444635141/">Facebook group of the board</a>.</li>
     <li>the board's mailing list: <?php echo hide_email('ofc-hallitus@list.ayy.fi'); ?>,</li>
     <li>phone: 0408415877 (President; only if the matter is urgent),</li>
   </ol>
 </p>
 
 <p>
+  We also encourage you to use our Facebook groups to ask questions or discuss stuff:
+  <ol>
+    <li>the <a href="http://www.facebook.com/groups/107657179302080/">Facebook group for members</a></li>
+    <li>the <a href="http://www.facebook.com/groups/122032444635141/">Facebook group of the board</a>.</li>
+  </ol>
+</p>
+
+<!--<p>
   You can also give us feedback, share ideas or write us anything you have on your mind using
   <a href="http://bit.ly/164pG4K">this form</a>. We'll be happy to hear from you!
-</p>
+</p>-->
 
 
 <h5 id="pboards">Past Boards</h5>

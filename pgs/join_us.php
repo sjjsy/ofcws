@@ -2,6 +2,20 @@
 
 <h2 id="joinus">Join Us</h2>
 
+<p>
+  <b>
+    Sadly, OFC has run out of active people willing to organize its activities.
+  </b>
+  Thus <b>this page is deprecated!</b>
+  In fact, OFC as a club is at great risk of being completely shut down unless
+  we find an active person willing to devote some time (preferably at least an
+  hour a month) to keeping the club running. Please read the
+  <a href="/pgs/about.php#board">
+    About page
+    </a>
+  for more info.
+</p>
+
 <h4 id="why">Why</h4>
 
 <p>

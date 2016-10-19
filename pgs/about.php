@@ -48,14 +48,16 @@
 <p>
   The club does not need to continue the way it has so far: So if you have ideas
   on what the club could do or what it shouldn't it would only be great.
+  As assets, the club has some martial arts training equipment and cash to help
+  you get started.
 </p>
 
 <!--<p>
   President: <b>Samuel Marisa</b><br/>
   Treasurer: <b>Heikki Jussila</b><br/>
   Secretary: <b>Tino Tuominen</b><br/>
-  <!--Event Coordinator: <b>Tino Tuominen</b><br/>
-  Marketing: <b>Heikki Jussila</b><br/>-->
+  Event Coordinator: <b>Tino Tuominen</b><br/>
+  Marketing: <b>Heikki Jussila</b><br/>
 </p>-->
 
 <p>

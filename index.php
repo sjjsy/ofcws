@@ -2,7 +2,7 @@
   
   <div>
         <div class="image-container">
-          <img src="/static/gfx/ofc.png" style="width:100%;"/>
+          <img src="/static/gfx/ofc.png" class="main-image" style="width:100%;"/>
           <div class="image-centered-text">
             <h1 class="main-text">Otaniemi Fight Club</h1>
             <!--<img src="/static/gfx/logo.png" class="ofc-logo" style="width: 40%;height:40%;"/>-->
@@ -12,7 +12,7 @@
       </div>
   <div class="content-container">
   <p>
-    Otaniemi Fight Club is a sports association operating under the Student Union of Aalto University with a mission: to increase the opportunities of Aalto students to engage in & practice martial arts in its many forms. Participating in our activities is as simple as being active in this Facebook group and attending the events organized by the club or our members themselves.
+    <b>Otaniemi Fight Club</b> is a sports association operating under the <a href="https://ayy.fi/en/" class="ayy">Student Union of Aalto University (AYY)</a> with a mission: to increase the opportunities of Aalto students to engage in and practice martial arts in its many forms. Participating in our activities is as simple as being active in our <a href="https://www.facebook.com/groups/otaniemifightclub/" class="ofc">Facebook Group</a> and attending the events organized by the club or our members themselves.
     <a href="/pgs/about.php#board">
       About page
       </a>

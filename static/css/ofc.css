@@ -3,7 +3,7 @@
 
 
 body {
-  background:        #777;
+  background:        #000;
   min-height:        100%;
   padding:           50px 0px;
 }
@@ -19,18 +19,39 @@ body {
 {
   background:        #111;
 }
-
+*{
+  color: white;
+  
+}
+@media only screen and (max-width: 641px)
+  {  
+        text-align: center;
+  }
 
 #dcontainer
 {
-  background:        #FFF;
+  padding: 50px;
+  background:        #000;
+  color: #fff;
 }
 
+b {
+  color: red;
+}
 /*.row
 {
   background:        #FFF;
 }*/
+a {
+  color: red;
 
+}
+a:focus {
+  color: yellow;
+}
+a:hover {
+  color: yellow;
+}
 
 h1 {
   text-align:      center;
@@ -72,7 +93,8 @@ h1 {
 
 #theleft .panel, #theright .panel
 {
-  padding:           10px;
+  padding: 10px;
+  margin-right: 30px;
 }
 
 @media only screen and (max-width : 991px)
@@ -85,17 +107,48 @@ h1 {
 
 @media only screen and (max-height : 700px)
 {
-  .navbar-fixed-bottom
+  
   {
     display: none;
   }
 }
-
+.navbar-fixed-bottom {
+  border-top: 3px dotted red;
+}
 
 .clear {
   clear:         both;
 }
 
+.content-container {
+  padding: 5% 5%;
+}
+
+.image-centered-text {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    width :100%;
+    transform: translate(-50%, -50%);
+}
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+.ofc-logo {
+  width: 50px;
+  height: 50px;
+}
+.main-text{
+  width: 100%;
+  color: white;
+  font-weight: heavy;
+  font-size: 5vw !important;
+  background: rgba(225,0,0,0.9);
+
+}
 
 /*.loader {*/
 /*  position:    fixed;*/

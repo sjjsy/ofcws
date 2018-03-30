@@ -1,4 +1,5 @@
 <?php $thetitle='Why MMA? | '; include("../pg-header.php"); ?>
+<?php include("../sidebar.php"); ?>
 
 
 <h2>Why Mixed Martial Arts?</h2>
@@ -323,29 +324,6 @@
 </h4>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3yF6pelugKE" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-<h3 id="videoextra">
-  Videos With No Direct Relation to MMA
-</h3>
-
-
-<h4>
-  On overcoming yourself
-</h4>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/mFLKxAqE5fA" frameborder="0" allowfullscreen></iframe>
-
-
-<h4>
-  A must watch (totally unrelated)
-</h4>
-
-<!-- Everybody's Free To Wear SUNSCREEN! (ORIGINAL) + English -->
-<iframe width="560" height="315" src="//www.youtube.com/embed/xfq_A8nXMsQ" frameborder="0" allowfullscreen></iframe>
-
 
 
 

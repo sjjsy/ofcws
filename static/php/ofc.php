@@ -7,11 +7,24 @@
   function list_boards()
   {
     // create an array to hold the data
-    $years  = array( "2015", "2014", "2013", "2012", "2010-11" );
+    $years  = array("2018", "2017","2016", "2015", "2014", "2013", "2012", "2010-11" );
     $posts  = array( "President", "Vice President", "Treasurer", "Secretary", "Event Coordinator", "Marketing" );
     $oposts = array( "Inspector" );
 
     $boards = array(
+      "2018" => array(
+        "President"         => "Emil Mattsson",
+        "Treasurer"         => "Sebastian Nikolov",
+        "Secretary"         => "Mikko Syrjälä",
+        "Inspector"         => array( "Elias Mikkola", "Samuel Marisa" ),
+      ),
+      "2017" => array(
+        "President"         => "Elias Mikkola",
+        "Treasurer"         => "Samuel Marisa",
+        "Secretary"         => "Jesse Miettinen",
+        "Marketing"         => "Mikko Syrjälä",
+        "Inspector"         => array( "Heikki Jussila" ),
+      ),
       "2016" => array(
         "President"         => "Samuel Marisa",
         "Treasurer"         => "Heikki Jussila",

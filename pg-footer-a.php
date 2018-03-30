@@ -3,7 +3,7 @@
     <nav class="navbar navbar-inverse navbar-fixed-bottom">
       <div style="text-align: center;">
         <small>
-          Created 2013-02-07, Modified 2016-10-19 <br/>
+          Created 2013-02-07, Modified 2018-03-30 <br/>
           All Rights Reserved / Otaniemi Fight Club
         </small>
       </div>
